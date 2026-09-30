@@ -1,0 +1,1526 @@
+order_id,order_date,customer_id,customer_age,gender,state,sales_channel,product_category,product_name,quantity,unit_price_ngn,discount_pct,payment_method,delivery_days,customer_rating,returned
+ORD100294,2025-11-24,CUST1260,56.0,Male,Delta,Website,Fashion,Sneakers,1,30800.0,0,Pay on Delivery,1.0,4.0,0
+ORD101002,2025-07-23,CUST1374,27.0,Female,Ogun,WhatsApp,Home & Kitchen,Standing Fan,1,40200.0,0,Card,2.0,5.0,0
+ORD101285,2025-01-18,CUST1121,32.0,Female,Anambra,Mobile App,ELECTRONICS,Smartphone,2,121300.0,10,Bank Transfer,6.0,3.0,0
+ORD100043,2025-12-07,CUST1344,45.0,Male,Rivers,Website,Fashion,Handbag,2,22800.0,0,Pay on Delivery,3.0,3.0,0
+ORD101105,2025-03-08,CUST1540,20.0,Female,Enugu,Website,Electronics,Power Bank,3,11400.0,10,Pay on Delivery,7.0,,0
+ORD101221,2025-07-21,CUST1098,37.0,Female,Lagos,Website,Electronics,Power Bank,1,12200.0,20,USSD,4.0,3.0,0
+ORD100758,2025-02-16,CUST1260,25.0,Female,Oyo,WhatsApp,Beauty,Shea Butter Set,1,9100.0,0,USSD,4.0,5.0,0
+ORD100731,2025-11-30,CUST1316,45.0,Female,Ogun,Mobile App,Beauty,Perfume,1,26100.0,0,Bank Transfer,2.0,5.0,0
+ORD100643,2025-12-04,CUST1290,21.0,Female,Kaduna,Website,Electronics,Earbuds,1,15800.0,20,Bank Transfer,3.0,4.0,0
+ORD100718,2025-03-28,CUST1107,51.0,Male,Enugu,Physical Store,Beauty,Perfume,1,27600.0,0,Pay on Delivery,0.0,5.0,0
+ORD100813,2025-04-14,CUST1215,47.0,Male,Kano,WhatsApp,Electronics,Smartphone,2,125900.0,0,Card,9.0,2.0,0
+ORD100383,2025-03-29,CUST1036,30.0,Male,Kano,Mobile App,Groceries,Indomie Carton,2,8300.0,0,Card,3.0,5.0,0
+ORD100694,2025-02-02,CUST1580,41.0,Female,Lagos,WhatsApp,Home & Kitchen,Standing Fan,1,43200.0,0,Card,4.0,5.0,0
+ORD100071,2025-03-11,CUST1561,52.0,Male,Ogun,Mobile App,Beauty,Shea Butter Set,1,9300.0,0,Card,3.0,2.0,0
+ORD100350,2025-12-26,CUST1376,46.0,Male,Abuja FCT,Mobile App,Electronics,Bluetooth Speaker,1,25200.0,0,,8.0,5.0,0
+ORD100409,2025-01-06,CUST1455,38.0,Female,Lagos,Mobile App,Electronics,Earbuds,1,14500.0,15,Pay on Delivery,4.0,4.0,0
+ORD101011,2025-10-19,CUST1003,49.0,Male,Ogun,Website,Electronics,Smartphone,1,126800.0,10,Card,3.0,4.0,1
+ORD100883,2025-02-26,CUST1207,32.0,Male,Rivers,Mobile App,Fashion,Ankara Dress,3,17500.0,15,Bank Transfer,5.0,3.0,0
+ORD100871,2025-03-15,CUST1288,35.0,Female,Kaduna,Physical Store,Electronics,Earbuds,1,15900.0,15,Pay on Delivery,0.0,5.0,0
+ORD100467,2025-08-06,CUST1514,42.0,Male,Kaduna,Website,Fashion,Agbada,3,53500.0,10,Card,7.0,4.0,0
+ORD101206,2025-07-08,CUST1135,29.0,Female,Abuja FCT,Website,Electronics,Smartphone,3,116400.0,15,Card,3.0,2.0,1
+ORD100680,2025-09-22,CUST1483,39.0,Female,Enugu,Mobile App,Home & Kitchen,Standing Fan,1,41300.0,15,Bank Transfer,6.0,,0
+ORD101475,2025-04-21,CUST1579,45.0,Female,Lagos,WhatsApp,Groceries,Garri 10kg,1,9300.0,0,USSD,3.0,5.0,0
+ORD100746,2025-07-14,CUST1476,27.0,Male,Abuja FCT,WhatsApp,Electronics,Laptop,1,453400.0,20,Bank Transfer,4.0,4.0,0
+ORD100754,2025-07-22,CUST1132,36.0,Female,Rivers,Website,Fashion,Agbada,2,55300.0,20,Bank Transfer,6.0,4.0,0
+ORD101061,2025-09-08,CUST1032,23.0,Male,Rivers,Mobile App,Groceries,Rice 50kg,4,80300.0,0,Card,6.0,5.0,0
+ORD101081,2025-12-28,CUST1577,43.0,Female,Oyo,Website,Electronics,Smartphone,3,124700.0,15,,7.0,3.0,0
+ORD101010,2025-04-09,CUST1136,37.0,Female,Abuja,Physical Store,Electronics,Earbuds,1,14600.0,15,Pay on Delivery,0.0,4.0,0
+ORD101294,2025-12-14,CUST1347,27.0,Male,Ogun,Mobile App,Home & Kitchen,Standing Fan,2,44500.0,10,USSD,5.0,3.0,0
+ORD100474,2025-08-20,CUST1072,35.0,Male,Oyo,Mobile App,Groceries,Garri 10kg,3,9700.0,20,Bank Transfer,6.0,4.0,0
+ORD100837,2025-03-14,CUST1377,49.0,Female,Delta,WhatsApp,Electronics,Smartphone,3,116200.0,5,Pay on Delivery,3.0,5.0,0
+ORD100140,2025-12-25,CUST1476,36.0,Female,oyo,WhatsApp,Fashion,Sneakers,1,29500.0,10,Card,4.0,4.0,0
+ORD101366,2025-04-21,CUST1317,,Female,Rivers,Website,Fashion,Handbag,1,23400.0,5,Pay on Delivery,1.0,,0
+ORD100179,2025-07-02,CUST1273,27.0,Male,Delta,Mobile App,Groceries,Indomie Carton,5,8900.0,0,USSD,6.0,,0
+ORD100354,2025-12-20,CUST1374,18.0,Male,Lagos,WhatsApp,Fashion,Handbag,1,21000.0,20,Pay on Delivery,5.0,3.0,0
+ORD100748,2025-04-25,CUST1307,32.0,Female,Oyo,Physical Store,Fashion,Agbada,2,56600.0,0,Card,0.0,3.0,0
+ORD100716,2025-07-08,CUST1342,42.0,Female,Lagos,Mobile App,Home & Kitchen,Pressure Pot,3,33800.0,15,Bank Transfer,3.0,5.0,1
+ORD100691,2025-12-25,CUST1425,27.0,Female,Enugu,Website,Groceries,Garri 10kg,4,9300.0,0,USSD,8.0,4.0,0
+ORD100737,2025-05-02,CUST1084,32.0,Male,Lagos,Physical Store,Home & Kitchen,Standing Fan,2,40200.0,0,Card,0.0,,0
+ORD100653,2025-10-21,CUST1127,33.0,Male,Kano,Website,Electronics,Power Bank,2,11400.0,0,Pay on Delivery,7.0,,0
+ORD100454,2025-11-23,CUST1421,19.0,Male,Rivers,Mobile App,Beauty,Perfume,1,24700.0,20,Pay on Delivery,2.0,4.0,0
+ORD101367,2025-12-23,CUST1561,30.0,Male,Abuja FCT,Website,Groceries,Vegetable Oil 5L,3,13200.0,10,Pay on Delivery,2.0,3.0,0
+ORD100781,2025-08-21,CUST1512,29.0,Female,Lagos,Physical Store,Home & Kitchen,Standing Fan,1,41900.0,15,Bank Transfer,0.0,4.0,0
+ORD100832,2025-06-15,CUST1537,18.0,Male,Lagos,Website,Fashion,Sneakers,3,32300.0,15,Card,3.0,3.0,0
+ORD101370,2025-11-18,CUST1564,41.0,Male,Abuja,Website,Fashion,Ankara Dress,1,19100.0,0,Bank Transfer,5.0,5.0,0
+ORD101131,2025-09-02,CUST1241,25.0,Female,Lagos,Mobile App,Groceries,Vegetable Oil 5L,5,13100.0,15,USSD,-1.0,3.0,1
+ORD100060,2025-11-30,CUST1433,54.0,Male,Lagos,Physical Store,Groceries,Garri 10kg,3,9100.0,15,Pay on Delivery,0.0,5.0,0
+ORD100414,2025-01-07,CUST1231,31.0,Female,Ogun,Website,FASHION,Agbada,100,55300.0,10,Bank Transfer,3.0,3.0,0
+ORD100095,2025-04-16,CUST1373,33.0,Male,Lagos,Mobile App,Electronics,Smartphone,1,114600.0,20,USSD,4.0,4.0,0
+ORD100860,2025-12-20,CUST1087,32.0,Female,Kaduna,Physical Store,Fashion,Handbag,1,22900.0,20,,0.0,2.0,0
+ORD100263,2025-12-04,CUST1341,38.0,Male,Kaduna,Physical Store,Fashion,Sneakers,1,30400.0,0,Pay on Delivery,0.0,,0
+ORD101382,2025-05-07,CUST1358,52.0,Female,enugu,Website,Electronics,Bluetooth Speaker,1,25200.0,10,Card,3.0,5.0,0
+ORD100146,2025-01-13,CUST1487,47.0,Female,Ogun,Mobile App,Home & Kitchen,Gas Cooker,1,65500.0,5,Card,4.0,4.0,0
+ORD100619,2025-02-21,CUST1597,44.0,Male,Ogun,Mobile App,Beauty,Hair Extensions,3,32900.0,10,Bank Transfer,3.0,4.0,0
+ORD100611,2025-06-18,CUST1261,30.0,Male,Kaduna,Mobile App,Fashion,Sneakers,1,32200.0,5,Card,7.0,3.0,0
+ORD100407,2025-12-18,CUST1483,32.0,Female,Delta,Mobile App,Electronics,Laptop,2,463300.0,0,,7.0,2.0,0
+ORD100432,2025-12-24,CUST1130,34.0,Male,Oyo,WhatsApp,Beauty,Perfume,1,25600.0,20,Bank Transfer,3.0,4.0,0
+ORD100771,2025-12-27,CUST1278,24.0,Male,FCT,Physical Store,Beauty,Shea Butter Set,1,10000.0,5,USSD,0.0,5.0,0
+ORD100325,2025-03-26,CUST1046,29.0,Female,Kano,Mobile App,Home & Kitchen,Standing Fan,3,44900.0,15,Pay on Delivery,4.0,4.0,0
+ORD100414,2025-01-07,CUST1231,31.0,Female,Ogun,Website,FASHION,Agbada,100,55300.0,10,Bank Transfer,3.0,3.0,0
+ORD101441,2025-07-07,CUST1294,18.0,Female,Anambra,Website,Fashion,Sneakers,1,29000.0,15,Card,3.0,4.0,0
+ORD100116,2025-01-14,CUST1513,32.0,Female,Kano,Website,Electronics,Smartphone,3,116200.0,10,Pay on Delivery,6.0,2.0,0
+ORD100111,2025-10-12,CUST1285,26.0,Female,Ogun,Physical Store,Electronics,Power Bank,3,11900.0,10,,0.0,4.0,0
+ORD100101,2025-03-14,CUST1531,26.0,Female,Abuja,Physical Store,Electronics,Laptop,3,434900.0,5,Card,0.0,4.0,0
+ORD101162,2025-11-06,CUST1492,24.0,Male,FCT,Website,Home & Kitchen,Blender,3,27200.0,20,Card,7.0,3.0,0
+ORD100363,2025-11-23,CUST1378,24.0,Male,Rivers,Website,Groceries,Vegetable Oil 5L,4,14600.0,0,Card,3.0,3.0,0
+ORD100200,2025-05-14,CUST1012,38.0,Female,rivers,Physical Store,Home & Kitchen,Standing Fan,1,41000.0,0,Bank Transfer,0.0,4.0,0
+ORD101056,2025-11-07,CUST1237,34.0,Female,Enugu,WhatsApp,Fashion,Handbag,1,23200.0,15,Card,7.0,5.0,0
+ORD100983,2025-08-25,CUST1576,37.0,Male,Lagos,Physical Store,Electronics,Laptop,2,440400.0,0,Pay on Delivery,0.0,,0
+ORD101420,2025-12-13,CUST1539,34.0,Male,Delta,Website,Fashion,Agbada,1,52700.0,0,Pay on Delivery,5.0,5.0,0
+ORD100488,2025-10-07,CUST1161,26.0,Female,kano,WhatsApp,Electronics,Bluetooth Speaker,3,25100.0,0,USSD,6.0,4.0,0
+ORD100141,2025-03-20,CUST1413,28.0,Male,Abuja FCT,Mobile App,Electronics,Earbuds,1,15400.0,0,Bank Transfer,1.0,5.0,0
+ORD100830,2025-03-31,CUST1439,38.0,Male,Lagos,Mobile App,Fashion,Agbada,1,53600.0,15,Card,3.0,4.0,0
+ORD100870,2025-06-16,CUST1266,29.0,Female,Abuja,Mobile App,Fashion,Sneakers,3,31300.0,0,Bank Transfer,7.0,,0
+ORD101201,2025-11-23,CUST1498,24.0,Female,Rivers,Website,Home & Kitchen,Blender,3,28500.0,0,USSD,3.0,,0
+ORD100172,2025-10-09,CUST1287,29.0,Female,Kano,WhatsApp,Groceries,Vegetable Oil 5L,3,14500.0,0,Bank Transfer,5.0,5.0,0
+ORD101046,2025-03-29,CUST1475,34.0,Male,Lagos,Website,Electronics,Power Bank,3,12800.0,20,Pay on Delivery,5.0,3.0,0
+ORD100630,2025-09-26,CUST1337,39.0,Male,Abuja FCT,WhatsApp,Electronics,Power Bank,2,12700.0,10,USSD,1.0,5.0,0
+ORD100621,2025-06-24,CUST1411,42.0,Female,Anambra,Physical Store,Electronics,Bluetooth Speaker,1,25900.0,15,Pay on Delivery,0.0,5.0,0
+ORD100127,2025-10-07,CUST1462,23.0,Male,FCT,WhatsApp,Electronics,Earbuds,1,14700.0,0,Pay on Delivery,2.0,5.0,0
+ORD100564,2025-12-01,CUST1194,27.0,Female,FCT,Physical Store,Beauty,Hair Extensions,1,33500.0,0,Bank Transfer,0.0,3.0,0
+ORD100898,2025-01-26,CUST1205,40.0,Female,FCT,Mobile App,Electronics,Laptop,1,433400.0,0,Pay on Delivery,3.0,4.0,1
+ORD100586,2025-09-09,CUST1103,,Male,Oyo,Mobile App,Fashion,Agbada,3,53800.0,10,Bank Transfer,7.0,4.0,0
+ORD100531,2025-03-02,CUST1403,,Female,Lagos,Website,Electronics,Power Bank,1,11800.0,0,Bank Transfer,5.0,,1
+ORD100504,2025-04-11,CUST1122,46.0,Female,Rivers,Website,Groceries,Garri 10kg,3,9000.0,20,Bank Transfer,3.0,4.0,0
+ORD100927,2025-04-20,CUST1105,46.0,Male,Delta,Mobile App,Home & Kitchen,Blender,2,28700.0,0,USSD,-1.0,,0
+ORD100063,2025-12-20,CUST1288,21.0,Male,Lagos,Website,BEAUTY,Shea Butter Set,1,10200.0,10,Card,5.0,3.0,0
+ORD100610,2025-11-01,CUST1107,20.0,Male,Kano,Website,Groceries,Vegetable Oil 5L,3,12900.0,10,USSD,8.0,3.0,0
+ORD101455,2025-01-24,CUST1168,43.0,Male,Abuja FCT,Website,Fashion,Handbag,2,23300.0,5,Bank Transfer,8.0,3.0,0
+ORD100058,2025-09-29,CUST1057,42.0,Female,Kano,Mobile App,Electronics,Power Bank,2,12400.0,20,Card,6.0,1.0,0
+ORD100210,2025-04-06,CUST1576,23.0,Female,FCT,Physical Store,Fashion,Ankara Dress,2,17700.0,15,Bank Transfer,0.0,5.0,0
+ORD100693,2025-11-06,CUST1193,31.0,Male,Lagos,WhatsApp,Groceries,Vegetable Oil 5L,1,14500.0,0,Card,2.0,4.0,0
+ORD100452,2025-07-02,CUST1425,30.0,Female,Lagos,Website,Electronics,Smartphone,1,122200.0,15,Bank Transfer,1.0,5.0,0
+ORD100412,2025-04-12,CUST1174,34.0,Female,Rivers,Physical Store,Groceries,Garri 10kg,1,9100.0,15,Pay on Delivery,0.0,5.0,0
+ORD101211,2025-10-13,CUST1272,33.0,Male,Lagos,Website,Fashion,Agbada,1,57300.0,0,Card,1.0,5.0,0
+ORD100374,2025-11-20,CUST1268,23.0,Female,Abuja,Website,Groceries,Indomie Carton,1,8400.0,5,Bank Transfer,3.0,5.0,0
+ORD100901,2025-01-16,CUST1381,19.0,Female,Lagos,Mobile App,Home & Kitchen,Pressure Pot,1,33400.0,0,USSD,5.0,3.0,0
+ORD100674,2025-08-15,CUST1563,45.0,Female,Kaduna,Mobile App,Home & Kitchen,Standing Fan,1,42500.0,10,,5.0,3.0,0
+ORD100117,2025-02-21,CUST1266,,Female,Lagos,WhatsApp,Groceries,Indomie Carton,3,8200.0,0,Card,1.0,3.0,0
+ORD101283,2025-10-20,CUST1001,32.0,Male,Abuja FCT,Mobile App,Electronics,Earbuds,1,14300.0,0,Card,6.0,4.0,1
+ORD100701,2025-08-13,CUST1310,30.0,Female,Abuja,Mobile App,Electronics,Bluetooth Speaker,1,24900.0,15,Card,1.0,3.0,0
+ORD100206,2025-10-06,CUST1382,38.0,Female,FCT,Physical Store,Electronics,Power Bank,1,12200.0,0,Bank Transfer,0.0,5.0,0
+ORD101287,2025-12-07,CUST1467,38.0,Male,Kano,Website,Electronics,Smartphone,1,120900.0,15,Card,7.0,,0
+ORD100609,2025-11-10,CUST1589,24.0,Female,Oyo,Website,Electronics,Bluetooth Speaker,1,26100.0,10,Card,5.0,3.0,0
+ORD100361,2025-11-22,CUST1580,38.0,Male,Rivers,WhatsApp,Fashion,Ankara Dress,1,17800.0,0,Card,3.0,5.0,0
+ORD100204,2025-06-16,CUST1282,18.0,Female,Kaduna,Website,Beauty,Shea Butter Set,1,9800.0,15,Card,7.0,5.0,0
+ORD100027,2025-10-28,CUST1021,,Female,Rivers,WhatsApp,Home & Kitchen,Gas Cooker,1,62000.0,0,Pay on Delivery,1.0,4.0,0
+ORD101145,2025-06-26,CUST1518,28.0,Male,Oyo,WhatsApp,Electronics,Power Bank,3,11700.0,15,Bank Transfer,8.0,3.0,0
+ORD100009,2025-02-04,CUST1491,18.0,Female,Lagos,Mobile App,Home & Kitchen,Pressure Pot,2,33800.0,5,Bank Transfer,1.0,3.0,0
+ORD101427,2025-11-26,CUST1515,36.0,Female,Rivers,WhatsApp,Electronics,Bluetooth Speaker,1,26400.0,0,Bank Transfer,2.0,4.0,0
+ORD101088,2025-08-26,CUST1484,39.0,Male,Kaduna,Mobile App,Electronics,Bluetooth Speaker,3,24600.0,0,Card,9.0,,0
+ORD100984,2025-08-03,CUST1132,37.0,Male,Enugu,Website,Fashion,Agbada,1,54700.0,15,USSD,6.0,3.0,0
+ORD101094,2025-04-30,CUST1139,42.0,Female,Lagos,Mobile App,Electronics,Earbuds,2,14400.0,0,Card,4.0,4.0,0
+ORD101343,2025-07-29,CUST1299,24.0,Male,Delta,Mobile App,Electronics,Earbuds,2,15200.0,10,Card,4.0,2.0,0
+ORD100869,2025-11-18,CUST1374,55.0,Male,Anambra,Physical Store,Fashion,Handbag,1,22400.0,15,Card,0.0,5.0,0
+ORD100930,2025-07-16,CUST1096,30.0,Female,Delta,Mobile App,Groceries,Indomie Carton,2,8200.0,15,USSD,4.0,3.0,0
+ORD100699,2025-02-04,CUST1106,29.0,Female,kano,Website,Fashion,Agbada,1,55500.0,0,Bank Transfer,6.0,,0
+ORD100518,2025-06-23,CUST1137,28.0,Male,Ogun,Mobile App,Groceries,Garri 10kg,3,8800.0,10,Card,4.0,,0
+ORD100816,2025-12-03,CUST1097,36.0,Male,Lagos,Mobile App,Fashion,Handbag,2,23400.0,10,Pay on Delivery,5.0,,1
+ORD100348,2025-03-07,CUST1541,30.0,Male,Lagos,Mobile App,Home & Kitchen,Standing Fan,1,43300.0,15,Bank Transfer,3.0,4.0,0
+ORD101309,2025-11-23,CUST1200,29.0,Male,Anambra,WhatsApp,Groceries,Indomie Carton,2,8700.0,0,Card,3.0,5.0,0
+ORD100720,2025-02-20,CUST1265,19.0,Female,Lagos,Physical Store,Groceries,Vegetable Oil 5L,2,13500.0,10,Bank Transfer,0.0,4.0,0
+ORD101266,2025-01-21,CUST1542,29.0,Male,Kaduna,Physical Store,Fashion,Agbada,1,53400.0,10,Card,0.0,3.0,0
+ORD101128,2025-07-23,CUST1127,35.0,Male,Delta,Website,Home & Kitchen,Pressure Pot,1,35500.0,0,USSD,6.0,4.0,0
+ORD101394,2025-03-20,CUST1350,28.0,Female,Rivers,Physical Store,Fashion,Agbada,1,55400.0,15,Card,0.0,3.0,0
+ORD100313,2025-04-13,CUST1542,33.0,Female,Lagos,Website,Groceries,Rice 50kg,3,80500.0,10,Pay on Delivery,5.0,4.0,0
+ORD100167,2025-03-02,CUST1074,30.0,Female,Oyo,Physical Store,Electronics,Smartphone,1,122300.0,0,Pay on Delivery,0.0,3.0,0
+ORD100358,2025-02-03,CUST1430,29.0,Male,Abuja FCT,Website,Groceries,Garri 10kg,3,9600.0,10,Bank Transfer,4.0,4.0,0
+ORD100620,2025-12-19,CUST1226,21.0,Female,Abuja,Mobile App,Groceries,Rice 50kg,4,78600.0,0,Pay on Delivery,7.0,3.0,0
+ORD100017,2025-11-04,CUST1414,43.0,Female,Kano,Website,Electronics,Earbuds,1,15700.0,5,Card,7.0,4.0,0
+ORD101282,2025-05-24,CUST1075,39.0,Female,Rivers,Physical Store,Groceries,Vegetable Oil 5L,5,13000.0,0,Pay on Delivery,0.0,,0
+ORD101167,2025-05-26,CUST1452,26.0,Male,Lagos,WhatsApp,Fashion,Sneakers,2,29300.0,5,Bank Transfer,3.0,5.0,0
+ORD100907,2025-03-05,CUST1590,26.0,Female,Kaduna,Website,Beauty,Shea Butter Set,2,9100.0,5,Card,7.0,,0
+ORD100845,2025-01-02,CUST1046,43.0,Male,Anambra,Mobile App,Groceries,Vegetable Oil 5L,5,13400.0,5,Bank Transfer,2.0,4.0,0
+ORD100118,2025-12-08,CUST1171,18.0,Male,Oyo,Website,Electronics,Power Bank,1,11500.0,0,Card,4.0,2.0,0
+ORD100640,2025-09-02,CUST1174,31.0,Male,lagos,WhatsApp,Electronics,Earbuds,3,14500.0,0,USSD,3.0,5.0,0
+ORD101433,2025-07-25,CUST1589,47.0,Male,Lagos,Website,Fashion,Handbag,3,22800.0,15,Bank Transfer,3.0,,0
+ORD101319,2025-05-25,CUST1493,37.0,Female,Delta,Mobile App,Fashion,Sneakers,1,29900.0,10,Card,3.0,5.0,0
+ORD100415,2025-09-05,CUST1301,24.0,Male,Abuja,WhatsApp,Electronics,Bluetooth Speaker,1,25600.0,0,Pay on Delivery,4.0,4.0,0
+ORD100262,2025-04-20,CUST1502,36.0,Female,Lagos,Mobile App,Electronics,Power Bank,3,12500.0,5,Bank Transfer,7.0,,0
+ORD100510,2025-12-21,CUST1525,20.0,Male,Anambra,Mobile App,Beauty,Shea Butter Set,1,9400.0,0,Card,2.0,4.0,0
+ORD100597,2025-10-12,CUST1580,34.0,Female,Kano,Mobile App,Beauty,Perfume,3,25800.0,0,Bank Transfer,6.0,,0
+ORD101466,2025-12-14,CUST1282,30.0,Male,Anambra,Website,Electronics,Power Bank,3,11800.0,0,Card,3.0,4.0,0
+ORD101062,2025-02-22,CUST1022,31.0,Female,Kaduna,Website,Electronics,Smartphone,1,129200.0,0,Pay on Delivery,6.0,5.0,0
+ORD100739,2025-11-24,CUST1444,45.0,Male,Lagos,Mobile App,Fashion,Agbada,3,57300.0,0,Card,4.0,4.0,0
+ORD100447,2025-12-15,CUST1110,18.0,Female,Anambra,Mobile App,Home & Kitchen,Gas Cooker,1,67000.0,0,Bank Transfer,4.0,4.0,0
+ORD101077,2025-03-02,CUST1231,35.0,Male,Lagos,Website,Groceries,Vegetable Oil 5L,3,13500.0,15,Pay on Delivery,3.0,3.0,0
+ORD100023,2025-12-05,CUST1145,18.0,Female,Delta,WhatsApp,Groceries,Vegetable Oil 5L,1,13000.0,20,Bank Transfer,4.0,3.0,0
+ORD100241,2025-08-02,CUST1443,25.0,Female,Lagos,Physical Store,Groceries,Indomie Carton,1,8400.0,0,,0.0,5.0,0
+ORD100489,2025-08-10,CUST1439,18.0,Male,Anambra,Mobile App,Fashion,Sneakers,2,31300.0,10,Bank Transfer,2.0,,0
+ORD101146,2025-07-13,CUST1350,26.0,Male,Rivers,Mobile App,Electronics,Power Bank,1,12100.0,0,Pay on Delivery,3.0,3.0,0
+ORD100506,2025-07-13,CUST1113,19.0,Female,Kano,Website,Fashion,Agbada,1,56900.0,15,Bank Transfer,3.0,3.0,0
+ORD100252,2025-03-10,CUST1155,31.0,Female,Rivers,Website,Electronics,Bluetooth Speaker,2,24900.0,0,USSD,5.0,4.0,0
+ORD100541,2025-01-21,CUST1237,45.0,Male,Lagos,Physical Store,Groceries,Vegetable Oil 5L,1,13400.0,0,Bank Transfer,0.0,4.0,0
+ORD100186,2025-03-02,CUST1249,,Female,Ogun,Mobile App,Home & Kitchen,Pressure Pot,3,34700.0,0,Bank Transfer,5.0,3.0,1
+ORD100658,2025-01-27,CUST1396,25.0,Female,Rivers,Mobile App,Home & Kitchen,Pressure Pot,3,35100.0,5,Bank Transfer,5.0,4.0,0
+ORD100857,2025-01-21,CUST1590,32.0,Female,Lagos,Mobile App,Fashion,Ankara Dress,3,19200.0,5,Bank Transfer,7.0,3.0,0
+ORD100606,2025-04-28,CUST1246,19.0,Female,Kaduna,Physical Store,Electronics,Power Bank,1,11800.0,20,Card,0.0,5.0,0
+ORD100396,2025-01-17,CUST1444,25.0,Male,Abuja,WhatsApp,Electronics,Smartphone,1,122700.0,5,Pay on Delivery,2.0,5.0,0
+ORD101410,2025-01-23,CUST1565,30.0,Female,Abuja,Mobile App,Fashion,Agbada,1,55200.0,15,Bank Transfer,4.0,,0
+ORD101412,2025-04-02,CUST1556,25.0,Female,Lagos,Website,Home & Kitchen,Pressure Pot,1,34500.0,5,USSD,5.0,4.0,0
+ORD101473,17/03/2025,CUST1031,41.0,Male,Ogun,Mobile App,Electronics,Earbuds,1,14600.0,0,Card,4.0,5.0,0
+ORD101123,2025-03-30,CUST1396,36.0,Male,Lagos,Physical Store,Fashion,Agbada,1,57500.0,5,Bank Transfer,0.0,4.0,0
+ORD100013,2025-10-05,CUST1517,18.0,Female,Oyo,Physical Store,Groceries,Garri 10kg,4,8600.0,0,USSD,0.0,5.0,0
+ORD100108,2025-06-22,CUST1572,37.0,Male,Lagos,Physical Store,Electronics,Power Bank,1,11500.0,0,Bank Transfer,0.0,3.0,0
+ORD100962,2025-11-03,CUST1349,30.0,Female,Kano,Website,Groceries,Vegetable Oil 5L,5,12900.0,15,Bank Transfer,5.0,3.0,0
+ORD100392,2025-05-15,CUST1196,36.0,Male,Kaduna,Website,Beauty,Hair Extensions,1,31600.0,0,USSD,4.0,2.0,0
+ORD100742,2025-08-20,CUST1595,,Female,Kaduna,Website,Home & Kitchen,Pressure Pot,3,36100.0,5,Bank Transfer,4.0,,0
+ORD101067,2025-08-22,CUST1300,29.0,Female,Oyo,Website,Groceries,Rice 50kg,5,76100.0,10,Pay on Delivery,7.0,5.0,0
+ORD100034,2025-11-21,CUST1116,31.0,Male,Oyo,Website,Beauty,Perfume,1,24700.0,10,Pay on Delivery,2.0,,0
+ORD100369,2025-10-09,CUST1116,49.0,Male,Oyo,WhatsApp,Fashion,Agbada,2,58100.0,5,Bank Transfer,1.0,3.0,0
+ORD100098,2025-08-21,CUST1296,29.0,Female,Lagos,Website,Electronics,Smartphone,1,118800.0,0,Pay on Delivery,7.0,4.0,0
+ORD101457,2025-06-16,CUST1490,35.0,Male,Abuja,Physical Store,Groceries,Rice 50kg,1,83700.0,0,Bank Transfer,0.0,,0
+ORD101033,2025-04-25,CUST1287,35.0,Female,Lagos,Website,Groceries,Vegetable Oil 5L,3,13600.0,10,USSD,4.0,3.0,0
+ORD100287,2025-07-28,CUST1006,20.0,Female,Kaduna,Physical Store,Fashion,Sneakers,3,31000.0,0,Bank Transfer,0.0,3.0,0
+ORD101076,2025-09-17,CUST1284,45.0,Female,Enugu,Mobile App,Groceries,Indomie Carton,2,8900.0,0,USSD,7.0,,0
+ORD101085,2025-12-15,CUST1250,30.0,Female,FCT,WhatsApp,Beauty,Shea Butter Set,2,9700.0,10,Pay on Delivery,2.0,2.0,0
+ORD100445,2025-08-30,CUST1509,29.0,Female,Delta,Mobile App,Fashion,Sneakers,1,29000.0,0,Pay on Delivery,2.0,5.0,0
+ORD100507,2025-04-01,CUST1192,43.0,Female,Ogun,Website,Home & Kitchen,Blender,1,28700.0,10,Bank Transfer,4.0,5.0,0
+ORD100285,2025-12-09,CUST1376,40.0,Male,Oyo,Website,Groceries,Rice 50kg,1,81400.0,10,USSD,4.0,4.0,0
+ORD100324,2025-12-22,CUST1595,37.0,Female,Enugu,Physical Store,Groceries,Indomie Carton,5,8300.0,0,Pay on Delivery,0.0,5.0,0
+ORD100642,2025-12-10,CUST1069,31.0,Female,Lagos,WhatsApp,Home & Kitchen,Pressure Pot,3,33500.0,0,Pay on Delivery,4.0,5.0,0
+ORD101078,2025-06-02,CUST1357,44.0,Female,Enugu,Website,Electronics,Earbuds,1,15900.0,0,Card,3.0,2.0,0
+ORD100024,2025-12-19,CUST1092,40.0,Male,Kano,Website,Fashion,Ankara Dress,1,19100.0,5,USSD,7.0,4.0,0
+ORD100110,2025-04-12,CUST1064,18.0,Male,Lagos,Website,Fashion,Ankara Dress,1,19000.0,0,Bank Transfer,6.0,3.0,0
+ORD100015,2025-12-18,CUST1222,41.0,Female,Oyo,Physical Store,GROCERIES,Vegetable Oil 5L,3,14300.0,0,Card,0.0,5.0,0
+ORD101369,2025-08-20,CUST1251,19.0,Female,Kaduna,WhatsApp,Fashion,Handbag,1,21400.0,20,USSD,3.0,,0
+ORD100905,2025-09-16,CUST1138,25.0,Male,Kaduna,Physical Store,Groceries,Indomie Carton,3,8700.0,0,Pay on Delivery,0.0,,0
+ORD100712,2025-09-23,CUST1454,36.0,Male,Lagos,WhatsApp,Beauty,Hair Extensions,1,34100.0,0,Pay on Delivery,4.0,5.0,0
+ORD101471,2025-09-12,CUST1072,28.0,Female,Enugu,Physical Store,Electronics,Power Bank,1,12200.0,0,Card,0.0,3.0,0
+ORD100147,2025-03-27,CUST1235,37.0,Male,Lagos,WhatsApp,Groceries,Rice 50kg,3,79600.0,20,Bank Transfer,6.0,5.0,0
+ORD100740,22/11/2025,CUST1124,32.0,Male,Ogun,Physical Store,Electronics,Earbuds,1,15600.0,20,Card,0.0,4.0,0
+ORD100430,31/01/2025,CUST1411,18.0,Female,Lagos,Website,Groceries,Vegetable Oil 5L,3,14400.0,0,USSD,3.0,4.0,0
+ORD100228,2025-07-19,CUST1037,,Male,Enugu,Website,Groceries,Indomie Carton,4,8500.0,5,USSD,6.0,4.0,0
+ORD101351,2025-05-24,CUST1125,20.0,Female,Lagos,Website,Electronics,Laptop,1,429000.0,0,USSD,3.0,5.0,0
+ORD100707,2025-07-28,CUST1385,27.0,Male,Enugu,WhatsApp,Groceries,Rice 50kg,5,77800.0,20,USSD,4.0,,0
+ORD100330,2025-07-19,CUST1112,32.0,Male,Enugu,Mobile App,Beauty,Shea Butter Set,3,9200.0,0,Bank Transfer,6.0,4.0,0
+ORD100185,2025-06-12,CUST1231,46.0,Male,Kaduna,WhatsApp,Electronics,Power Bank,2,11800.0,0,,6.0,,0
+ORD101124,2025-11-03,CUST1008,31.0,Male,Rivers,Mobile App,Beauty,Shea Butter Set,1,9300.0,20,Card,1.0,4.0,0
+ORD101097,2025-10-03,CUST1446,24.0,Female,Abuja FCT,WhatsApp,Groceries,Indomie Carton,3,8900.0,0,USSD,5.0,4.0,0
+ORD101292,2025-06-11,CUST1118,,Female,Anambra,Mobile App,Electronics,Laptop,1,461100.0,0,Card,5.0,3.0,0
+ORD100913,2025-12-24,CUST1098,42.0,Male,Ogun,Mobile App,Fashion,Ankara Dress,3,18600.0,5,Pay on Delivery,2.0,3.0,0
+ORD100099,2025-02-21,CUST1097,0.0,Male,Delta,Website,Electronics,Bluetooth Speaker,1,25300.0,10,Bank Transfer,2.0,3.0,0
+ORD100004,2025-06-08,CUST1148,24.0,Male,Kano,WhatsApp,Electronics,Earbuds,3,14600.0,0,USSD,4.0,4.0,0
+ORD101115,2025-06-28,CUST1409,18.0,Male,Kano,Website,Electronics,Power Bank,1,12100.0,5,Pay on Delivery,5.0,,0
+ORD100046,2025-12-06,CUST1097,57.0,Male,Kaduna,WhatsApp,Fashion,Handbag,2,21800.0,0,USSD,3.0,3.0,0
+ORD101318,2025-06-13,CUST1217,45.0,Female,Lagos,Website,HOME & KITCHEN,Gas Cooker,1,63800.0,0,Bank Transfer,2.0,5.0,0
+ORD100666,2025-07-03,CUST1543,19.0,Male,Lagos,Mobile App,Electronics,Power Bank,1,11700.0,20,Bank Transfer,5.0,,0
+ORD100193,2025-05-13,CUST1191,35.0,Male,Rivers,Mobile App,Groceries,Rice 50kg,5,79100.0,15,Bank Transfer,1.0,2.0,0
+ORD100744,2025-10-18,CUST1015,31.0,Female,Anambra,Mobile App,Electronics,Smartphone,2,127000.0,10,Pay on Delivery,9.0,4.0,0
+ORD101232,2025-12-21,CUST1042,35.0,Male,Ogun,Physical Store,Home & Kitchen,Standing Fan,1,43700.0,15,Card,0.0,3.0,0
+ORD100189,2025-12-14,CUST1343,41.0,Female,Lagos,Website,Fashion,Handbag,3,23700.0,10,,4.0,4.0,0
+ORD100026,2025-05-27,CUST1212,29.0,Female,FCT,Mobile App,Electronics,Smartphone,1,114800.0,0,Pay on Delivery,5.0,,0
+ORD100858,2025-09-02,CUST1312,29.0,Male,Abuja FCT,WhatsApp,Groceries,Garri 10kg,3,9500.0,15,USSD,3.0,,0
+ORD101098,2025-01-16,CUST1210,19.0,Male,Lagos,WhatsApp,Groceries,Indomie Carton,5,9100.0,5,Card,3.0,5.0,0
+ORD100075,2025-12-16,CUST1438,38.0,Female,Rivers,Website,Beauty,Shea Butter Set,2,9600.0,20,USSD,1.0,5.0,0
+ORD100673,2025-02-04,CUST1002,45.0,Male,Kano,Website,Fashion,Handbag,1,21200.0,15,Card,4.0,5.0,0
+ORD100828,2025-11-12,CUST1501,41.0,Male,Lagos,Website,Beauty,Hair Extensions,3,34100.0,0,Card,2.0,3.0,0
+ORD100581,2025-11-01,CUST1523,18.0,Male,Anambra,Mobile App,Home & Kitchen,Blender,3,26700.0,15,Bank Transfer,4.0,2.0,0
+ORD101203,2025-10-05,CUST1387,18.0,Female,Lagos,WhatsApp,Groceries,Rice 50kg,3,75000.0,0,Card,2.0,4.0,0
+ORD100970,2025-12-06,CUST1123,34.0,Male,Lagos,Physical Store,Beauty,Shea Butter Set,3,9700.0,20,,0.0,4.0,0
+ORD100471,2025-10-21,CUST1518,21.0,Male,Lagos,Mobile App,Fashion,Ankara Dress,1,19300.0,5,Pay on Delivery,7.0,,0
+ORD101478,2025-11-13,CUST1404,44.0,Male,Ogun,Mobile App,Home & Kitchen,Gas Cooker,2,67000.0,20,USSD,2.0,4.0,0
+ORD100713,2025-10-06,CUST1389,31.0,Male,Ogun,Mobile App,Home & Kitchen,Blender,2,27100.0,10,Bank Transfer,6.0,,0
+ORD100328,2025-02-21,CUST1119,34.0,Female,Lagos,Mobile App,Groceries,Vegetable Oil 5L,5,13400.0,0,Pay on Delivery,5.0,4.0,0
+ORD100113,2025-06-17,CUST1254,24.0,Male,Abuja,Mobile App,Groceries,Garri 10kg,4,8700.0,0,Card,5.0,5.0,0
+ORD101244,2025-11-16,CUST1161,31.0,Female,Lagos,Website,Groceries,Indomie Carton,3,8300.0,5,Bank Transfer,1.0,5.0,0
+ORD100051,2025-03-13,CUST1423,33.0,Female,Oyo,Mobile App,Electronics,Smartphone,1,115200.0,0,Pay on Delivery,4.0,4.0,0
+ORD100915,2025-06-17,CUST1243,42.0,Female,Kano,Mobile App,Fashion,Sneakers,1,29100.0,0,Bank Transfer,7.0,4.0,0
+ORD100249,2025-01-16,CUST1385,36.0,Male,Kaduna,Website,Fashion,Agbada,1,56000.0,0,Bank Transfer,6.0,4.0,0
+ORD100562,2025-06-29,CUST1400,33.0,Female,FCT,Mobile App,Beauty,Hair Extensions,2,31600.0,15,Pay on Delivery,5.0,,0
+ORD100500,2025-11-12,CUST1448,35.0,Female,Rivers,WhatsApp,Fashion,Ankara Dress,1,17200.0,15,Bank Transfer,2.0,3.0,0
+ORD101013,2025-12-23,CUST1032,35.0,Female,Abuja FCT,Physical Store,Electronics,Earbuds,3,16200.0,20,Bank Transfer,0.0,5.0,0
+ORD100769,2025-05-18,CUST1134,20.0,Female,Lagos,WhatsApp,Groceries,Indomie Carton,3,8400.0,5,Bank Transfer,2.0,3.0,0
+ORD100286,2025-02-28,CUST1086,41.0,Female,Lagos,Website,Groceries,Vegetable Oil 5L,4,14200.0,15,USSD,2.0,5.0,0
+ORD101200,2025-11-17,CUST1438,41.0,Female,Oyo,Physical Store,Electronics,Laptop,2,456700.0,15,Pay on Delivery,0.0,3.0,0
+ORD100259,2025-08-03,CUST1462,26.0,Male,Rivers,Physical Store,Electronics,Earbuds,2,16200.0,0,,0.0,3.0,0
+ORD101187,2025-08-07,CUST1527,19.0,Female,Lagos,WhatsApp,Electronics,Smartphone,1,118200.0,5,Pay on Delivery,5.0,4.0,0
+ORD100981,2025-11-06,CUST1200,29.0,Female,kano,WhatsApp,Fashion,Sneakers,2,30600.0,10,Pay on Delivery,8.0,2.0,0
+ORD100881,2025-11-07,CUST1595,36.0,Female,Kaduna,WhatsApp,Beauty,Hair Extensions,2,33400.0,0,Card,9.0,2.0,0
+ORD101303,2025-11-23,CUST1415,26.0,Female,Kaduna,Website,Fashion,Sneakers,1,31400.0,0,Card,4.0,,0
+ORD101480,2025-02-25,CUST1162,22.0,Female,Lagos,Website,Fashion,Handbag,1,22000.0,15,USSD,2.0,5.0,0
+ORD101141,2025-05-04,CUST1084,37.0,Female,Ogun,WhatsApp,Groceries,Rice 50kg,5,78000.0,15,Bank Transfer,2.0,5.0,0
+ORD100164,2025-06-02,CUST1158,34.0,Female,Kaduna,Website,Groceries,Indomie Carton,4,8800.0,10,Bank Transfer,10.0,2.0,0
+ORD100278,2025-01-24,CUST1201,30.0,Female,Rivers,WhatsApp,Fashion,Ankara Dress,3,19300.0,5,Pay on Delivery,6.0,4.0,0
+ORD101241,2025-10-11,CUST1553,37.0,Female,Ogun,Physical Store,Home & Kitchen,Gas Cooker,3,66100.0,0,Card,0.0,3.0,0
+ORD100207,2025-12-20,CUST1378,37.0,Female,Rivers,Physical Store,Electronics,Power Bank,2,12500.0,0,Card,0.0,4.0,0
+ORD100275,2025-06-26,CUST1467,26.0,Male,Rivers,WhatsApp,Home & Kitchen,Gas Cooker,3,69700.0,10,Pay on Delivery,3.0,4.0,0
+ORD100835,2025-10-11,CUST1084,32.0,Female,FCT,Website,Fashion,Sneakers,2,31400.0,20,,6.0,4.0,0
+ORD101199,2025-08-15,CUST1069,30.0,Female,Ogun,Website,Electronics,Earbuds,1,16100.0,0,Bank Transfer,4.0,4.0,0
+ORD100284,2025-06-11,CUST1163,44.0,Female,Lagos,WhatsApp,Electronics,Laptop,3,455900.0,15,Pay on Delivery,1.0,4.0,0
+ORD101317,2025-08-04,CUST1239,47.0,Female,Abuja FCT,WhatsApp,Home & Kitchen,Blender,1,29500.0,0,Bank Transfer,1.0,,0
+ORD101451,2025-01-15,CUST1110,38.0,Male,Delta,Website,Beauty,Shea Butter Set,1,10100.0,0,Pay on Delivery,6.0,3.0,0
+ORD100020,2025-07-02,CUST1259,32.0,Male,Abuja,Mobile App,Fashion,Agbada,1,54500.0,15,Pay on Delivery,4.0,3.0,0
+ORD101295,13/11/2025,CUST1066,41.0,Female, Lagos ,Website,Fashion,Handbag,1,23200.0,0,Pay on Delivery,2.0,3.0,0
+ORD100464,2025-01-03,CUST1356,35.0,Male,Enugu,Website,Home & Kitchen,Standing Fan,1,41800.0,0,Pay on Delivery,5.0,4.0,0
+ORD101093,2025-05-24,CUST1481,30.0,Male,Rivers,Website,Electronics,Smartphone,3,117000.0,5,Pay on Delivery,3.0,4.0,0
+ORD100397,2025-03-13,CUST1520,38.0,Female,Kaduna,Website,Electronics,Laptop,3,467800.0,10,Bank Transfer,3.0,3.0,0
+ORD100416,2025-12-20,CUST1445,37.0,Female,Kaduna,Mobile App,Groceries,Garri 10kg,1,8600.0,0,Card,4.0,5.0,0
+ORD101217,2025-09-25,CUST1315,42.0,Female,Anambra,Mobile App,Electronics,Power Bank,1,12700.0,10,Bank Transfer,5.0,,0
+ORD100997,2025-05-12,CUST1060,29.0,Male,Oyo,Mobile App,Fashion,Agbada,1,56400.0,0,Bank Transfer,2.0,4.0,0
+ORD101249,2025-12-23,CUST1072,48.0,Male,Delta,Website,Home & Kitchen,Pressure Pot,3,34500.0,5,Card,5.0,4.0,0
+ORD100899,2025-08-13,CUST1430,33.0,Female,Kaduna,Website,Electronics,Bluetooth Speaker,1,26300.0,15,Bank Transfer,6.0,3.0,0
+ORD101198,2025-12-14,CUST1488,46.0,Female,Abuja,Website,Electronics,Laptop,3,443800.0,0,Card,6.0,3.0,0
+ORD100547,2025-08-04,CUST1324,24.0,Female,Lagos,Mobile App,Beauty,Shea Butter Set,1,9800.0,0,Bank Transfer,3.0,4.0,0
+ORD101196,2025-09-18,CUST1128,20.0,Male,Ogun,Mobile App,Electronics,Earbuds,1,15800.0,0,Pay on Delivery,1.0,5.0,0
+ORD101042,2025-06-01,CUST1165,34.0,Male,Lagos,WhatsApp,Electronics,Laptop,1,446900.0,0,Pay on Delivery,3.0,5.0,0
+ORD100378,2025-05-19,CUST1062,34.0,Female,Anambra,Mobile App,FASHION,Ankara Dress,1,17700.0,20,Card,4.0,4.0,0
+ORD100128,2025-07-29,CUST1239,23.0,Female,Oyo,Mobile App,Groceries,Vegetable Oil 5L,2,14300.0,20,Bank Transfer,1.0,4.0,0
+ORD100808,2025-05-23,CUST1361,41.0,Female,Anambra,Website,Beauty,Shea Butter Set,3,9900.0,15,Pay on Delivery,5.0,5.0,0
+ORD101465,2025-11-06,CUST1111,19.0,Male,Lagos,Mobile App,Electronics,Bluetooth Speaker,1,26100.0,5,Card,4.0,4.0,0
+ORD100882,2025-06-13,CUST1470,34.0,Female,Anambra,Mobile App,Groceries,Rice 50kg,4,77800.0,0,Card,1.0,,0
+ORD100330,2025-07-19,CUST1112,32.0,Male,Enugu,Mobile App,Beauty,Shea Butter Set,3,9200.0,0,Bank Transfer,6.0,4.0,0
+ORD100783,2025-02-14,CUST1144,19.0,Female,Lagos,Physical Store,Electronics,Power Bank,1,12800.0,0,Card,0.0,5.0,0
+ORD101490,2025-04-11,CUST1392,18.0,Female,Lagos,Mobile App,Groceries,Indomie Carton,4,8100.0,0,USSD,2.0,4.0,0
+ORD100151,2025-04-13,CUST1428,22.0,Female,Rivers,Website,Groceries,Vegetable Oil 5L,1,13300.0,0,Bank Transfer,5.0,3.0,0
+ORD101023,2025-11-04,CUST1340,29.0,Female,Delta,Mobile App,Beauty,Shea Butter Set,3,10100.0,5,Card,7.0,4.0,0
+ORD100326,2025-03-28,CUST1057,32.0,Male,lagos,Website,Fashion,Sneakers,1,28500.0,0,Card,4.0,4.0,0
+ORD100652,2025-03-15,CUST1221,45.0,Male,Abuja FCT,WhatsApp,Fashion,Agbada,2,59400.0,10,Pay on Delivery,2.0,,0
+ORD101169,2025-12-01,CUST1241,40.0,Female,Kano,Physical Store,Fashion,Sneakers,1,32100.0,0,Card,0.0,3.0,0
+ORD101476,2025-06-29,CUST1151,42.0,Female,Oyo,Website,Groceries,Rice 50kg,2,82600.0,10,Card,2.0,3.0,0
+ORD101435,2025-02-07,CUST1147,38.0,Female,Ogun,Website,Groceries,Garri 10kg,1,9200.0,0,Card,6.0,4.0,0
+ORD100565,2025-03-28,CUST1491,41.0,Male,Lagos,Website,Home & Kitchen,Standing Fan,1,43500.0,0,Bank Transfer,1.0,4.0,0
+ORD101385,2025-03-27,CUST1268,27.0,Male,Abuja,Website,Beauty,Perfume,2,28000.0,0,Bank Transfer,5.0,5.0,0
+ORD100426,2025-11-12,CUST1080,30.0,Male,Lagos,WhatsApp,Electronics,Bluetooth Speaker,3,25800.0,10,USSD,6.0,3.0,0
+ORD100789,2025-01-05,CUST1197,38.0,Female,Lagos,Website,Groceries,Rice 50kg,3,78400.0,10,Bank Transfer,3.0,4.0,0
+ORD101404,2025-03-06,CUST1168,30.0,Female,Oyo,Physical Store,Fashion,Agbada,3,53800.0,0,Pay on Delivery,0.0,5.0,0
+ORD100671,2025-08-13,CUST1400,36.0,Male,Lagos,WhatsApp,Groceries,Vegetable Oil 5L,5,13500.0,20,Pay on Delivery,1.0,4.0,0
+ORD100936,2025-02-27,CUST1018,27.0,Female,Kano,WhatsApp,Fashion,Handbag,3,23400.0,0,Bank Transfer,6.0,5.0,0
+ORD100872,2025-02-11,CUST1302,25.0,Male,Lagos,Physical Store,Electronics,Bluetooth Speaker,3,26200.0,20,Bank Transfer,0.0,2.0,0
+ORD101274,2025-10-06,CUST1053,29.0,Female,Lagos,Website,Electronics,Bluetooth Speaker,1,25200.0,15,Card,6.0,2.0,0
+ORD100880,2025-02-01,CUST1260,22.0,Female,Kano,Website,Groceries,Indomie Carton,1,9000.0,10,Bank Transfer,12.0,2.0,0
+ORD100540,2025-09-16,CUST1188,20.0,Female,Abuja,Physical Store,Beauty,Perfume,1,25500.0,0,Card,0.0,5.0,0
+ORD100055,2025-01-16,CUST1207,41.0,Male,Kaduna,Website,Fashion,Handbag,2,23700.0,0,USSD,4.0,5.0,0
+ORD101391,2025-07-13,CUST1067,30.0,Male,Lagos,Website,Home & Kitchen,Gas Cooker,2,69900.0,10,Bank Transfer,2.0,4.0,0
+ORD100760,2025-03-06,CUST1311,26.0,Female,Rivers,Mobile App,Beauty,Shea Butter Set,3,10000.0,10,USSD,3.0,2.0,0
+ORD101205,2025-11-26,CUST1367,,Female,Oyo,Website,Home & Kitchen,Standing Fan,2,41800.0,0,Bank Transfer,3.0,3.0,0
+ORD100351,2025-01-17,CUST1092,20.0,Male,Lagos,Website,Electronics,Earbuds,1,14900.0,10,Pay on Delivery,3.0,4.0,0
+ORD100346,2025-12-28,CUST1441,39.0,Female,Kano,WhatsApp,Home & Kitchen,Pressure Pot,1,37400.0,20,Bank Transfer,8.0,4.0,1
+ORD100895,2025-08-12,CUST1025,25.0,Male,Lagos,WhatsApp,Groceries,Vegetable Oil 5L,4,13800.0,5,Card,6.0,4.0,0
+ORD100170,2025-11-06,CUST1390,,Male,Kaduna,Website,Beauty,Shea Butter Set,1,9500.0,5,Bank Transfer,10.0,2.0,0
+ORD100593,2025-12-24,CUST1334,44.0,Male,Lagos,Mobile App,Electronics,Power Bank,1,12300.0,10,USSD,6.0,5.0,0
+ORD100810,2025-01-17,CUST1197,41.0,Male, Ogun ,Physical Store,Groceries,Vegetable Oil 5L,1,14300.0,0,Pay on Delivery,0.0,4.0,0
+ORD101363,2025-03-15,CUST1288,27.0,Female,Kaduna,Website,Beauty,Perfume,1,27600.0,10,Bank Transfer,7.0,,0
+ORD100308,2025-04-26,CUST1302,34.0,Male,Rivers,Website,Groceries,Rice 50kg,4,76600.0,20,Bank Transfer,10.0,5.0,0
+ORD100264,2025-12-28,CUST1015,39.0,Female,Lagos,Mobile App,Fashion,Ankara Dress,2,18300.0,5,Card,4.0,3.0,0
+ORD101208,2025-04-14,CUST1516,28.0,Female,Lagos,Mobile App,Fashion,Ankara Dress,3,17500.0,0,Bank Transfer,-1.0,,0
+ORD100738,2025-09-27,CUST1540,30.0,Male,Lagos,Website,Home & Kitchen,Gas Cooker,2,65400.0,10,Pay on Delivery,5.0,3.0,0
+ORD100513,2025-10-26,CUST1388,33.0,Female,Lagos,WhatsApp,Beauty,Hair Extensions,3,34400.0,5,Bank Transfer,6.0,2.0,1
+ORD100501,2025-11-03,CUST1182,38.0,Female,Kano,Mobile App,Groceries,Vegetable Oil 5L,4,13300.0,5,Pay on Delivery,6.0,3.0,0
+ORD100798,2025-04-26,CUST1513,30.0,Male,Lagos,Physical Store,Fashion,Agbada,3,58400.0,0,Pay on Delivery,0.0,4.0,1
+ORD101233,2025-10-01,CUST1322,18.0,Male,Delta,Mobile App,HOME & KITCHEN,Gas Cooker,1,68300.0,0,Bank Transfer,2.0,4.0,0
+ORD100498,2025-12-05,CUST1456,40.0,Female,Enugu,WhatsApp,Fashion,Sneakers,1,28900.0,5,Card,6.0,,0
+ORD100957,2025-08-20,CUST1006,42.0,Male,Kano,Mobile App,Beauty,Shea Butter Set,1,9300.0,10,Pay on Delivery,8.0,3.0,0
+ORD101177,2025-03-11,CUST1565,39.0,Female,Kano,Mobile App,Beauty,Perfume,3,25000.0,10,,7.0,3.0,0
+ORD100410,27/12/2025,CUST1515,39.0,Female,rivers,Website,Groceries,Rice 50kg,4,80200.0,0,Bank Transfer,4.0,4.0,0
+ORD100102,2025-10-21,CUST1284,40.0,Female,Kaduna,WhatsApp,Beauty,Hair Extensions,1,32100.0,5,Bank Transfer,6.0,5.0,0
+ORD101277,10/10/2025,CUST1201,34.0,Female,Kaduna,Website,Home & Kitchen,Standing Fan,1,42400.0,15,Pay on Delivery,5.0,4.0,0
+ORD100213,2025-06-14,CUST1572,38.0,Female,FCT,WhatsApp,Groceries,Indomie Carton,4,8900.0,5,Bank Transfer,3.0,,0
+ORD100833,2025-02-22,CUST1086,43.0,Female,Enugu,Website,Fashion,Handbag,1,21000.0,10,Pay on Delivery,7.0,3.0,0
+ORD101165,2025-02-08,CUST1550,30.0,Male,Delta,Mobile App,Electronics,Laptop,1,463600.0,10,USSD,5.0,2.0,1
+ORD101489,2025-07-05,CUST1175,25.0,Female,Abuja,WhatsApp,Groceries,Garri 10kg,5,8700.0,0,Pay on Delivery,1.0,,0
+ORD100340,2025-08-20,CUST1250,31.0,Female,Kano,Mobile App,Fashion,Ankara Dress,2,18300.0,20,Bank Transfer,5.0,4.0,0
+ORD100735,2025-12-22,CUST1402,39.0,Male,Enugu,WhatsApp,Beauty,Shea Butter Set,1,10100.0,0,Bank Transfer,4.0,5.0,0
+ORD100698,2025-01-19,CUST1584,28.0,Male,Kano,Mobile App,Electronics,Earbuds,1,15600.0,15,Bank Transfer,9.0,5.0,1
+ORD100199,2025-12-18,CUST1369,35.0,Male,Anambra,WhatsApp,Beauty,Perfume,3,27300.0,20,Card,2.0,,0
+ORD101050,2025-07-05,CUST1469,44.0,Female,Lagos,WhatsApp,Beauty,Shea Butter Set,2,9800.0,5,USSD,1.0,4.0,0
+ORD100367,2025-04-26,CUST1420,36.0,Female,Oyo,WhatsApp,Groceries,Garri 10kg,2,9000.0,15,Pay on Delivery,5.0,3.0,0
+ORD101418,2025-11-11,CUST1362,36.0,Male,Lagos,Physical Store,Electronics,Power Bank,3,11700.0,5,Bank Transfer,0.0,5.0,0
+ORD101316,2025-09-17,CUST1351,,Male,Lagos,Website,Beauty,Perfume,1,24900.0,0,Card,9.0,2.0,0
+ORD100463,2025-06-02,CUST1525,43.0,Male,Rivers,WhatsApp,Fashion,Agbada,1,59200.0,10,Bank Transfer,5.0,2.0,0
+ORD100216,2025-01-29,CUST1177,39.0,Female,Rivers,Mobile App,Fashion,Handbag,2,22100.0,0,Bank Transfer,1.0,2.0,1
+ORD101361,2025-01-25,CUST1159,32.0,Male,Lagos,WhatsApp,Groceries,Garri 10kg,1,9600.0,15,Card,9.0,3.0,0
+ORD100253,2025-05-01,CUST1152,28.0,Female,Rivers,Mobile App,Fashion,Sneakers,1,29100.0,20,Card,5.0,4.0,1
+ORD100152,2025-11-20,CUST1147,29.0,Male,Oyo,Mobile App,Fashion,Ankara Dress,1,18100.0,0,Bank Transfer,3.0,5.0,1
+ORD100194,2025-12-17,CUST1589,25.0,Female,Abuja FCT,Physical Store,Groceries,Garri 10kg,3,8900.0,0,Card,0.0,3.0,0
+ORD101450,2025-11-25,CUST1564,52.0,Male,Lagos,Website,Home & Kitchen,Blender,1,28200.0,20,USSD,7.0,4.0,0
+ORD100558,2025-11-16,CUST1097,45.0,Male,Lagos,Physical Store,Groceries,Indomie Carton,2,9000.0,5,Card,0.0,5.0,1
+ORD101190,2025-06-01,CUST1241,39.0,Male,Lagos,Mobile App,Electronics,Smartphone,3,121900.0,5,Bank Transfer,2.0,4.0,0
+ORD100068,2025-01-28,CUST1376,35.0,Male,Lagos,Website,Home & Kitchen,Standing Fan,1,43500.0,10,Bank Transfer,7.0,5.0,1
+ORD100130,2025-07-26,CUST1292,48.0,Female,Lagos,Mobile App,Fashion,Sneakers,1,30100.0,20,Card,3.0,2.0,0
+ORD100344,2025-11-27,CUST1555,18.0,Male,Oyo,Website,Groceries,Garri 10kg,3,9100.0,5,Pay on Delivery,4.0,4.0,0
+ORD101223,2025-08-27,CUST1060,20.0,Female,Lagos,Website,Electronics,Power Bank,1,12000.0,20,Bank Transfer,4.0,2.0,0
+ORD100300,2025-05-13,CUST1255,18.0,Female,Delta,Mobile App,Beauty,Perfume,1,27200.0,20,Pay on Delivery,2.0,5.0,0
+ORD100922,2025-06-12,CUST1227,31.0,Female,Ogun,Website,Fashion,Agbada,3,55800.0,20,USSD,2.0,4.0,0
+ORD101268,2025-12-14,CUST1087,24.0,Male,Abuja FCT,Website,Home & Kitchen,Blender,1,28500.0,15,USSD,4.0,5.0,1
+ORD101452,19/01/2025,CUST1329,26.0,Male,Lagos,Physical Store,Groceries,Indomie Carton,3,8600.0,0,Card,0.0,3.0,0
+ORD100370,2025-05-03,CUST1355,37.0,Female,Abuja,Physical Store,Beauty,Perfume,1,26600.0,10,USSD,0.0,3.0,0
+ORD100503,2025-11-13,CUST1018,51.0,Female,Rivers,WhatsApp,Groceries,Garri 10kg,4,9600.0,5,Pay on Delivery,4.0,5.0,0
+ORD100240,2025-02-21,CUST1590,30.0,Male,Lagos,Website,Beauty,Hair Extensions,3,34100.0,0,Pay on Delivery,4.0,3.0,0
+ORD100585,2025-12-04,CUST1356,18.0,Female,Ogun,Website,Home & Kitchen,Gas Cooker,1,63600.0,0,Pay on Delivery,4.0,5.0,0
+ORD100999,2025-07-07,CUST1219,31.0,Male,Enugu,WhatsApp,Electronics,Laptop,3,475400.0,15,Pay on Delivery,8.0,3.0,0
+ORD100187,2025-05-20,CUST1142,39.0,Male,Rivers,WhatsApp,Home & Kitchen,Standing Fan,1,45300.0,0,Pay on Delivery,3.0,3.0,0
+ORD100732,2025-12-03,CUST1496,18.0,Female, Rivers ,Mobile App,Groceries,Rice 50kg,4,78900.0,20,Pay on Delivery,2.0,5.0,0
+ORD101121,2025-01-31,CUST1410,36.0,Female,Lagos,Website,Home & Kitchen,Blender,1,29600.0,20,Pay on Delivery,2.0,5.0,0
+ORD101058,2025-06-04,CUST1218,56.0,Female,Ogun,Website,Fashion,Ankara Dress,1,17900.0,0,Bank Transfer,4.0,,0
+ORD101120,2025-01-06,CUST1454,41.0,Male,Lagos,Physical Store,Beauty,Shea Butter Set,1,9700.0,5,Bank Transfer,0.0,,0
+ORD100995,2025-08-17,CUST1024,28.0,Male,Rivers,Mobile App,Electronics,Earbuds,2,16000.0,0,USSD,3.0,2.0,0
+ORD100302,04/01/2025,CUST1041,31.0,Female,Abuja FCT,WhatsApp,Electronics,Laptop,1,440800.0,20,Pay on Delivery,4.0,5.0,0
+ORD100283,2025-06-29,CUST1307,37.0,Male,Lagos,Physical Store,Electronics,Laptop,3,447500.0,5,USSD,0.0,4.0,0
+ORD100977,2025-07-28,CUST1089,43.0,Female,Lagos,WhatsApp,Electronics,Earbuds,1,15800.0,0,Card,2.0,4.0,0
+ORD101127,2025-08-21,CUST1317,35.0,Female,Kaduna,Website,Fashion,Agbada,1,53200.0,20,Pay on Delivery,6.0,3.0,1
+ORD101350,2025-01-23,CUST1060,45.0,Male,Lagos,Mobile App,Electronics,Smartphone,1,118700.0,20,Pay on Delivery,6.0,5.0,0
+ORD100530,2025-08-07,CUST1081,46.0,Male, Kaduna ,Mobile App,Electronics,Laptop,1,485500.0,10,Pay on Delivery,4.0,5.0,0
+ORD101082,2025-12-16,CUST1049,40.0,Female,Lagos,Mobile App,Home & Kitchen,Blender,1,26800.0,20,USSD,7.0,5.0,0
+ORD100109,2025-09-15,CUST1040,28.0,Male,Lagos,Website,Beauty,Perfume,2,26700.0,15,,5.0,,0
+ORD101323,2025-11-20,CUST1227,32.0,Female,Kano,WhatsApp,Electronics,Earbuds,2,16000.0,15,Card,4.0,5.0,0
+ORD100122,2025-08-27,CUST1052,23.0,Male,Kano,Website,Fashion,Sneakers,3,32400.0,0,USSD,8.0,3.0,0
+ORD100450,2025-12-17,CUST1354,32.0,Female,FCT,Website,GROCERIES,Garri 10kg,5,8800.0,0,Card,4.0,3.0,0
+ORD100280,2025-04-11,CUST1217,25.0,Female,Lagos,Mobile App,Groceries,Garri 10kg,1,8700.0,15,Bank Transfer,1.0,4.0,0
+ORD100568,2025-08-23,CUST1003,31.0,Male,Kano,WhatsApp,Home & Kitchen,Standing Fan,3,43500.0,0,Card,3.0,4.0,0
+ORD100681,2025-02-20,CUST1503,25.0,Female,Oyo,Website,Electronics,Power Bank,2,12100.0,0,Bank Transfer,6.0,5.0,0
+ORD100920,2025-11-15,CUST1297,45.0,Male,Delta,Website,Electronics,Bluetooth Speaker,1,24500.0,0,Bank Transfer,3.0,3.0,0
+ORD100791,2025-06-15,CUST1208,25.0,Female,Abuja,Website,Fashion,Ankara Dress,3,17600.0,0,Card,7.0,5.0,0
+ORD100511,2025-09-30,CUST1185,52.0,Female,Enugu,Website,Groceries,Rice 50kg,1,82900.0,0,Card,5.0,4.0,0
+ORD100546,2025-12-17,CUST1458,41.0,Male,Oyo,Mobile App,Fashion,Handbag,3,21100.0,10,Bank Transfer,5.0,5.0,0
+ORD101297,2025-09-05,CUST1501,23.0,Male,Delta,WhatsApp,Groceries,Rice 50kg,5,81100.0,0,Card,4.0,5.0,0
+ORD100747,2025-04-25,CUST1358,33.0,Female,Kano,Mobile App,Home & Kitchen,Blender,1,27700.0,10,Bank Transfer,5.0,3.0,0
+ORD101095,2025-01-30,CUST1180,23.0,Male,Lagos,Mobile App,Fashion,Ankara Dress,1,18600.0,0,Pay on Delivery,5.0,4.0,0
+ORD101335,2025-12-31,CUST1599,,Male,Enugu,Physical Store,Electronics,Bluetooth Speaker,3,26600.0,10,Card,0.0,5.0,0
+ORD100649,2025-11-06,CUST1571,37.0,Female,Kaduna,Website,Home & Kitchen,Pressure Pot,1,36400.0,15,USSD,4.0,4.0,0
+ORD101143,2025-12-11,CUST1547,31.0,Male,Lagos,Website,Fashion,Agbada,1,53400.0,0,Pay on Delivery,1.0,4.0,0
+ORD100067,2025-05-16,CUST1125,27.0,Female,Lagos,Physical Store,Electronics,Bluetooth Speaker,2,26700.0,0,Pay on Delivery,0.0,4.0,0
+ORD100648,2025-12-17,CUST1062,40.0,Male,Delta,Website,Electronics,Earbuds,2,14700.0,5,Pay on Delivery,3.0,,0
+ORD100571,2025-06-01,CUST1021,22.0,Female,Lagos,Mobile App,Electronics,Laptop,3,451900.0,0,USSD,3.0,,0
+ORD100972,2025-06-24,CUST1269,18.0,Female,Lagos,Website,Groceries,Vegetable Oil 5L,4,13400.0,0,Pay on Delivery,4.0,5.0,0
+ORD101075,2025-12-03,CUST1338,41.0,Male,Lagos,Mobile App,Fashion,Sneakers,100,32200.0,0,Pay on Delivery,5.0,4.0,0
+ORD101432,2025-03-04,CUST1091,29.0,Female,Kano,Physical Store,Home & Kitchen,Pressure Pot,1,34700.0,20,Pay on Delivery,0.0,3.0,0
+ORD100603,2025-02-19,CUST1055,34.0,Female,Rivers,Mobile App,Electronics,Smartphone,1,125400.0,20,Bank Transfer,4.0,3.0,0
+ORD100389,2025-02-25,CUST1349,26.0,Male,Lagos,Website,Electronics,Power Bank,2,12900.0,0,Card,7.0,5.0,0
+ORD100553,2025-04-27,CUST1125,42.0,Female,Kano,Website,Groceries,Vegetable Oil 5L,5,14200.0,0,Bank Transfer,3.0,5.0,0
+ORD100912,2025-05-18,CUST1597,29.0,Male,Oyo,WhatsApp,Home & Kitchen,Blender,1,27300.0,0,Card,8.0,3.0,0
+ORD100372,2025-05-30,CUST1065,28.0,Male,Delta,Website,Home & Kitchen,Pressure Pot,1,33500.0,5,Pay on Delivery,4.0,4.0,0
+ORD100525,2025-04-24,CUST1283,39.0,Female,Kaduna,Website,Fashion,Handbag,1,21800.0,10,Pay on Delivery,6.0,5.0,0
+ORD100651,2025-12-08,CUST1042,36.0,Male,Lagos,Physical Store,Electronics,Smartphone,2,121000.0,0,Card,0.0,4.0,0
+ORD100318,2025-12-03,CUST1048,42.0,Male,Kano,WhatsApp,Electronics,Power Bank,1,12700.0,0,Pay on Delivery,8.0,2.0,0
+ORD100954,2025-10-14,CUST1379,,Male,Kano,Website,Electronics,Earbuds,3,14900.0,20,USSD,7.0,5.0,0
+ORD100963,2025-03-21,CUST1211,40.0,Male,Lagos,Website,Electronics,Laptop,1,443000.0,0,Pay on Delivery,5.0,,0
+ORD100587,2025-02-06,CUST1021,18.0,Male,Kano,WhatsApp,Fashion,Handbag,3,22900.0,15,Card,4.0,3.0,0
+ORD100708,2025-06-23,CUST1442,23.0,Female,Lagos,Website,Fashion,Agbada,1,53500.0,10,Bank Transfer,5.0,3.0,0
+ORD100132,2025-02-03,CUST1507,29.0,Female,FCT,Website,Electronics,Bluetooth Speaker,3,26300.0,0,Card,3.0,3.0,0
+ORD100943,2025-06-23,CUST1189,37.0,Male,Lagos,Website,Groceries,Vegetable Oil 5L,4,13900.0,5,Bank Transfer,3.0,4.0,0
+ORD101270,2025-05-15,CUST1508,26.0,Female,Lagos,Physical Store,Beauty,Shea Butter Set,1,10200.0,20,Bank Transfer,0.0,5.0,0
+ORD100804,2025-09-27,CUST1250,18.0,Female,Oyo,WhatsApp,Electronics,Laptop,2,476600.0,20,Bank Transfer,6.0,4.0,0
+ORD100492,2025-10-02,CUST1178,,Female,Kaduna,Website,Home & Kitchen,Standing Fan,1,43000.0,20,Card,5.0,3.0,0
+ORD101302,2025-09-13,CUST1416,30.0,Male,Ogun,Mobile App,Beauty,Perfume,1,27000.0,10,USSD,5.0,3.0,0
+ORD100985,2025-08-27,CUST1410,30.0,Female,Abuja,Website,Electronics,Earbuds,1,14600.0,20,Bank Transfer,2.0,3.0,0
+ORD100465,2025-12-19,CUST1582,23.0,Male,Lagos,Website,Home & Kitchen,Gas Cooker,2,68100.0,0,Pay on Delivery,7.0,4.0,0
+ORD101034,2025-01-25,CUST1399,36.0,Female,Abuja,Mobile App,Electronics,Smartphone,3,127200.0,0,Bank Transfer,3.0,3.0,0
+ORD100125,2025-07-26,CUST1301,41.0,Female,Kano,Mobile App,Electronics,Bluetooth Speaker,3,26500.0,5,Card,8.0,2.0,0
+ORD101256,2025-03-23,CUST1225,29.0,Male,Rivers,Mobile App,Electronics,Earbuds,1,16000.0,0,Pay on Delivery,6.0,5.0,0
+ORD101448,2025-09-27,CUST1532,37.0,Male,Kano,Website,Groceries,Indomie Carton,2,8600.0,0,Bank Transfer,6.0,,0
+ORD101342,2025-02-13,CUST1391,24.0,Male,Lagos,Physical Store,Groceries,Rice 50kg,4,75600.0,20,USSD,0.0,3.0,0
+ORD100650,2025-06-28,CUST1314,29.0,Female, rivers ,Website,Fashion,Ankara Dress,1,17600.0,15,Pay on Delivery,5.0,4.0,0
+ORD100918,2025-12-04,CUST1138,32.0,Female,Oyo,Website,Groceries,Vegetable Oil 5L,1,14100.0,15,Bank Transfer,4.0,5.0,0
+ORD100386,2025-01-25,CUST1582,50.0,Female,Lagos,Website,Groceries,Garri 10kg,2,8800.0,15,Card,5.0,4.0,0
+ORD100289,2025-06-22,CUST1096,36.0,Female,Ogun,Website,Fashion,Handbag,2,22700.0,20,Pay on Delivery,3.0,3.0,0
+ORD100906,2025-05-31,CUST1074,43.0,Male,Enugu,Mobile App,Home & Kitchen,Pressure Pot,1,36000.0,20,Bank Transfer,6.0,4.0,0
+ORD100874,2025-09-12,CUST1426,25.0,Female,FCT,Physical Store,Beauty,Hair Extensions,2,33200.0,0,Card,0.0,4.0,0
+ORD100863,2025-10-09,CUST1002,50.0,Male,Abuja,Mobile App,Fashion,Ankara Dress,2,18600.0,5,Bank Transfer,6.0,5.0,0
+ORD100053,20/06/2025,CUST1091,,Female,Abuja,Mobile App,Home & Kitchen,Gas Cooker,3,67500.0,0,Bank Transfer,3.0,4.0,0
+ORD100595,2025-10-20,CUST1378,33.0,Female,Rivers,Mobile App,Beauty,Perfume,1,26300.0,0,Card,2.0,5.0,1
+ORD100617,2025-04-08,CUST1231,21.0,Male,Enugu,Mobile App,Electronics,Laptop,1,483100.0,15,Pay on Delivery,6.0,,0
+ORD100825,2025-02-03,CUST1064,35.0,Male,Delta,Website,Groceries,Indomie Carton,2,9100.0,0,Card,7.0,3.0,0
+ORD100751,2025-02-23,CUST1382,36.0,Male,Kaduna,Website,Groceries,Indomie Carton,2,8900.0,0,Bank Transfer,5.0,3.0,0
+ORD100040,2025-03-02,CUST1551,27.0,Female,Abuja,WhatsApp,Fashion,Agbada,1,54000.0,0,Bank Transfer,6.0,5.0,0
+ORD100339,2025-12-14,CUST1325,30.0,Male,Abuja,Mobile App,Groceries,Indomie Carton,5,8500.0,20,Card,3.0,2.0,0
+ORD100728,2025-06-28,CUST1291,32.0,Female,Kano,WhatsApp,Groceries,Vegetable Oil 5L,3,12800.0,0,Card,6.0,,0
+ORD100902,2025-03-21,CUST1095,40.0,Female,rivers,Mobile App,Groceries,Garri 10kg,5,8600.0,10,Card,2.0,5.0,0
+ORD101137,2025-05-14,CUST1434,18.0,Female,Lagos,WhatsApp,Home & Kitchen,Blender,1,28000.0,0,Card,5.0,4.0,0
+ORD101210,2025-08-16,CUST1596,31.0,Female,Lagos,Physical Store,Groceries,Rice 50kg,3,79500.0,5,Bank Transfer,0.0,4.0,0
+ORD100083,2025-10-31,CUST1540,43.0,Female,Delta,Mobile App,Home & Kitchen,Pressure Pot,1,36100.0,0,Card,3.0,,0
+ORD100115,2025-07-27,CUST1079,39.0,Female,Abuja FCT,Physical Store,Groceries,Vegetable Oil 5L,1,13300.0,20,USSD,0.0,,0
+ORD101174,2025-01-04,CUST1155,29.0,Male,Anambra,Mobile App,Home & Kitchen,Gas Cooker,1,62200.0,20,Pay on Delivery,4.0,5.0,0
+ORD101020,21/01/2025,CUST1334,36.0,Female,Lagos,Website,Electronics,Power Bank,2,12100.0,15,Bank Transfer,3.0,3.0,0
+ORD100451,2025-12-04,CUST1430,28.0,Male,FCT,Mobile App,GROCERIES,Rice 50kg,1,74100.0,0,Card,6.0,5.0,0
+ORD101025,2025-01-21,CUST1490,35.0,Female,Kano,Website,Beauty,Hair Extensions,2,31300.0,0,Bank Transfer,5.0,4.0,0
+ORD101301,2025-11-24,CUST1321,32.0,Female,Kaduna,Website,Groceries,Vegetable Oil 5L,5,13700.0,0,Bank Transfer,4.0,,0
+ORD100270,2025-04-18,CUST1255,29.0,Male,Delta,Mobile App,Beauty,Hair Extensions,1,34100.0,15,Bank Transfer,3.0,4.0,0
+ORD100953,2025-06-06,CUST1412,45.0,Female,Oyo,Mobile App,Groceries,Garri 10kg,4,9700.0,5,USSD,5.0,,0
+ORD101271,2025-11-14,CUST1045,40.0,Female,Lagos,Mobile App,Fashion,Agbada,3,53700.0,0,Card,5.0,3.0,0
+ORD100809,2025-12-30,CUST1277,33.0,Male,Anambra,WhatsApp,Home & Kitchen,Pressure Pot,1,33700.0,0,USSD,5.0,3.0,0
+ORD100848,2025-10-27,CUST1210,27.0,Female,FCT,Mobile App,Electronics,Laptop,2,458300.0,5,Bank Transfer,4.0,4.0,0
+ORD100377,2025-09-30,CUST1566,18.0,Male,Kano,Physical Store,Beauty,Hair Extensions,1,33000.0,15,Card,0.0,4.0,0
+ORD100556,2025-09-26,CUST1282,48.0,Female,Lagos,Website,Fashion,Sneakers,1,31500.0,20,USSD,4.0,5.0,0
+ORD100096,2025-03-29,CUST1091,31.0,Male,Lagos,Mobile App,Electronics,Bluetooth Speaker,1,27000.0,20,Pay on Delivery,4.0,,0
+ORD100757,2025-05-20,CUST1042,41.0,Female,Anambra,Mobile App,Electronics,Smartphone,1,118100.0,0,Card,2.0,4.0,0
+ORD100484,2025-06-18,CUST1234,23.0,Male,Rivers,WhatsApp,Groceries,Garri 10kg,4,8600.0,15,Card,1.0,3.0,0
+ORD101388,2025-11-22,CUST1202,28.0,Male,Kaduna,Mobile App,Home & Kitchen,Standing Fan,1,40900.0,0,Bank Transfer,4.0,5.0,0
+ORD101461,2025-04-25,CUST1193,23.0,Male,Delta,Mobile App,Fashion,Sneakers,1,32000.0,5,,2.0,3.0,0
+ORD100048,2025-09-05,CUST1397,30.0,Female,Rivers,Website,Beauty,Hair Extensions,1,31900.0,0,Card,5.0,5.0,0
+ORD100799,2025-06-11,CUST1106,,Female,Lagos,Mobile App,Electronics,Laptop,1,430600.0,15,Bank Transfer,4.0,4.0,0
+ORD101133,2025-10-06,CUST1041,25.0,Male,Kaduna,Physical Store,Groceries,Vegetable Oil 5L,2,13700.0,10,Bank Transfer,0.0,5.0,0
+ORD101070,2025-09-04,CUST1256,35.0,Female, Oyo ,WhatsApp,Fashion,Handbag,1,23700.0,0,Card,3.0,4.0,0
+ORD100153,2025-04-18,CUST1489,46.0,Female,FCT,WhatsApp,Electronics,Earbuds,2,14900.0,10,Bank Transfer,7.0,5.0,0
+ORD100237,2025-11-22,CUST1452,25.0,Male,Lagos,Website,Fashion,Ankara Dress,3,18200.0,10,USSD,4.0,3.0,0
+ORD100054,2025-07-01,CUST1183,42.0,Male, Anambra ,WhatsApp,Groceries,Indomie Carton,2,9000.0,5,Bank Transfer,3.0,5.0,0
+ORD100394,2025-09-20,CUST1142,25.0,Male,Anambra,Website,Home & Kitchen,Blender,1,27900.0,15,USSD,3.0,4.0,0
+ORD100123,2025-06-21,CUST1421,44.0,Female,Abuja,Mobile App,Fashion,Agbada,1,54700.0,10,Pay on Delivery,2.0,4.0,0
+ORD100355,2025-12-29,CUST1074,19.0,Female,Lagos,Mobile App,Fashion,Handbag,2,22400.0,0,Pay on Delivery,6.0,4.0,0
+ORD100431,2025-12-15,CUST1509,31.0,Male,Kano,Mobile App,Groceries,Garri 10kg,1,9100.0,15,Card,5.0,5.0,0
+ORD100134,18/10/2025,CUST1341,32.0,Female,Ogun,Website,Home & Kitchen,Pressure Pot,2,34800.0,0,Card,4.0,2.0,0
+ORD100268,2025-11-07,CUST1231,18.0,Male,Lagos,Mobile App,Beauty,Hair Extensions,1,34100.0,0,Card,1.0,5.0,0
+ORD100385,2025-02-14,CUST1497,28.0,Female,Oyo,Mobile App,Groceries,Vegetable Oil 5L,4,13400.0,0,Pay on Delivery,4.0,4.0,0
+ORD100097,2025-09-07,CUST1171,32.0,Male,Abuja FCT,Website,Fashion,Sneakers,1,32100.0,15,Bank Transfer,2.0,4.0,0
+ORD100220,2025-02-16,CUST1493,38.0,Female,Kaduna,Mobile App,Electronics,Smartphone,1,118700.0,20,USSD,9.0,,0
+ORD100041,2025-10-04,CUST1168,28.0,Female,Abuja FCT,Physical Store,Beauty,Hair Extensions,3,31500.0,0,Pay on Delivery,0.0,3.0,0
+ORD100219,2025-11-26,CUST1226,33.0,Male,Rivers,Mobile App,Fashion,Sneakers,2,32000.0,0,Pay on Delivery,4.0,4.0,0
+ORD101464,2025-11-07,CUST1541,32.0,Female,Lagos,Website,Electronics,Earbuds,1,14500.0,10,Pay on Delivery,7.0,4.0,0
+ORD100992,2025-11-11,CUST1086,33.0,Male,Enugu,Website,Electronics,Power Bank,1,12200.0,20,Card,5.0,,0
+ORD100829,2025-01-11,CUST1363,39.0,Male,Abuja,Website,Groceries,Garri 10kg,1,9300.0,15,Pay on Delivery,3.0,2.0,0
+ORD101390,2025-04-22,CUST1109,35.0,Female,Abuja FCT,WhatsApp,Electronics,Earbuds,1,14300.0,0,Bank Transfer,5.0,3.0,0
+ORD100765,2025-10-12,CUST1302,25.0,Female,kano,WhatsApp,Home & Kitchen,Standing Fan,2,42300.0,0,Card,4.0,5.0,0
+ORD100861,2025-12-05,CUST1026,27.0,Female,Kaduna,Mobile App,Electronics,Laptop,1,435200.0,0,Card,6.0,5.0,0
+ORD100012,2025-11-08,CUST1145,33.0,Male,Ogun,WhatsApp,Home & Kitchen,Standing Fan,1,41200.0,15,,4.0,4.0,0
+ORD101026,2025-01-29,CUST1593,32.0,Female,lagos,Physical Store,Groceries,Garri 10kg,1,9100.0,20,USSD,0.0,4.0,0
+ORD101072,2025-10-04,CUST1292,31.0,Female,Abuja FCT,Website,Fashion,Ankara Dress,1,18500.0,0,Bank Transfer,2.0,3.0,0
+ORD101149,2025-12-29,CUST1471,36.0,Male,FCT,WhatsApp,Fashion,Agbada,3,55900.0,10,USSD,4.0,,0
+ORD101459,2025-12-23,CUST1011,33.0,Male,Delta,Mobile App,Home & Kitchen,Pressure Pot,2,35400.0,20,Pay on Delivery,3.0,4.0,0
+ORD101288,2025-02-07,CUST1091,36.0,Female,Lagos,WhatsApp,BEAUTY,Shea Butter Set,2,10200.0,20,Bank Transfer,4.0,,0
+ORD100806,2025-07-18,CUST1410,26.0,Female,FCT,Mobile App,Groceries,Indomie Carton,1,8900.0,0,USSD,4.0,3.0,0
+ORD100756,2025-09-27,CUST1117,32.0,Male,Delta,Website,Electronics,Laptop,1,466600.0,0,USSD,4.0,,0
+ORD100946,2025-12-22,CUST1172,34.0,Female,FCT,Mobile App,Electronics,Bluetooth Speaker,3,25300.0,0,Pay on Delivery,8.0,3.0,0
+ORD101345,2025-12-31,CUST1572,32.0,Female,Anambra,Mobile App,Beauty,Hair Extensions,3,31300.0,15,Pay on Delivery,2.0,4.0,0
+ORD100677,2025-11-28,CUST1132,,Female,Lagos,Physical Store,Groceries,Rice 50kg,1,75900.0,0,Pay on Delivery,0.0,4.0,0
+ORD100974,2025-02-23,CUST1518,28.0,Male,Anambra,Website,ELECTRONICS,Smartphone,1,121800.0,0,Card,1.0,4.0,0
+ORD100684,2025-03-03,CUST1134,27.0,Female,Lagos,WhatsApp,Electronics,Laptop,1,439100.0,0,Pay on Delivery,5.0,2.0,1
+ORD101498,2025-06-20,CUST1335,36.0,Female,Abuja FCT,WhatsApp,Home & Kitchen,Blender,3,28300.0,0,Pay on Delivery,3.0,2.0,0
+ORD100862,2025-02-13,CUST1429,31.0,Female,Oyo,Mobile App,Groceries,Rice 50kg,2,81900.0,20,Bank Transfer,6.0,3.0,0
+ORD101378,2025-12-10,CUST1515,36.0,Female,rivers,Physical Store,Beauty,Hair Extensions,1,33000.0,15,Pay on Delivery,0.0,2.0,0
+ORD100669,2025-02-18,CUST1388,31.0,Male,Lagos,WhatsApp,Groceries,Rice 50kg,4,83000.0,20,Bank Transfer,8.0,4.0,0
+ORD100517,2025-01-25,CUST1085,42.0,Male,Oyo,Physical Store,Electronics,Bluetooth Speaker,3,25600.0,20,Pay on Delivery,0.0,3.0,0
+ORD100224,2025-09-21,CUST1427,24.0,Male,Rivers,Website,Electronics,Laptop,1,428100.0,10,Pay on Delivery,4.0,5.0,0
+ORD100336,2025-12-18,CUST1594,52.0,Male,Kaduna,Website,Groceries,Garri 10kg,2,9100.0,15,,6.0,4.0,0
+ORD100232,2025-01-08,CUST1294,27.0,Female,Lagos,WhatsApp,Groceries,Vegetable Oil 5L,3,14200.0,5,Card,5.0,3.0,0
+ORD101212,2025-06-18,CUST1214,39.0,Female,Oyo,Website,Fashion,Handbag,1,22600.0,15,Bank Transfer,3.0,4.0,0
+ORD100572,2025-11-11,CUST1180,38.0,Male,FCT,Mobile App,Fashion,Agbada,2,58100.0,5,Card,6.0,4.0,1
+ORD101109,2025-01-17,CUST1497,49.0,Female,Kaduna,Website,Groceries,Vegetable Oil 5L,5,14400.0,10,Card,9.0,3.0,0
+ORD100468,2025-03-08,CUST1484,48.0,Male,Lagos,Mobile App,Fashion,Handbag,1,22200.0,10,Card,2.0,5.0,0
+ORD101086,2025-11-14,CUST1444,26.0,Female,Lagos,Mobile App,Groceries,Rice 50kg,5,77000.0,15,Pay on Delivery,1.0,3.0,0
+ORD101484,2025-06-01,CUST1051,25.0,Male,Anambra,Website,Home & Kitchen,Gas Cooker,1,64100.0,5,Card,3.0,4.0,0
+ORD100704,2025-02-17,CUST1307,35.0,Female,Delta,Mobile App,Electronics,Laptop,1,447000.0,20,Bank Transfer,3.0,,0
+ORD100297,2025-06-10,CUST1103,34.0,Female,FCT,Mobile App,Fashion,Agbada,1,56500.0,0,,5.0,4.0,0
+ORD100887,2025-03-12,CUST1091,35.0,Male,Ogun,Mobile App,Home & Kitchen,Pressure Pot,1,34600.0,0,USSD,5.0,5.0,0
+ORD101084,2025-03-15,CUST1050,23.0,Female,Rivers,WhatsApp,Groceries,Indomie Carton,3,8100.0,20,Card,4.0,2.0,0
+ORD100473,2025-06-20,CUST1128,29.0,Female,Lagos,WhatsApp,Fashion,Ankara Dress,1,18200.0,20,Pay on Delivery,2.0,2.0,0
+ORD101417,2025-06-10,CUST1037,38.0,Female,Delta,Physical Store,Electronics,Smartphone,3,124000.0,15,Card,0.0,3.0,0
+ORD100205,2025-04-08,CUST1574,34.0,Male,Kano,Website,Fashion,Sneakers,3,30200.0,0,Card,6.0,5.0,0
+ORD100003,2025-06-10,CUST1282,29.0,Female,Ogun,WhatsApp,Home & Kitchen,Gas Cooker,1,65100.0,15,Bank Transfer,3.0,5.0,0
+ORD101064,2025-10-02,CUST1010,40.0,Female,Rivers,Website,Electronics,Power Bank,2,12200.0,20,USSD,3.0,,0
+ORD101054,2025-01-28,CUST1234,27.0,Female,Lagos,Website,Home & Kitchen,Blender,3,28700.0,10,Pay on Delivery,7.0,2.0,0
+ORD100729,2025-08-29,CUST1487,,Female,Ogun,Mobile App,Home & Kitchen,Standing Fan,1,43000.0,20,Card,4.0,,0
+ORD101397,2025-08-27,CUST1485,43.0,Female,Lagos,Mobile App,Home & Kitchen,Pressure Pot,1,34400.0,5,Pay on Delivery,6.0,3.0,0
+ORD101393,2025-09-28,CUST1363,42.0,Female,Abuja FCT,Website,Groceries,Garri 10kg,5,8800.0,0,Bank Transfer,7.0,3.0,0
+ORD101488,2025-02-10,CUST1545,20.0,Female,Oyo,Mobile App,Fashion,Handbag,3,23200.0,0,Bank Transfer,8.0,3.0,0
+ORD101321,2025-04-11,CUST1377,32.0,Female,Rivers,WhatsApp,Groceries,Garri 10kg,3,9600.0,20,Bank Transfer,8.0,,0
+ORD100736,2025-09-24,CUST1023,32.0,Female,Lagos,Website,Electronics,Power Bank,1,12300.0,20,Bank Transfer,2.0,4.0,1
+ORD100692,2025-12-06,CUST1463,36.0,Female,Kaduna,Website,Electronics,Power Bank,2,11400.0,20,Pay on Delivery,5.0,5.0,0
+ORD101063,2025-09-15,CUST1248,33.0,Female,Lagos,Mobile App,Groceries,Indomie Carton,5,8500.0,5,Pay on Delivery,9.0,2.0,0
+ORD100637,2025-04-19,CUST1541,30.0,Female,Lagos,Mobile App,Electronics,Laptop,1,437900.0,5,Bank Transfer,4.0,4.0,0
+ORD100705,2025-11-28,CUST1310,19.0,Male,Rivers,Mobile App,Electronics,Bluetooth Speaker,2,25900.0,0,Bank Transfer,4.0,,0
+ORD100820,2025-01-09,CUST1204,30.0,Male,Oyo,Website,Home & Kitchen,Blender,1,29800.0,20,Card,4.0,3.0,0
+ORD100157,2025-12-05,CUST1502,30.0,Male,enugu,WhatsApp,Electronics,Laptop,1,467400.0,15,Bank Transfer,3.0,5.0,0
+ORD100462,2025-10-01,CUST1395,18.0,Male,Oyo,WhatsApp,Electronics,Smartphone,1,127700.0,5,Pay on Delivery,1.0,5.0,0
+ORD100160,2025-12-30,CUST1273,26.0,Male,Kaduna,WhatsApp,Beauty,Perfume,1,25500.0,20,Bank Transfer,6.0,,0
+ORD100305,2025-02-21,CUST1158,23.0,Male,Abuja FCT,Website,Electronics,Laptop,3,448600.0,0,USSD,5.0,4.0,0
+ORD100395,2025-11-16,CUST1224,47.0,Male,Kaduna,Mobile App,Beauty,Hair Extensions,2,31900.0,0,Bank Transfer,7.0,3.0,0
+ORD100399,2025-04-24,CUST1389,41.0,Female,Rivers,Mobile App,Groceries,Indomie Carton,3,9000.0,5,Pay on Delivery,5.0,4.0,0
+ORD101166,2025-01-09,CUST1072,28.0,Female,Anambra,Mobile App,Electronics,Bluetooth Speaker,2,26500.0,0,Bank Transfer,2.0,4.0,0
+ORD100702,2025-03-03,CUST1405,42.0,Female,FCT,Website,Groceries,Indomie Carton,4,8800.0,20,USSD,5.0,5.0,0
+ORD101458,2025-04-07,CUST1544,19.0,Male,Oyo,WhatsApp,Electronics,Laptop,1,460100.0,10,USSD,5.0,4.0,0
+ORD101272,2025-11-25,CUST1232,28.0,Female,Ogun,Website,Home & Kitchen,Gas Cooker,2,63500.0,15,Pay on Delivery,7.0,5.0,0
+ORD101250,2025-03-30,CUST1369,,Female,Rivers,WhatsApp,Fashion,Agbada,1,54400.0,5,Card,1.0,5.0,0
+ORD100777,2025-02-13,CUST1367,37.0,Male,Kaduna,WhatsApp,Electronics,Bluetooth Speaker,1,24600.0,20,USSD,5.0,,0
+ORD101368,2025-12-26,CUST1495,46.0,Female,Abuja,Mobile App,Electronics,Smartphone,1,115200.0,15,Bank Transfer,6.0,3.0,0
+ORD101426,2025-09-03,CUST1169,40.0,Female,Oyo,Mobile App,Electronics,Smartphone,1,114400.0,15,Bank Transfer,6.0,4.0,0
+ORD100457,2025-08-20,CUST1164,29.0,Male,Lagos,Website,Beauty,Shea Butter Set,2,9100.0,15,USSD,3.0,3.0,0
+ORD101487,2025-01-01,CUST1405,49.0,Male,Rivers,Website,Electronics,Power Bank,2,12200.0,0,Bank Transfer,6.0,5.0,0
+ORD100478,2025-08-31,CUST1163,21.0,Female, Lagos ,Website,Beauty,Perfume,2,25700.0,0,Card,3.0,4.0,0
+ORD100638,2025-10-17,CUST1587,42.0,Female,Lagos,WhatsApp,Home & Kitchen,Blender,2,27300.0,15,Card,5.0,3.0,0
+ORD101126,2025-11-08,CUST1291,39.0,Female,Oyo,Physical Store,Groceries,Garri 10kg,3,9500.0,0,Pay on Delivery,0.0,5.0,0
+ORD101406,2025-11-29,CUST1212,32.0,Male,Anambra,Mobile App,Beauty,Shea Butter Set,3,9900.0,5,Bank Transfer,4.0,5.0,0
+ORD100700,2025-07-09,CUST1572,34.0,Female,Lagos,Website,Beauty,Hair Extensions,1,30700.0,0,Pay on Delivery,4.0,3.0,0
+ORD101079,2025-11-02,CUST1408,28.0,Female,Lagos,Mobile App,Fashion,Ankara Dress,3,17100.0,0,Card,1.0,4.0,0
+ORD101326,2025-09-05,CUST1425,41.0,Female,Lagos,Website,Electronics,Bluetooth Speaker,3,24600.0,0,USSD,2.0,3.0,0
+ORD100347,2025-12-08,CUST1041,24.0,Female,Abuja,Mobile App,Groceries,Vegetable Oil 5L,1,14300.0,0,USSD,1.0,4.0,0
+ORD100446,2025-04-25,CUST1377,,Male,Lagos,Website,Groceries,Garri 10kg,3,9400.0,0,Pay on Delivery,3.0,4.0,0
+ORD101359,2025-05-14,CUST1019,20.0,Male,Rivers,Mobile App,Home & Kitchen,Standing Fan,1,44000.0,15,Bank Transfer,7.0,4.0,0
+ORD100379,2025-04-06,CUST1554,34.0,Female,Abuja FCT,Physical Store,Beauty,Perfume,3,26400.0,15,Card,0.0,5.0,0
+ORD101315,2025-04-20,CUST1476,54.0,Male,Lagos,Mobile App,Groceries,Indomie Carton,4,8700.0,15,Card,5.0,5.0,0
+ORD100635,2025-11-06,CUST1201,18.0,Male,Enugu,Website,Electronics,Power Bank,2,11700.0,15,Bank Transfer,5.0,4.0,0
+ORD101005,2025-12-03,CUST1153,35.0,Female,Ogun,Website,Electronics,Earbuds,3,15800.0,10,Pay on Delivery,4.0,2.0,1
+ORD100231,2025-11-09,CUST1384,38.0,Male,Delta,Website,Electronics,Bluetooth Speaker,1,25900.0,20,Card,2.0,5.0,0
+ORD100382,2025-11-30,CUST1388,33.0,Male,Lagos,Website,Beauty,Hair Extensions,1,34500.0,0,USSD,4.0,5.0,0
+ORD101246,2025-11-10,CUST1388,29.0,Female,Lagos,Website,Home & Kitchen,Blender,3,29800.0,0,USSD,2.0,4.0,0
+ORD100072,2025-06-18,CUST1327,46.0,Male,Kano,Website,Home & Kitchen,Standing Fan,1,45200.0,0,Bank Transfer,3.0,3.0,0
+ORD100070,12/12/2025,CUST1291,41.0,Male,oyo,Website,ELECTRONICS,Earbuds,3,15900.0,15,Bank Transfer,2.0,5.0,0
+ORD100091,2025-10-21,CUST1367,18.0,Male, Delta ,Mobile App,Beauty,Shea Butter Set,3,9900.0,15,Bank Transfer,9.0,4.0,0
+ORD101380,2025-12-24,CUST1369,,Male,Oyo,WhatsApp,Groceries,Vegetable Oil 5L,1,13800.0,0,USSD,4.0,3.0,0
+ORD100171,2025-02-02,CUST1496,21.0,Male,Enugu,WhatsApp,Groceries,Indomie Carton,1,9200.0,0,Bank Transfer,5.0,4.0,0
+ORD100168,2025-05-03,CUST1382,42.0,Male,FCT,Website,Electronics,Smartphone,1,121500.0,0,USSD,2.0,5.0,0
+ORD100493,2025-12-04,CUST1382,32.0,Male,Enugu,WhatsApp,Groceries,Vegetable Oil 5L,2,13100.0,0,Bank Transfer,4.0,4.0,0
+ORD100602,2025-09-27,CUST1044,18.0,Female,Delta,Website,Groceries,Indomie Carton,4,8700.0,0,Bank Transfer,-1.0,,0
+ORD101347,2025-09-13,CUST1428,,Male,Rivers,Website,Home & Kitchen,Gas Cooker,3,65500.0,15,Pay on Delivery,8.0,,1
+ORD100272,2025-02-25,CUST1439,27.0,Male,Abuja FCT,Physical Store,Groceries,Rice 50kg,2,76300.0,0,Pay on Delivery,0.0,4.0,0
+ORD101151,2025-12-15,CUST1581,29.0,Female,Oyo,WhatsApp,Groceries,Rice 50kg,1,77300.0,0,Pay on Delivery,4.0,2.0,0
+ORD100420,05/12/2025,CUST1459,26.0,Male,Kano,Website,Home & Kitchen,Blender,1,27200.0,0,USSD,3.0,3.0,0
+ORD100094,2025-12-08,CUST1126,18.0,Female,Rivers,WhatsApp,Fashion,Ankara Dress,1,18200.0,10,Pay on Delivery,10.0,3.0,0
+ORD101038,2025-06-09,CUST1126,41.0,Female,Rivers,Mobile App,Fashion,Agbada,3,58000.0,10,USSD,2.0,4.0,0
+ORD100926,2025-07-17,CUST1000,31.0,Male,Lagos,Mobile App,Groceries,Garri 10kg,1,9700.0,10,Card,3.0,,0
+ORD100042,2025-09-13,CUST1448,,Female,Kaduna,Mobile App,Home & Kitchen,Pressure Pot,2,34000.0,15,,-1.0,3.0,0
+ORD100056,2025-07-19,CUST1222,34.0,Female,Rivers,WhatsApp,Groceries,Indomie Carton,5,8900.0,0,Pay on Delivery,2.0,4.0,0
+ORD101492,2025-01-11,CUST1017,52.0,Male,Delta,Mobile App,Beauty,Shea Butter Set,3,9400.0,5,Pay on Delivery,3.0,,0
+ORD101352,2025-06-30,CUST1594,22.0,Female,Kaduna,WhatsApp,Groceries,Rice 50kg,3,74900.0,15,,7.0,4.0,0
+ORD100038,2025-04-12,CUST1012,36.0,Female,Kaduna,Website,Electronics,Power Bank,1,11400.0,0,USSD,4.0,3.0,0
+ORD100306,2025-04-21,CUST1248,51.0,Female,Anambra,WhatsApp,Electronics,Earbuds,1,14600.0,0,Bank Transfer,6.0,2.0,0
+ORD100683,2025-12-16,CUST1543,32.0,Female,Lagos,Physical Store,Fashion,Agbada,2,58800.0,0,Bank Transfer,0.0,5.0,0
+ORD100664,2025-08-07,CUST1442,18.0,Female,Oyo,Mobile App,Electronics,Laptop,1,445400.0,20,Pay on Delivery,3.0,3.0,0
+ORD100408,2025-12-08,CUST1254,22.0,Male,Lagos,Mobile App,Groceries,Garri 10kg,2,9600.0,10,Bank Transfer,4.0,,0
+ORD100166,2025-11-19,CUST1177,22.0,Male,FCT,Physical Store,Electronics,Laptop,2,439000.0,20,Bank Transfer,0.0,,0
+ORD100534,2025-07-30,CUST1367,45.0,Female,Ogun,WhatsApp,Groceries,Rice 50kg,3,81500.0,10,Bank Transfer,5.0,,0
+ORD100893,2025-12-24,CUST1388,,Female,Kaduna,WhatsApp,Groceries,Vegetable Oil 5L,1,13500.0,15,Bank Transfer,4.0,5.0,0
+ORD101444,2025-02-20,CUST1551,39.0,Male,Ogun,Mobile App,Electronics,Earbuds,3,15200.0,10,Card,4.0,3.0,0
+ORD101083,2025-07-22,CUST1395,29.0,Female, Oyo ,Mobile App,Fashion,Sneakers,1,29700.0,10,Card,3.0,5.0,0
+ORD101434,2025-04-27,CUST1145,42.0,Female,Abuja FCT,Website,Groceries,Indomie Carton,5,8800.0,20,USSD,4.0,3.0,0
+ORD100717,2025-06-29,CUST1261,31.0,Female,Lagos,Website,Home & Kitchen,Gas Cooker,2,70000.0,0,USSD,4.0,5.0,0
+ORD101402,2025-04-20,CUST1393,42.0,Female,Rivers,Website,Electronics,Bluetooth Speaker,1,26100.0,20,Pay on Delivery,5.0,4.0,0
+ORD100316,2025-09-24,CUST1350,,Male,Kaduna,Physical Store,Home & Kitchen,Pressure Pot,2,35100.0,0,,0.0,5.0,0
+ORD101134,2025-08-13,CUST1215,28.0,Female,Lagos,Mobile App,Groceries,Vegetable Oil 5L,1,13800.0,0,Bank Transfer,5.0,4.0,0
+ORD101306,2025-04-03,CUST1206,46.0,Female,Rivers,Mobile App,Groceries,Rice 50kg,5,76400.0,0,Pay on Delivery,2.0,4.0,0
+ORD100516,2025-11-18,CUST1103,999.0,Female,Abuja FCT,WhatsApp,Groceries,Vegetable Oil 5L,2,14200.0,20,Pay on Delivery,3.0,,0
+ORD101116,2025-12-30,CUST1036,60.0,Female,Lagos,WhatsApp,Groceries,Garri 10kg,2,9700.0,10,Bank Transfer,4.0,,0
+ORD100533,2025-04-14,CUST1316,38.0,Male,Lagos,Website,Electronics,Bluetooth Speaker,1,25600.0,20,Bank Transfer,6.0,,0
+ORD101089,2025-02-21,CUST1547,25.0,Male,Abuja,Website,Electronics,Earbuds,2,14900.0,10,Bank Transfer,6.0,5.0,0
+ORD101437,2025-08-27,CUST1041,,Female,Abuja FCT,Physical Store,Electronics,Power Bank,1,12300.0,5,Card,0.0,5.0,0
+ORD100903,2025-11-19,CUST1408,,Female,Lagos,Physical Store,Groceries,Vegetable Oil 5L,4,14300.0,15,Pay on Delivery,0.0,4.0,0
+ORD100548,2025-07-08,CUST1272,,Female,Ogun,Website,Electronics,Laptop,2,429900.0,5,Card,2.0,5.0,0
+ORD100453,2025-01-10,CUST1450,26.0,Male,Delta,Website,Electronics,Power Bank,2,12400.0,0,Card,4.0,3.0,0
+ORD101240,2025-12-16,CUST1401,48.0,Female,Rivers,Mobile App,Home & Kitchen,Standing Fan,2,43400.0,20,Card,5.0,4.0,0
+ORD100598,2025-08-18,CUST1370,47.0,Female,Lagos,WhatsApp,Beauty,Shea Butter Set,1,9900.0,0,Pay on Delivery,4.0,4.0,0
+ORD100672,2025-08-21,CUST1271,30.0,Male,Abuja,Website,Fashion,Handbag,3,22600.0,10,Pay on Delivery,5.0,,0
+ORD100570,2025-12-13,CUST1048,42.0,Female,Lagos,Mobile App,Home & Kitchen,Gas Cooker,1,66800.0,0,USSD,8.0,,0
+ORD100665,2025-09-11,CUST1573,45.0,Male,Enugu,Website,Fashion,Handbag,1,21000.0,0,Bank Transfer,5.0,,0
+ORD100061,2025-11-26,CUST1532,,Male,Abuja,Website,Fashion,Ankara Dress,2,18800.0,0,Bank Transfer,7.0,3.0,0
+ORD101049,2025-02-13,CUST1497,40.0,Female,Lagos,Website,Groceries,Rice 50kg,1,82300.0,0,Pay on Delivery,5.0,,0
+ORD100536,2025-06-16,CUST1362,33.0,Female,Enugu,Mobile App,Electronics,Smartphone,1,123900.0,0,Card,6.0,1.0,0
+ORD101038,2025-06-09,CUST1126,41.0,Female,Rivers,Mobile App,Fashion,Agbada,3,58000.0,10,USSD,2.0,4.0,0
+ORD101037,2025-01-06,CUST1554,43.0,Female,Anambra,Mobile App,Home & Kitchen,Blender,1,27100.0,0,Bank Transfer,7.0,5.0,0
+ORD100244,2025-08-18,CUST1102,32.0,Female,Enugu,Mobile App,Electronics,Power Bank,1,11800.0,15,Card,5.0,4.0,0
+ORD100025,2025-08-24,CUST1092,28.0,Female,Abuja FCT,Mobile App,Electronics,Earbuds,1,14500.0,5,Bank Transfer,1.0,3.0,0
+ORD100222,2025-12-27,CUST1399,30.0,Male,Lagos,Mobile App,Home & Kitchen,Standing Fan,3,41700.0,20,USSD,5.0,4.0,0
+ORD100947,2025-02-18,CUST1409,32.0,Male,Enugu,Website,Electronics,Bluetooth Speaker,1,23800.0,0,Bank Transfer,5.0,5.0,0
+ORD100105,2025-10-15,CUST1127,23.0,Female,Abuja,WhatsApp,Groceries,Garri 10kg,4,9200.0,20,USSD,3.0,,0
+ORD100875,2025-07-04,CUST1269,53.0,Female,lagos,Physical Store,Fashion,Ankara Dress,2,18800.0,0,Card,0.0,4.0,0
+ORD100509,2025-03-28,CUST1058,37.0,Male,Lagos,Website,Electronics,Smartphone,2,119700.0,20,Bank Transfer,2.0,5.0,1
+ORD100131,2025-07-22,CUST1401,36.0,Female,Oyo,Mobile App,Beauty,Hair Extensions,1,32400.0,0,Pay on Delivery,6.0,5.0,0
+ORD100444,2025-07-05,CUST1306,23.0,Female,Enugu,WhatsApp,Home & Kitchen,Standing Fan,2,44000.0,15,Card,5.0,,0
+ORD100668,2025-12-02,CUST1306,38.0,Male,Kano,Physical Store,Fashion,Agbada,2,56700.0,20,Card,0.0,1.0,1
+ORD100508,2025-04-09,CUST1318,26.0,Female,Kaduna,Mobile App,Groceries,Vegetable Oil 5L,4,14400.0,15,Pay on Delivery,5.0,4.0,0
+ORD101410,2025-01-23,CUST1565,30.0,Female,Abuja,Mobile App,Fashion,Agbada,1,55200.0,15,Bank Transfer,4.0,,0
+ORD100075,2025-12-16,CUST1438,38.0,Female,Rivers,Website,Beauty,Shea Butter Set,2,9600.0,20,USSD,1.0,5.0,0
+ORD100036,2025-11-10,CUST1576,20.0,Female,Kano,Mobile App,Groceries,Vegetable Oil 5L,2,14100.0,0,USSD,6.0,3.0,0
+ORD101470,2025-11-24,CUST1190,28.0,Female,Abuja,WhatsApp,Beauty,Hair Extensions,1,31100.0,5,Pay on Delivery,6.0,5.0,0
+ORD100057,2025-02-26,CUST1067,35.0,Female,Delta,WhatsApp,Electronics,Earbuds,1,15200.0,0,Bank Transfer,5.0,3.0,0
+ORD100196,06/05/2025,CUST1176,,Female,Kaduna,Mobile App,Groceries,Indomie Carton,2,8300.0,5,Pay on Delivery,6.0,,0
+ORD101259,2025-10-20,CUST1472,31.0,Male,Rivers,Website,ELECTRONICS,Smartphone,2,117100.0,10,Pay on Delivery,2.0,4.0,0
+ORD100734,2025-03-18,CUST1144,,Male,Abuja FCT,Mobile App,ELECTRONICS,Power Bank,1,12800.0,0,Card,8.0,2.0,0
+ORD100866,2025-11-06,CUST1413,28.0,Male,FCT,Website,Groceries,Indomie Carton,2,8500.0,20,Bank Transfer,9.0,3.0,0
+ORD100687,2025-08-05,CUST1098,40.0,Female,FCT,Website,Beauty,Hair Extensions,3,33900.0,10,Card,4.0,4.0,0
+ORD100477,2025-01-07,CUST1340,24.0,Female,Abuja,Mobile App,Beauty,Perfume,2,26000.0,0,Card,5.0,4.0,0
+ORD100086,2025-02-05,CUST1515,50.0,Male,Lagos,WhatsApp,Electronics,Smartphone,3,118300.0,10,Card,4.0,4.0,0
+ORD100561,2025-01-16,CUST1258,54.0,Female,Abuja,Physical Store,Groceries,Vegetable Oil 5L,3,14300.0,10,USSD,0.0,4.0,1
+ORD100334,2025-06-17,CUST1238,23.0,Female,Oyo,WhatsApp,Fashion,Agbada,3,57700.0,10,Card,7.0,3.0,0
+ORD101048,2025-09-01,CUST1099,18.0,Male,FCT,WhatsApp,Fashion,Sneakers,1,29200.0,5,Card,8.0,2.0,1
+ORD100921,2025-07-28,CUST1448,41.0,Female,Lagos,WhatsApp,Home & Kitchen,Gas Cooker,1,68400.0,10,Bank Transfer,3.0,5.0,0
+ORD100933,2025-08-25,CUST1173,25.0,Male,Anambra,Physical Store,Electronics,Power Bank,1,12700.0,0,Pay on Delivery,0.0,,0
+ORD101178,2025-12-07,CUST1361,30.0,Female,Lagos,WhatsApp,Groceries,Rice 50kg,2,74500.0,15,Pay on Delivery,3.0,4.0,0
+ORD101183,13/06/2025,CUST1231,24.0,Male,Lagos,Mobile App,Fashion,Ankara Dress,1,18800.0,20,Pay on Delivery,6.0,3.0,0
+ORD100538,2025-07-17,CUST1596,25.0,Female,Rivers,Website,Electronics,Power Bank,1,11700.0,5,Bank Transfer,5.0,4.0,0
+ORD100788,2025-07-18,CUST1457,49.0,Male,Lagos,Mobile App,Fashion,Handbag,1,22600.0,0,Bank Transfer,1.0,5.0,0
+ORD100656,2025-10-07,CUST1427,18.0,Male,Delta,Mobile App,Electronics,Smartphone,3,128200.0,0,Pay on Delivery,6.0,,0
+ORD100418,2025-04-19,CUST1139,30.0,Female,Rivers,Mobile App,ELECTRONICS,Smartphone,1,128300.0,10,Bank Transfer,5.0,5.0,0
+ORD101337,2025-04-19,CUST1086,31.0,Female,Lagos,Mobile App,Electronics,Earbuds,2,16100.0,20,Bank Transfer,4.0,3.0,0
+ORD100169,2025-01-09,CUST1155,24.0,Female,rivers,Website,Groceries,Vegetable Oil 5L,5,14400.0,0,Card,-1.0,5.0,0
+ORD101021,2025-01-27,CUST1003,47.0,Male,Lagos,WhatsApp,Electronics,Bluetooth Speaker,1,24200.0,5,Bank Transfer,1.0,4.0,0
+ORD100573,2025-01-18,CUST1557,43.0,Male,Ogun,WhatsApp,Fashion,Sneakers,2,31000.0,5,Card,6.0,5.0,0
+ORD100660,2025-03-06,CUST1022,44.0,Female,Kaduna,Mobile App,Electronics,Power Bank,1,12400.0,0,Bank Transfer,6.0,5.0,0
+ORD101289,2025-08-15,CUST1075,32.0,Female,enugu,Website,Groceries,Rice 50kg,4,80200.0,0,Bank Transfer,7.0,4.0,0
+ORD100332,2025-04-24,CUST1079,34.0,Female, Enugu ,Mobile App,Electronics,Laptop,1,463500.0,10,Pay on Delivery,6.0,,0
+ORD101197,2025-12-25,CUST1243,36.0,Male,Abuja,Mobile App,Beauty,Shea Butter Set,1,10000.0,0,Pay on Delivery,3.0,,0
+ORD100574,2025-01-03,CUST1386,53.0,Male,Kaduna,Physical Store,Fashion,Ankara Dress,1,17400.0,0,USSD,0.0,,0
+ORD101304,2025-08-11,CUST1414,21.0,Female,Ogun,Website,Electronics,Earbuds,1,15700.0,0,USSD,9.0,3.0,0
+ORD101113,2025-04-17,CUST1287,36.0,Female,Kano,Mobile App,Groceries,Vegetable Oil 5L,3,14500.0,10,Card,5.0,4.0,0
+ORD101194,2025-07-11,CUST1087,57.0,Male,Rivers,WhatsApp,Electronics,Laptop,2,480600.0,0,Card,3.0,4.0,0
+ORD101386,2025-07-24,CUST1553,43.0,Male,Rivers,Mobile App,Fashion,Ankara Dress,1,19000.0,0,Bank Transfer,7.0,3.0,0
+ORD101228,2025-02-26,CUST1431,19.0,Female,Ogun,Website,Groceries,Rice 50kg,3,78700.0,15,Bank Transfer,5.0,5.0,0
+ORD101267,2025-11-20,CUST1415,27.0,Female,Kaduna,Mobile App,Home & Kitchen,Pressure Pot,3,34200.0,20,Bank Transfer,5.0,5.0,0
+ORD100335,2025-10-23,CUST1360,,Male,Kaduna,Mobile App,Fashion,Agbada,1,53400.0,5,Bank Transfer,3.0,,0
+ORD100008,2025-11-16,CUST1191,33.0,Male,Abuja,WhatsApp,Electronics,Laptop,3,434600.0,10,Bank Transfer,4.0,5.0,0
+ORD100955,2025-08-12,CUST1411,34.0,Female,Kano,WhatsApp,Groceries,Rice 50kg,1,76600.0,10,Bank Transfer,5.0,3.0,0
+ORD101307,2025-03-28,CUST1380,23.0,Male,Abuja,Mobile App,Fashion,Agbada,2,57500.0,0,USSD,2.0,,0
+ORD101226,2025-02-09,CUST1116,30.0,Male,Enugu,Mobile App,Groceries,Indomie Carton,4,9000.0,20,USSD,3.0,3.0,0
+ORD100304,2025-07-18,CUST1455,42.0,Female,Lagos,WhatsApp,Groceries,Vegetable Oil 5L,3,13300.0,15,Bank Transfer,6.0,,0
+ORD101454,2025-07-28,CUST1069,29.0,Female,FCT,Website,Groceries,Rice 50kg,3,80100.0,20,Bank Transfer,2.0,5.0,0
+ORD100779,2025-11-07,CUST1528,26.0,Male,Lagos,Website,Beauty,Hair Extensions,1,33900.0,20,Card,1.0,4.0,0
+ORD100074,2025-09-08,CUST1402,37.0,Male,Rivers,Physical Store,Home & Kitchen,Gas Cooker,1,67500.0,15,Pay on Delivery,0.0,5.0,0
+ORD100879,2025-08-18,CUST1135,18.0,Male,Enugu,Mobile App,Fashion,Ankara Dress,3,18100.0,10,Bank Transfer,6.0,3.0,0
+ORD100522,2025-03-12,CUST1578,30.0,Male,Lagos,WhatsApp,Electronics,Smartphone,3,117100.0,0,Pay on Delivery,7.0,5.0,0
+ORD100335,2025-10-23,CUST1360,,Male,Kaduna,Mobile App,Fashion,Agbada,1,53400.0,5,Bank Transfer,3.0,,0
+ORD100569,2025-07-28,CUST1491,36.0,Female,Abuja,Physical Store,Fashion,Agbada,3,58700.0,0,,0.0,,0
+ORD100590,2025-12-24,CUST1241,28.0,Female,Rivers,Website,Home & Kitchen,Blender,1,26900.0,15,Bank Transfer,4.0,5.0,0
+ORD100088,2025-10-08,CUST1368,22.0,Male,Delta,Mobile App,Groceries,Indomie Carton,3,8400.0,20,Card,1.0,4.0,0
+ORD100755,2025-06-09,CUST1472,55.0,Female,Kaduna,WhatsApp,Fashion,Ankara Dress,1,17300.0,20,Card,7.0,4.0,0
+ORD100217,2025-02-05,CUST1168,18.0,Male,Lagos,Mobile App,Electronics,Power Bank,3,11700.0,0,Pay on Delivery,3.0,4.0,0
+ORD101041,2025-11-09,CUST1239,30.0,Male,Kano,Physical Store,Home & Kitchen,Standing Fan,1,40700.0,0,Card,0.0,4.0,0
+ORD100173,2025-09-21,CUST1548,35.0,Female,Kano,Physical Store,Beauty,Shea Butter Set,2,9600.0,0,Card,0.0,4.0,0
+ORD101400,2025-11-08,CUST1269,37.0,Female,Kano,WhatsApp,Home & Kitchen,Standing Fan,3,40500.0,15,Bank Transfer,3.0,4.0,0
+ORD100221,2025-12-20,CUST1480,47.0,Female,FCT,WhatsApp,Home & Kitchen,Standing Fan,1,43600.0,15,Card,6.0,5.0,0
+ORD100319,2025-10-08,CUST1080,31.0,Male,Kaduna,WhatsApp,Fashion,Ankara Dress,1,19200.0,0,USSD,3.0,4.0,0
+ORD101325,2025-03-10,CUST1048,39.0,Male,Kano,Mobile App,Groceries,Vegetable Oil 5L,1,12900.0,20,Pay on Delivery,4.0,4.0,0
+ORD101362,2025-05-09,CUST1384,41.0,Male,Ogun,Mobile App,Groceries,Indomie Carton,5,8400.0,0,Pay on Delivery,3.0,5.0,0
+ORD101460,2025-10-16,CUST1466,31.0,Female,Kano,WhatsApp,Fashion,Agbada,1,52700.0,10,USSD,4.0,,0
+ORD100266,2025-06-13,CUST1461,35.0,Male,Abuja,Physical Store,Electronics,Earbuds,1,15200.0,0,Pay on Delivery,0.0,5.0,0
+ORD100006,2025-02-01,CUST1237,26.0,Female,Enugu,WhatsApp,Groceries,Rice 50kg,5,80100.0,15,Card,3.0,3.0,0
+ORD100925,2025-12-12,CUST1009,33.0,Female,Rivers,Physical Store,Groceries,Vegetable Oil 5L,1,14300.0,0,Pay on Delivery,0.0,,0
+ORD100138,2025-05-07,CUST1513,33.0,Female,Rivers,Mobile App,Home & Kitchen,Standing Fan,1,40800.0,15,Pay on Delivery,4.0,3.0,0
+ORD100163,2025-05-29,CUST1366,37.0,Female, Kaduna ,Website,Groceries,Vegetable Oil 5L,2,12900.0,20,Card,8.0,3.0,0
+ORD101253,2025-10-17,CUST1266,28.0,Male,Lagos,Website,Groceries,Vegetable Oil 5L,3,14100.0,15,Card,4.0,4.0,0
+ORD100594,28/04/2025,CUST1570,33.0,Female,Abuja,WhatsApp,Electronics,Power Bank,1,12900.0,10,Pay on Delivery,3.0,4.0,0
+ORD101436,2025-06-05,CUST1087,30.0,Male,Abuja FCT,Physical Store,Home & Kitchen,Gas Cooker,1,64900.0,20,Pay on Delivery,0.0,4.0,0
+ORD101344,2025-03-10,CUST1559,,Female,Lagos,Mobile App,Home & Kitchen,Standing Fan,3,43500.0,20,Card,3.0,4.0,0
+ORD101104,2025-04-22,CUST1475,33.0,Male,Lagos,WhatsApp,Beauty,Perfume,1,24800.0,15,Pay on Delivery,1.0,4.0,0
+ORD101446,2025-11-16,CUST1034,21.0,Female,Oyo,Mobile App,Fashion,Handbag,2,22000.0,0,Card,2.0,4.0,0
+ORD100523,2025-10-29,CUST1498,36.0,Female,Lagos,WhatsApp,Fashion,Sneakers,2,28900.0,20,Card,4.0,,0
+ORD100876,2025-07-17,CUST1211,37.0,Female,Ogun,Website,Electronics,Power Bank,3,12600.0,0,USSD,1.0,2.0,0
+ORD101159,2025-05-05,CUST1548,39.0,Male,Abuja,Mobile App,Electronics,Earbuds,2,15400.0,0,Pay on Delivery,7.0,,0
+ORD100578,2025-11-23,CUST1418,48.0,Female,Lagos,Website,Home & Kitchen,Gas Cooker,3,68700.0,10,USSD,6.0,5.0,0
+ORD101285,2025-01-18,CUST1121,32.0,Female,Anambra,Mobile App,ELECTRONICS,Smartphone,2,121300.0,10,Bank Transfer,6.0,3.0,0
+ORD100019,2025-06-14,CUST1158,44.0,Female,Abuja,Website,Electronics,Earbuds,2,15300.0,0,Card,7.0,5.0,0
+ORD100715,2025-10-19,CUST1344,39.0,Female,Lagos,Website,Home & Kitchen,Blender,2,29700.0,0,USSD,5.0,4.0,0
+ORD100633,2025-05-19,CUST1034,41.0,Male,Lagos,Website,Fashion,Agbada,2,52300.0,5,USSD,1.0,4.0,0
+ORD100782,2025-02-14,CUST1142,35.0,Female,Abuja,Mobile App,Beauty,Perfume,1,26400.0,5,Card,4.0,5.0,0
+ORD100618,2025-01-23,CUST1230,33.0,Male,Ogun,Mobile App,FASHION,Sneakers,2,32100.0,20,Card,4.0,2.0,0
+ORD101114,2025-03-12,CUST1490,37.0,Male,Kaduna,WhatsApp,Home & Kitchen,Gas Cooker,1,65100.0,0,Card,7.0,5.0,0
+ORD100655,2025-07-14,CUST1018,19.0,Female,Lagos,Website,Electronics,Smartphone,1,119700.0,0,Pay on Delivery,2.0,4.0,0
+ORD100838,2025-01-06,CUST1115,45.0,Male,Rivers,Mobile App,Home & Kitchen,Standing Fan,1,41200.0,5,Bank Transfer,4.0,5.0,1
+ORD100768,2025-02-21,CUST1002,36.0,Female,FCT,WhatsApp,Groceries,Indomie Carton,2,8500.0,0,Card,1.0,3.0,0
+ORD100137,2025-01-12,CUST1374,34.0,Male,Lagos,Mobile App,Electronics,Smartphone,1,115300.0,10,USSD,6.0,4.0,0
+ORD100557,2025-11-16,CUST1201,44.0,Female,Enugu,WhatsApp,Beauty,Perfume,2,27000.0,15,Bank Transfer,5.0,2.0,0
+ORD100697,2025-08-04,CUST1201,35.0,Female,FCT,WhatsApp,Electronics,Power Bank,2,12900.0,10,Pay on Delivery,3.0,3.0,0
+ORD101247,2025-06-19,CUST1004,38.0,Female,kano,Website,Electronics,Earbuds,1,14400.0,0,Bank Transfer,8.0,,0
+ORD101130,2025-05-29,CUST1364,18.0,Female,Lagos,Mobile App,Home & Kitchen,Blender,1,29500.0,20,Bank Transfer,6.0,4.0,0
+ORD100885,2025-09-26,CUST1194,40.0,Female,Lagos,WhatsApp,Electronics,Earbuds,1,15300.0,0,Pay on Delivery,3.0,3.0,0
+ORD101330,2025-06-14,CUST1318,35.0,Female,Lagos,WhatsApp,Electronics,Smartphone,3,120900.0,15,Pay on Delivery,6.0,5.0,0
+ORD100368,2025-01-09,CUST1480,36.0,Female,Lagos,Website,Electronics,Power Bank,3,11600.0,0,Pay on Delivery,3.0,5.0,0
+ORD101431,2025-03-09,CUST1364,19.0,Male,Kaduna,Website,Beauty,Shea Butter Set,1,9100.0,0,Pay on Delivery,6.0,5.0,0
+ORD100878,2025-07-20,CUST1467,29.0,Female,Lagos,Website,Electronics,Power Bank,1,11900.0,0,Bank Transfer,2.0,5.0,0
+ORD100327,2025-01-14,CUST1509,25.0,Female,Delta,Website,Home & Kitchen,Blender,2,29700.0,5,USSD,4.0,4.0,0
+ORD100317,2025-09-23,CUST1287,45.0,Male,Ogun,Mobile App,Electronics,Power Bank,1,12100.0,5,USSD,4.0,5.0,0
+ORD101157,2025-12-19,CUST1383,18.0,Male,Enugu,Website,Electronics,Bluetooth Speaker,1,25100.0,0,Card,4.0,5.0,0
+ORD101122,2025-04-09,CUST1422,33.0,Male,Lagos,WhatsApp,Beauty,Perfume,1,25400.0,20,Pay on Delivery,5.0,4.0,0
+ORD100528,2025-12-01,CUST1250,24.0,Female,Rivers,Physical Store,Home & Kitchen,Standing Fan,1,43500.0,20,Pay on Delivery,0.0,4.0,0
+ORD100526,2025-12-04,CUST1572,34.0,Male,Abuja,Mobile App,Electronics,Power Bank,3,11900.0,0,USSD,6.0,4.0,0
+ORD100087,2025-04-25,CUST1436,35.0,Male,Oyo,Website,Fashion,Sneakers,2,30200.0,5,USSD,4.0,5.0,0
+ORD100479,2025-12-07,CUST1233,47.0,Female,Delta,Mobile App,Groceries,Rice 50kg,2,75300.0,15,Bank Transfer,4.0,4.0,0
+ORD100338,2025-03-15,CUST1152,38.0,Male,Lagos,Mobile App,Fashion,Agbada,2,57300.0,0,Card,4.0,5.0,0
+ORD101008,2025-09-25,CUST1012,28.0,Female,FCT,Mobile App,Electronics,Laptop,2,464100.0,0,Card,4.0,5.0,0
+ORD100657,2025-11-08,CUST1520,41.0,Female,Rivers,WhatsApp,Fashion,Handbag,2,23400.0,10,Card,6.0,5.0,0
+ORD100148,2025-10-27,CUST1062,35.0,Male,Rivers,Physical Store,Home & Kitchen,Standing Fan,2,43200.0,10,USSD,0.0,4.0,0
+ORD101231,2025-09-25,CUST1120,44.0,Female,Anambra,Mobile App,Electronics,Earbuds,1,15700.0,10,Bank Transfer,3.0,4.0,0
+ORD101405,2025-02-26,CUST1150,39.0,Female,Delta,WhatsApp,Groceries,Garri 10kg,4,8700.0,0,Card,6.0,4.0,0
+ORD100028,2025-07-19,CUST1406,47.0,Male,FCT,Physical Store,Groceries,Vegetable Oil 5L,5,13700.0,15,Bank Transfer,0.0,4.0,0
+ORD100246,2025-10-04,CUST1572,21.0,Male,Kaduna,Website,Fashion,Handbag,1,22100.0,0,USSD,7.0,5.0,0
+ORD100365,2025-12-06,CUST1052,999.0,Male, Anambra ,Mobile App,Fashion,Ankara Dress,3,17500.0,15,Card,3.0,2.0,0
+ORD100975,2025-12-02,CUST1249,43.0,Female,Abuja FCT,WhatsApp,Electronics,Smartphone,3,118800.0,15,USSD,3.0,5.0,0
+ORD100840,2025-04-16,CUST1537,24.0,Male,FCT,WhatsApp,Groceries,Indomie Carton,3,9100.0,5,Card,3.0,5.0,0
+ORD101144,2025-05-01,CUST1009,21.0,Male,FCT,WhatsApp,Fashion,Agbada,1,57200.0,0,Pay on Delivery,1.0,3.0,0
+ORD100198,2025-05-04,CUST1327,28.0,Male,Kaduna,Website,Electronics,Power Bank,1,12700.0,0,Bank Transfer,6.0,4.0,0
+ORD100800,2025-01-05,CUST1581,25.0,Female,Anambra,Website,Electronics,Bluetooth Speaker,3,24100.0,10,Card,5.0,4.0,0
+ORD101202,2025-12-26,CUST1402,35.0,Male,Anambra,WhatsApp,Electronics,Earbuds,1,15700.0,0,Bank Transfer,1.0,5.0,0
+ORD100404,2025-07-02,CUST1469,36.0,Male,Enugu,Website,Home & Kitchen,Pressure Pot,1,34600.0,15,Bank Transfer,7.0,,0
+ORD100817,2025-11-07,CUST1199,39.0,Female,Oyo,Mobile App,Electronics,Laptop,3,465600.0,0,Pay on Delivery,3.0,3.0,0
+ORD100483,2025-10-18,CUST1470,34.0,Female,FCT,Mobile App,GROCERIES,Rice 50kg,2,78600.0,0,Card,8.0,,0
+ORD100158,2025-07-04,CUST1094,31.0,Female,Delta,Physical Store,Beauty,Shea Butter Set,2,9200.0,20,Card,0.0,,0
+ORD100315,2025-08-29,CUST1445,19.0,Female,Enugu,Mobile App,Electronics,Smartphone,2,127600.0,0,Bank Transfer,3.0,3.0,0
+ORD100256,2025-09-05,CUST1211,36.0,Male,Enugu,Mobile App,Electronics,Earbuds,1,15900.0,0,Card,4.0,3.0,0
+ORD100007,2025-09-12,CUST1459,33.0,Female,Anambra,Website,Electronics,Bluetooth Speaker,2,25400.0,0,Bank Transfer,3.0,2.0,0
+ORD101374,2025-11-20,CUST1021,49.0,Female, Ogun ,WhatsApp,Groceries,Vegetable Oil 5L,2,13000.0,20,USSD,5.0,3.0,0
+ORD100384,2025-01-12,CUST1276,34.0,Female,Abuja,Website,Electronics,Bluetooth Speaker,1,24200.0,10,USSD,4.0,5.0,0
+ORD100177,2025-02-28,CUST1181,40.0,Male,Ogun,Website,Fashion,Sneakers,1,31100.0,5,Pay on Delivery,3.0,2.0,0
+ORD100851,2025-10-20,CUST1539,23.0,Male,Delta,Mobile App,Electronics,Smartphone,1,122600.0,0,Bank Transfer,4.0,5.0,0
+ORD100314,2025-03-31,CUST1503,34.0,Male,Abuja,Mobile App,Fashion,Handbag,1,21800.0,5,Bank Transfer,5.0,5.0,0
+ORD100357,2025-11-22,CUST1287,43.0,Female,Rivers,WhatsApp,Fashion,Agbada,1,58700.0,0,Pay on Delivery,7.0,3.0,0
+ORD100298,2025-04-14,CUST1237,,Female,Kano,WhatsApp,Fashion,Sneakers,1,31100.0,0,Bank Transfer,3.0,2.0,0
+ORD100455,2025-11-12,CUST1541,27.0,Male,FCT,Mobile App,Home & Kitchen,Gas Cooker,2,67400.0,15,Pay on Delivery,2.0,5.0,1
+ORD100543,2025-03-05,CUST1570,24.0,Female,Lagos,WhatsApp,Electronics,Earbuds,1,15000.0,0,,4.0,4.0,0
+ORD100662,2025-01-13,CUST1020,40.0,Female,Lagos,Mobile App,Beauty,Hair Extensions,1,34000.0,20,Card,3.0,,0
+ORD100596,2025-07-31,CUST1572,29.0,Male,Abuja,WhatsApp,Home & Kitchen,Blender,1,28100.0,0,Pay on Delivery,4.0,3.0,0
+ORD100868,2025-06-12,CUST1387,32.0,Female,Kaduna,Mobile App,Groceries,Indomie Carton,2,8700.0,0,Pay on Delivery,10.0,3.0,0
+ORD100928,2025-06-02,CUST1208,27.0,Male,Ogun,WhatsApp,Electronics,Bluetooth Speaker,2,26500.0,15,Bank Transfer,4.0,2.0,0
+ORD100527,2025-11-06,CUST1426,38.0,Male,Oyo,WhatsApp,Electronics,Earbuds,3,15100.0,0,Card,3.0,5.0,0
+ORD101273,2025-09-04,CUST1465,29.0,Female,FCT,Mobile App,Home & Kitchen,Standing Fan,3,40000.0,20,Card,4.0,4.0,0
+ORD100159,2025-10-14,CUST1212,42.0,Female,Abuja FCT,WhatsApp,Fashion,Ankara Dress,1,18600.0,20,Card,3.0,,0
+ORD101298,2025-07-13,CUST1010,38.0,Female,Rivers,Mobile App,Groceries,Indomie Carton,4,8800.0,15,Bank Transfer,3.0,,0
+ORD100360,2025-11-05,CUST1412,23.0,Female,Delta,Website,Fashion,Ankara Dress,2,17500.0,10,USSD,7.0,3.0,0
+ORD101340,2025-07-14,CUST1302,35.0,Female,Abuja,WhatsApp,Electronics,Earbuds,2,14500.0,10,Bank Transfer,5.0,2.0,0
+ORD100202,2025-06-30,CUST1359,35.0,Female,Lagos,Website,Beauty,Shea Butter Set,1,10000.0,10,,2.0,,0
+ORD101263,2025-10-28,CUST1161,41.0,Male,Abuja FCT,WhatsApp,Home & Kitchen,Blender,1,29400.0,15,Card,7.0,,0
+ORD100797,2025-06-17,CUST1168,43.0,Female,Lagos,Mobile App,Home & Kitchen,Standing Fan,1,40600.0,0,Card,4.0,5.0,0
+ORD100112,2025-07-22,CUST1469,28.0,Female,Lagos,Mobile App,Groceries,Vegetable Oil 5L,3,13300.0,5,USSD,1.0,5.0,0
+ORD101237,2025-02-15,CUST1254,33.0,Female,Ogun,Mobile App,Home & Kitchen,Gas Cooker,1,64500.0,0,Pay on Delivery,6.0,4.0,0
+ORD100307,2025-07-22,CUST1048,,Male,Lagos,WhatsApp,Electronics,Earbuds,1,14600.0,0,Pay on Delivery,3.0,4.0,0
+ORD100948,2025-12-12,CUST1013,34.0,Male,Lagos,Website,Home & Kitchen,Blender,1,27700.0,0,Bank Transfer,2.0,4.0,0
+ORD100422,2025-10-07,CUST1061,40.0,Female,Kaduna,Physical Store,Groceries,Vegetable Oil 5L,4,14400.0,10,Pay on Delivery,0.0,4.0,0
+ORD101018,2025-01-16,CUST1582,27.0,Male,Delta,Physical Store,Electronics,Earbuds,1,16100.0,0,Card,0.0,4.0,0
+ORD101125,2025-11-04,CUST1349,36.0,Male, Lagos ,Website,Electronics,Earbuds,1,15500.0,20,Bank Transfer,6.0,4.0,0
+ORD100971,2025-06-02,CUST1224,26.0,Female,Anambra,Website,Electronics,Earbuds,1,14400.0,20,Pay on Delivery,4.0,4.0,0
+ORD100459,2025-02-08,CUST1033,36.0,Male,Oyo,Mobile App,Home & Kitchen,Standing Fan,3,43000.0,15,Bank Transfer,7.0,4.0,0
+ORD101428,2025-04-08,CUST1360,41.0,Male,Rivers,Mobile App,Electronics,Power Bank,1,11900.0,5,Bank Transfer,9.0,,0
+ORD101314,2025-11-26,CUST1585,31.0,Female,Ogun,WhatsApp,Electronics,Smartphone,1,129500.0,20,Pay on Delivery,6.0,5.0,0
+ORD100762,13/12/2025,CUST1419,30.0,Male,Lagos,Physical Store,Electronics,Smartphone,1,123700.0,0,Bank Transfer,0.0,5.0,0
+ORD101047,2025-08-08,CUST1436,20.0,Female,Anambra,Physical Store,Electronics,Smartphone,2,114800.0,10,USSD,0.0,,0
+ORD100945,2025-02-13,CUST1559,31.0,Male,rivers,Website,Beauty,Hair Extensions,3,34000.0,10,Pay on Delivery,3.0,4.0,0
+ORD100449,15/04/2025,CUST1119,27.0,Male,Oyo,Website,Home & Kitchen,Pressure Pot,3,34000.0,0,Bank Transfer,2.0,5.0,0
+ORD101189,2025-11-13,CUST1497,46.0,Male,Oyo,Website,Fashion,Sneakers,1,31800.0,5,Bank Transfer,3.0,4.0,0
+ORD100679,2025-12-08,CUST1540,,Female,Ogun,Mobile App,Electronics,Smartphone,2,122900.0,0,USSD,3.0,3.0,0
+ORD100692,2025-12-06,CUST1463,36.0,Female,Kaduna,Website,Electronics,Power Bank,2,11400.0,20,Pay on Delivery,5.0,5.0,0
+ORD101320,2025-02-11,CUST1177,18.0,Male,Kano,Website,Home & Kitchen,Standing Fan,2,42400.0,0,Pay on Delivery,11.0,2.0,0
+ORD100080,2025-12-10,CUST1573,43.0,Female,Kano,Website,Electronics,Bluetooth Speaker,100,26800.0,0,Bank Transfer,7.0,,0
+ORD101329,2025-11-28,CUST1150,22.0,Male,Delta,Website,Beauty,Hair Extensions,3,33900.0,20,Pay on Delivery,4.0,,0
+ORD101015,12/12/2025,CUST1351,23.0,Female,Lagos,WhatsApp,Groceries,Garri 10kg,3,9600.0,0,Card,6.0,3.0,0
+ORD100802,2025-07-08,CUST1198,21.0,Female,Abuja FCT,Physical Store,Fashion,Handbag,1,22400.0,15,Card,0.0,4.0,0
+ORD100215,2025-04-10,CUST1203,25.0,Female,Rivers,Mobile App,Home & Kitchen,Gas Cooker,3,67700.0,20,USSD,2.0,4.0,0
+ORD100982,2025-07-19,CUST1280,42.0,Female,Abuja,Mobile App,Groceries,Vegetable Oil 5L,2,14500.0,0,Pay on Delivery,5.0,3.0,0
+ORD100030,2025-06-14,CUST1132,46.0,Female,Abuja FCT,Mobile App,Home & Kitchen,Standing Fan,1,45300.0,0,Card,2.0,,0
+ORD100242,2025-02-04,CUST1013,33.0,Male,Ogun,Mobile App,Beauty,Hair Extensions,2,33200.0,15,Pay on Delivery,1.0,5.0,0
+ORD101192,04/03/2025,CUST1292,40.0,Male,Oyo,WhatsApp,Groceries,Vegetable Oil 5L,3,14400.0,15,Card,4.0,5.0,0
+ORD100641,2025-12-01,CUST1344,,Male,Lagos,WhatsApp,Electronics,Earbuds,3,14500.0,15,Card,4.0,4.0,0
+ORD100696,2025-09-21,CUST1013,36.0,Male,Oyo,Website,Fashion,Ankara Dress,2,17800.0,15,Card,1.0,3.0,0
+ORD100209,2025-10-12,CUST1357,29.0,Male,Ogun,Mobile App,Electronics,Power Bank,1,12100.0,5,Bank Transfer,3.0,5.0,0
+ORD100856,2025-03-31,CUST1389,35.0,Male,Kaduna,Website,Home & Kitchen,Standing Fan,1,43900.0,0,Bank Transfer,7.0,4.0,0
+ORD100770,2025-08-26,CUST1491,42.0,Male,Lagos,Website,Beauty,Hair Extensions,3,34200.0,15,USSD,4.0,4.0,0
+ORD100752,2025-02-01,CUST1038,33.0,Female,Lagos,Mobile App,Fashion,Ankara Dress,1,17800.0,5,Pay on Delivery,6.0,5.0,1
+ORD101324,2025-11-13,CUST1270,22.0,Female,Delta,Website,ELECTRONICS,Laptop,1,466100.0,0,Card,3.0,4.0,0
+ORD100435,2025-02-15,CUST1430,36.0,Female,Abuja FCT,Website,GROCERIES,Rice 50kg,4,76300.0,0,Pay on Delivery,1.0,,0
+ORD101332,2025-06-05,CUST1528,,Male,Lagos,Website,Electronics,Smartphone,3,123100.0,5,Bank Transfer,4.0,4.0,0
+ORD101424,2025-04-04,CUST1432,38.0,Male,Lagos,Mobile App,Groceries,Vegetable Oil 5L,1,14100.0,0,Pay on Delivery,3.0,5.0,0
+ORD101171,2025-08-19,CUST1592,,Female,Abuja FCT,Website,Groceries,Garri 10kg,5,8700.0,20,USSD,4.0,4.0,0
+ORD101387,2025-04-29,CUST1545,25.0,Female,Lagos,WhatsApp,Electronics,Laptop,1,462700.0,0,USSD,4.0,4.0,0
+ORD100688,2025-06-12,CUST1430,18.0,Female,Lagos,Mobile App,Groceries,Garri 10kg,1,9000.0,10,Pay on Delivery,4.0,,0
+ORD100551,2025-05-24,CUST1371,38.0,Male,Oyo,Website,Groceries,Rice 50kg,1,83400.0,15,Pay on Delivery,4.0,5.0,0
+ORD100544,2025-10-31,CUST1207,34.0,Male,Oyo,Mobile App,Fashion,Agbada,1,58800.0,20,USSD,4.0,5.0,0
+ORD101364,2025-12-25,CUST1341,37.0,Female,Lagos,Website,Home & Kitchen,Pressure Pot,1,35800.0,10,USSD,8.0,4.0,0
+ORD101353,2025-12-01,CUST1146,29.0,Male,Kaduna,Mobile App,Electronics,Power Bank,1,11800.0,0,USSD,5.0,,0
+ORD100888,2025-01-06,CUST1571,34.0,Male,Rivers,Website,BEAUTY,Hair Extensions,1,33100.0,0,Card,1.0,4.0,0
+ORD101022,2025-11-14,CUST1499,40.0,Female,Lagos,Physical Store,Fashion,Sneakers,1,32400.0,20,Bank Transfer,0.0,5.0,0
+ORD100403,2025-12-21,CUST1379,27.0,Male,Rivers,Website,Beauty,Perfume,1,26200.0,20,Pay on Delivery,5.0,4.0,0
+ORD101264,2025-03-29,CUST1189,32.0,Female,Lagos,Website,Groceries,Vegetable Oil 5L,5,13100.0,5,Bank Transfer,4.0,3.0,0
+ORD100362,2025-03-23,CUST1533,49.0,Female,Oyo,Mobile App,Groceries,Indomie Carton,4,8300.0,0,Card,3.0,5.0,0
+ORD100271,2025-01-09,CUST1223,23.0,Male,Delta,Mobile App,Groceries,Indomie Carton,5,8200.0,0,USSD,4.0,,0
+ORD100466,2025-03-02,CUST1331,34.0,Male,Oyo,Website,Groceries,Rice 50kg,2,76700.0,20,Pay on Delivery,5.0,,0
+ORD101357,2025-02-19,CUST1129,29.0,Male,Enugu,Mobile App,Fashion,Sneakers,3,29000.0,15,Card,4.0,4.0,0
+ORD101117,2025-08-03,CUST1290,42.0,Female,Lagos,WhatsApp,Home & Kitchen,Gas Cooker,3,67700.0,0,Pay on Delivery,3.0,4.0,0
+ORD100964,2025-12-13,CUST1504,,Female,Lagos,Website,Fashion,Ankara Dress,1,18700.0,0,Bank Transfer,4.0,4.0,0
+ORD100277,2025-10-13,CUST1006,18.0,Male,Lagos,WhatsApp,Groceries,Vegetable Oil 5L,1,14100.0,0,,4.0,5.0,0
+ORD101355,2025-07-01,CUST1546,30.0,Female,Lagos,Physical Store,Groceries,Garri 10kg,4,8600.0,15,Card,0.0,,0
+ORD101442,2025-12-08,CUST1188,33.0,Female,Lagos,WhatsApp,Home & Kitchen,Pressure Pot,1,34400.0,15,Bank Transfer,5.0,4.0,0
+ORD101389,2025-11-28,CUST1491,30.0,Male,Abuja FCT,Website,Groceries,Indomie Carton,3,8600.0,0,USSD,1.0,4.0,0
+ORD100441,2025-04-20,CUST1511,27.0,Male,Lagos,Website,Electronics,Laptop,1,434900.0,0,Pay on Delivery,1.0,,0
+ORD101016,2025-05-21,CUST1457,28.0,Female,Kaduna,Mobile App,ELECTRONICS,Smartphone,2,127600.0,0,Bank Transfer,3.0,5.0,0
+ORD100786,2025-01-12,CUST1159,,Female,Kano,Physical Store,BEAUTY,Perfume,1,27600.0,0,Pay on Delivery,0.0,4.0,0
+ORD101168,2025-12-31,CUST1036,43.0,Female,Ogun,Mobile App,Groceries,Vegetable Oil 5L,3,13500.0,5,Bank Transfer,3.0,3.0,0
+ORD100442,2025-02-18,CUST1102,19.0,Female,Rivers,Website,Electronics,Laptop,1,465500.0,10,Pay on Delivery,4.0,,0
+ORD100299,2025-01-08,CUST1508,33.0,Female,FCT,WhatsApp,Electronics,Earbuds,1,15600.0,20,,4.0,,0
+ORD100967,2025-04-26,CUST1411,42.0,Male,Enugu,Physical Store,Electronics,Earbuds,1,15100.0,0,Bank Transfer,0.0,5.0,0
+ORD100375,2025-02-04,CUST1465,33.0,Female,Delta,Website,Fashion,Ankara Dress,3,17400.0,0,USSD,5.0,4.0,0
+ORD101039,2025-12-30,CUST1286,18.0,Female,Lagos,Website,Home & Kitchen,Standing Fan,2,44700.0,0,USSD,5.0,5.0,0
+ORD101494,2025-05-30,CUST1052,33.0,Male,Ogun,WhatsApp,Electronics,Smartphone,3,114900.0,20,USSD,4.0,2.0,1
+ORD100960,2025-02-26,CUST1542,28.0,Female,Kano,Physical Store,Fashion,Ankara Dress,1,18500.0,5,Card,0.0,5.0,0
+ORD101027,2025-04-13,CUST1041,31.0,Male,Anambra,Website,Groceries,Vegetable Oil 5L,2,12800.0,0,Bank Transfer,4.0,3.0,0
+ORD101017,2025-12-11,CUST1298,28.0,Male,Abuja FCT,Physical Store,Fashion,Handbag,1,21300.0,0,USSD,0.0,3.0,0
+ORD100472,2025-06-07,CUST1187,32.0,Female,Rivers,WhatsApp,Groceries,Rice 50kg,4,74800.0,0,Pay on Delivery,5.0,4.0,0
+ORD101396,2025-11-02,CUST1234,,Female,Lagos,Mobile App,Electronics,Laptop,1,447900.0,10,Bank Transfer,7.0,,0
+ORD100563,2025-12-09,CUST1144,43.0,Female,Rivers,Physical Store,Electronics,Power Bank,2,11500.0,0,USSD,0.0,4.0,0
+ORD101379,2025-11-01,CUST1162,46.0,Male,Kano,WhatsApp,Electronics,Power Bank,1,12800.0,15,Bank Transfer,5.0,4.0,0
+ORD100750,2025-12-17,CUST1287,35.0,Female,Kano,Physical Store,Electronics,Laptop,1,470500.0,0,Bank Transfer,0.0,1.0,0
+ORD100388,2025-11-21,CUST1104,37.0,Male,Kaduna,Mobile App,Fashion,Sneakers,1,28700.0,0,Pay on Delivery,6.0,5.0,0
+ORD100022,2025-03-08,CUST1035,32.0,Male,Kano,Physical Store,Fashion,Handbag,1,22300.0,10,Card,0.0,,0
+ORD101349,2025-08-06,CUST1356,43.0,Female,Ogun,Mobile App,Home & Kitchen,Blender,1,27800.0,0,Bank Transfer,2.0,3.0,0
+ORD100124,2025-11-09,CUST1188,36.0,Male,Lagos,Mobile App,Electronics,Smartphone,1,121100.0,20,Pay on Delivery,7.0,3.0,0
+ORD100423,2025-08-01,CUST1586,42.0,Female,Oyo,Website,Fashion,Sneakers,1,30500.0,0,Card,2.0,4.0,0
+ORD100773,2025-09-19,CUST1239,37.0,Male,Lagos,Mobile App,Home & Kitchen,Blender,1,28100.0,15,Bank Transfer,5.0,4.0,0
+ORD101365,2025-01-07,CUST1229,33.0,Male,Ogun,Mobile App,Electronics,Smartphone,2,125300.0,0,Bank Transfer,1.0,4.0,0
+ORD100470,2025-12-22,CUST1523,42.0,Male,Lagos,WhatsApp,Fashion,Agbada,1,52600.0,15,Pay on Delivery,1.0,3.0,0
+ORD100721,2025-12-06,CUST1030,18.0,Female,Enugu,Mobile App,Groceries,Indomie Carton,2,8400.0,0,Card,3.0,4.0,0
+ORD101044,2025-09-16,CUST1416,47.0,Male,Oyo,Website,Fashion,Sneakers,2,29400.0,5,Bank Transfer,4.0,4.0,0
+ORD101279,2025-11-12,CUST1450,33.0,Female,Rivers,Website,Groceries,Rice 50kg,1,81100.0,0,Bank Transfer,4.0,2.0,0
+ORD100142,2025-04-11,CUST1399,24.0,Male,Lagos,Mobile App,Beauty,Perfume,1,26600.0,5,Card,5.0,2.0,0
+ORD100050,2025-10-05,CUST1512,,Male,Abuja FCT,WhatsApp,Beauty,Hair Extensions,1,33800.0,20,USSD,4.0,4.0,0
+ORD101419,2025-06-23,CUST1229,41.0,Female,Abuja FCT,Physical Store,Groceries,Indomie Carton,4,8800.0,0,Bank Transfer,0.0,,0
+ORD101229,2025-04-16,CUST1031,18.0,Female,Kano,WhatsApp,Electronics,Laptop,2,444100.0,0,Card,3.0,5.0,0
+ORD100623,2025-06-02,CUST1070,30.0,Male,Enugu,WhatsApp,Home & Kitchen,Gas Cooker,1,62500.0,5,Pay on Delivery,8.0,1.0,0
+ORD101142,2025-12-06,CUST1043,36.0,Male,Lagos,Mobile App,Electronics,Earbuds,1,14700.0,0,USSD,2.0,3.0,0
+ORD100081,2025-06-09,CUST1186,30.0,Male,Rivers,Mobile App,Electronics,Bluetooth Speaker,3,25800.0,15,Pay on Delivery,4.0,,0
+ORD100703,2025-03-04,CUST1411,33.0,Male,rivers,Physical Store,Groceries,Rice 50kg,4,83000.0,0,Pay on Delivery,0.0,4.0,1
+ORD100482,2025-04-02,CUST1105,29.0,Female,Lagos,Mobile App,Home & Kitchen,Gas Cooker,3,65800.0,10,Card,4.0,3.0,0
+ORD100321,2025-02-09,CUST1393,21.0,Female,Lagos,Physical Store,Fashion,Handbag,1,21800.0,0,Bank Transfer,0.0,4.0,0
+ORD101269,2025-01-18,CUST1567,,Female,Oyo,Website,Home & Kitchen,Blender,2,27300.0,0,Pay on Delivery,3.0,3.0,0
+ORD100505,2025-06-15,CUST1292,34.0,Female,Lagos,Website,Groceries,Indomie Carton,2,8500.0,5,Bank Transfer,4.0,,0
+ORD101445,14/01/2025,CUST1033,26.0,Female,Kano,Mobile App,Fashion,Handbag,1,21400.0,20,Card,6.0,5.0,0
+ORD100841,2025-12-07,CUST1386,25.0,Male,Ogun,Mobile App,Groceries,Rice 50kg,3,81700.0,5,Card,3.0,4.0,0
+ORD100066,2025-11-27,CUST1284,52.0,Male,Oyo,Physical Store,Fashion,Ankara Dress,1,18600.0,10,Card,0.0,5.0,0
+ORD101300,2025-10-05,CUST1041,37.0,Female,FCT,Physical Store,Fashion,Ankara Dress,2,17800.0,5,Pay on Delivery,0.0,4.0,0
+ORD101193,2025-09-14,CUST1476,48.0,Female,Kano,Website,Home & Kitchen,Gas Cooker,1,67800.0,15,Pay on Delivery,7.0,5.0,0
+ORD101346,2025-11-08,CUST1268,27.0,Female,Lagos,Website,Home & Kitchen,Gas Cooker,3,69900.0,20,USSD,4.0,,0
+ORD100801,2025-04-21,CUST1302,34.0,Female,Oyo,Mobile App,Electronics,Laptop,1,431200.0,0,Pay on Delivery,1.0,4.0,0
+ORD101463,2025-01-19,CUST1543,36.0,Female,Rivers,WhatsApp,Beauty,Hair Extensions,3,31600.0,0,Pay on Delivery,3.0,4.0,0
+ORD100031,2025-03-24,CUST1525,28.0,Female,Abuja,Mobile App,Electronics,Bluetooth Speaker,1,24600.0,0,Bank Transfer,4.0,5.0,0
+ORD100795,2025-04-18,CUST1415,24.0,Female,FCT,Website,Groceries,Rice 50kg,1,82800.0,0,Card,4.0,4.0,0
+ORD100417,2025-02-14,CUST1194,22.0,Male,Lagos,WhatsApp,Home & Kitchen,Standing Fan,2,42300.0,20,Bank Transfer,4.0,5.0,0
+ORD100632,2025-06-08,CUST1431,30.0,Male,Ogun,Mobile App,Groceries,Indomie Carton,1,8600.0,15,Card,3.0,4.0,0
+ORD101264,2025-03-29,CUST1189,32.0,Female,Lagos,Website,Groceries,Vegetable Oil 5L,5,13100.0,5,Bank Transfer,4.0,3.0,0
+ORD101090,2025-11-05,CUST1584,23.0,Male,Anambra,Website,Electronics,Laptop,1,483500.0,20,Pay on Delivery,2.0,4.0,0
+ORD100064,2025-05-30,CUST1538,21.0,Male,Kano,Website,Fashion,Handbag,3,21400.0,5,Bank Transfer,6.0,4.0,0
+ORD100139,09/06/2025,CUST1115,35.0,Male,Oyo,Mobile App,Fashion,Sneakers,3,29900.0,0,USSD,4.0,4.0,0
+ORD101224,2025-06-02,CUST1481,36.0,Male,kaduna,Mobile App,Electronics,Bluetooth Speaker,2,24800.0,0,Pay on Delivery,6.0,,0
+ORD101218,2025-10-23,CUST1490,,Female,Lagos,Mobile App,Beauty,Hair Extensions,1,32100.0,15,USSD,5.0,4.0,0
+ORD100077,2025-03-24,CUST1025,22.0,Male,Anambra,Mobile App,Groceries,Vegetable Oil 5L,2,13100.0,5,Pay on Delivery,7.0,3.0,0
+ORD100491,2025-11-13,CUST1571,24.0,Male,Abuja,WhatsApp,Electronics,Earbuds,1,14500.0,0,Bank Transfer,1.0,3.0,0
+ORD101074,2025-06-20,CUST1357,43.0,Female,Delta,Mobile App,Electronics,Power Bank,1,11800.0,10,Pay on Delivery,4.0,,0
+ORD101153,2025-11-28,CUST1341,38.0,Male,Oyo,Mobile App,Fashion,Sneakers,1,32000.0,5,Bank Transfer,7.0,4.0,0
+ORD100532,2025-02-26,CUST1569,36.0,Female,Lagos,Physical Store,Fashion,Sneakers,1,28900.0,5,Pay on Delivery,0.0,4.0,0
+ORD100065,2025-04-29,CUST1273,41.0,Male,Lagos,Mobile App,Fashion,Sneakers,1,29800.0,5,Card,3.0,4.0,0
+ORD101281,2025-09-27,CUST1426,33.0,Male,FCT,Mobile App,Fashion,Sneakers,1,31100.0,5,Bank Transfer,6.0,3.0,0
+ORD100935,2025-12-10,CUST1070,26.0,Female,Enugu,Physical Store,Electronics,Smartphone,3,126400.0,15,Bank Transfer,0.0,4.0,0
+ORD101276,2025-08-28,CUST1363,24.0,Male,Abuja FCT,Mobile App,Fashion,Agbada,1,53400.0,0,Bank Transfer,6.0,5.0,0
+ORD100296,2025-11-07,CUST1560,29.0,Female,Abuja,WhatsApp,Home & Kitchen,Pressure Pot,1,36900.0,5,Pay on Delivery,4.0,2.0,0
+ORD100591,2025-11-26,CUST1370,41.0,Female,Abuja FCT,Website,Fashion,Handbag,1,21400.0,10,Bank Transfer,6.0,4.0,0
+ORD100419,2025-12-02,CUST1161,27.0,Female,Lagos,Physical Store,Home & Kitchen,Blender,2,30200.0,0,,0.0,3.0,0
+ORD100767,2025-06-24,CUST1012,46.0,Female,Oyo,Mobile App,Fashion,Ankara Dress,3,18100.0,0,Pay on Delivery,6.0,,0
+ORD100892,2025-07-10,CUST1323,49.0,Female,Abuja FCT,Website,Groceries,Garri 10kg,2,8800.0,20,Bank Transfer,3.0,5.0,0
+ORD100438,2025-01-30,CUST1382,46.0,Female,Lagos,Website,Electronics,Power Bank,1,12100.0,0,USSD,3.0,2.0,1
+ORD100261,2025-03-04,CUST1338,28.0,Male,Delta,Mobile App,Groceries,Rice 50kg,2,78600.0,10,Pay on Delivery,6.0,,0
+ORD101409,2025-12-02,CUST1377,18.0,Male,Abuja FCT,Mobile App,Electronics,Power Bank,1,12900.0,15,,2.0,2.0,1
+ORD100724,2025-10-14,CUST1068,30.0,Female,Abuja,Website,Home & Kitchen,Blender,3,27700.0,0,Card,5.0,3.0,0
+ORD101408,2025-01-01,CUST1062,32.0,Female,Lagos,Physical Store,Home & Kitchen,Gas Cooker,1,62700.0,0,USSD,0.0,5.0,0
+ORD100281,2025-06-27,CUST1043,30.0,Female,Lagos,Website,Electronics,Bluetooth Speaker,2,24600.0,0,Bank Transfer,3.0,4.0,0
+ORD100626,2025-05-04,CUST1071,30.0,Male,Lagos,Physical Store,Beauty,Hair Extensions,1,30900.0,5,USSD,0.0,5.0,0
+ORD101403,2025-04-28,CUST1247,54.0,Female,Anambra,WhatsApp,Electronics,Smartphone,1,115600.0,5,,1.0,3.0,0
+ORD101069,2025-01-04,CUST1458,38.0,Female,Kano,Website,Electronics,Laptop,3,452600.0,10,Card,6.0,3.0,0
+ORD101472,2025-06-13,CUST1038,33.0,Female,Abuja,Mobile App,Groceries,Indomie Carton,1,8200.0,0,Bank Transfer,6.0,,0
+ORD100188,2025-03-29,CUST1548,33.0,Male,Lagos,Physical Store,Electronics,Laptop,1,461700.0,0,USSD,0.0,4.0,0
+ORD101236,2025-01-02,CUST1368,21.0,Female,Ogun,Mobile App,Fashion,Handbag,1,22300.0,15,Bank Transfer,2.0,5.0,0
+ORD100251,2025-06-30,CUST1072,42.0,Male,Ogun,WhatsApp,Groceries,Indomie Carton,2,8800.0,0,Bank Transfer,4.0,4.0,0
+ORD100583,2025-01-19,CUST1498,38.0,Female,Oyo,Mobile App,Home & Kitchen,Standing Fan,3,43600.0,0,Pay on Delivery,3.0,5.0,0
+ORD101051,14/05/2025,CUST1074,25.0,Male,Enugu,Mobile App,Groceries,Indomie Carton,1,8500.0,0,Card,8.0,,0
+ORD101376,2025-12-18,CUST1127,34.0,Female,Abuja,Website,Home & Kitchen,Standing Fan,1,43700.0,5,Bank Transfer,5.0,3.0,0
+ORD100993,2025-06-07,CUST1340,37.0,Male,Ogun,Website,Fashion,Handbag,1,21200.0,0,Bank Transfer,4.0,3.0,0
+ORD100514,2025-12-17,CUST1450,18.0,Male,Rivers,Mobile App,Beauty,Perfume,2,27500.0,5,Pay on Delivery,2.0,,1
+ORD100951,2025-04-22,CUST1285,,Female,Rivers,Physical Store,BEAUTY,Shea Butter Set,1,10000.0,0,USSD,0.0,5.0,0
+ORD100976,2025-02-04,CUST1215,35.0,Female,Lagos,Physical Store,Electronics,Laptop,1,441600.0,20,Pay on Delivery,0.0,5.0,0
+ORD101438,2025-04-27,CUST1225,34.0,Female,Oyo,Website,Fashion,Handbag,3,23200.0,0,USSD,3.0,4.0,0
+ORD100706,2025-01-03,CUST1340,,Female,Kaduna,WhatsApp,Fashion,Sneakers,1,32100.0,20,Card,6.0,5.0,0
+ORD100487,2025-07-13,CUST1061,29.0,Female,Oyo,Website,Home & Kitchen,Blender,3,29900.0,0,Card,4.0,3.0,1
+ORD100663,2025-03-15,CUST1584,,Male,Rivers,Mobile App,Groceries,Vegetable Oil 5L,2,13300.0,15,Pay on Delivery,4.0,4.0,0
+ORD101152,2025-06-07,CUST1105,46.0,Male,Ogun,Mobile App,Fashion,Ankara Dress,3,18100.0,20,Bank Transfer,8.0,,0
+ORD101160,2025-11-08,CUST1239,33.0,Female,Delta,Website,Groceries,Garri 10kg,4,8800.0,0,Bank Transfer,4.0,2.0,0
+ORD100273,2025-12-16,CUST1197,,Male,Kano,Mobile App,Groceries,Indomie Carton,4,8200.0,0,Bank Transfer,8.0,4.0,0
+ORD100685,2025-10-20,CUST1454,41.0,Female,Kano,Physical Store,Electronics,Bluetooth Speaker,1,26900.0,20,Card,0.0,3.0,0
+ORD101139,2025-07-16,CUST1179,33.0,Male,Oyo,Website,Home & Kitchen,Gas Cooker,1,68900.0,5,USSD,3.0,5.0,0
+ORD101265,2025-01-14,CUST1509,33.0,Male,Lagos,Physical Store,Groceries,Garri 10kg,1,9200.0,10,Pay on Delivery,0.0,5.0,0
+ORD100877,2025-09-29,CUST1025,47.0,Male,ogun,Mobile App,Beauty,Perfume,1,25700.0,10,Card,4.0,2.0,0
+ORD101180,2025-08-10,CUST1306,35.0,Female,FCT,Mobile App,Home & Kitchen,Pressure Pot,2,34300.0,10,Pay on Delivery,4.0,4.0,0
+ORD101371,2025-11-29,CUST1533,33.0,Female,Rivers,WhatsApp,Electronics,Bluetooth Speaker,1,24200.0,10,USSD,5.0,5.0,0
+ORD100448,2025-07-10,CUST1171,21.0,Male,Kaduna,Website,Fashion,Agbada,1,52600.0,0,USSD,6.0,2.0,0
+ORD100411,2025-03-25,CUST1560,32.0,Female,Kano,Website,Electronics,Laptop,1,472400.0,0,USSD,6.0,,0
+ORD100458,2025-11-03,CUST1182,33.0,Male,Lagos,Website,Electronics,Earbuds,1,16000.0,15,USSD,2.0,,0
+ORD100376,2025-09-26,CUST1518,58.0,Male,Abuja,Website,Electronics,Bluetooth Speaker,2,25400.0,0,Bank Transfer,7.0,4.0,0
+ORD101328,2025-09-04,CUST1044,29.0,Male,Delta,Website,Home & Kitchen,Gas Cooker,1,63100.0,0,Pay on Delivery,4.0,4.0,0
+ORD100667,2025-11-11,CUST1134,46.0,Female,Anambra,Website,Electronics,Bluetooth Speaker,2,25400.0,0,Card,6.0,4.0,0
+ORD101260,2025-11-08,CUST1098,22.0,Male,Delta,Mobile App,Beauty,Perfume,3,26800.0,5,Card,2.0,,0
+ORD100149,2025-01-22,CUST1367,61.0,Male,Ogun,WhatsApp,Electronics,Bluetooth Speaker,3,24000.0,0,Bank Transfer,4.0,5.0,0
+ORD100956,2025-11-10,CUST1532,38.0,Female,Lagos,Mobile App,Beauty,Shea Butter Set,1,9700.0,5,Bank Transfer,3.0,,0
+ORD101216,2025-07-05,CUST1026,49.0,Male,Kano,Website,Groceries,Indomie Carton,1,8300.0,0,Bank Transfer,6.0,4.0,0
+ORD100733,2025-10-10,CUST1508,35.0,Female,Kaduna,WhatsApp,Groceries,Indomie Carton,5,8700.0,0,Bank Transfer,6.0,4.0,0
+ORD100218,2025-06-13,CUST1462,24.0,Male,Rivers,Mobile App,Fashion,Handbag,3,23200.0,15,Bank Transfer,6.0,4.0,0
+ORD100239,2025-08-17,CUST1019,35.0,Female,Lagos,WhatsApp,Fashion,Agbada,2,54200.0,15,Bank Transfer,10.0,3.0,0
+ORD101150,2025-05-16,CUST1088,39.0,Male,FCT,WhatsApp,Electronics,Earbuds,1,15200.0,10,Card,1.0,3.0,0
+ORD100867,2025-11-02,CUST1271,25.0,Female,Oyo,Mobile App,Electronics,Bluetooth Speaker,1,25700.0,20,Card,3.0,4.0,0
+ORD100725,2025-02-12,CUST1122,38.0,Female,Rivers,Website,Home & Kitchen,Standing Fan,1,42600.0,0,USSD,1.0,3.0,1
+ORD100192,2025-08-10,CUST1211,39.0,Male,rivers,Website,Groceries,Vegetable Oil 5L,5,14000.0,0,Pay on Delivery,4.0,4.0,0
+ORD100792,2025-09-21,CUST1071,34.0,Male,Oyo,Mobile App,Electronics,Laptop,1,479700.0,0,USSD,5.0,4.0,0
+ORD100191,2025-08-19,CUST1395,29.0,Female,Kano,Website,Electronics,Laptop,1,471400.0,5,Bank Transfer,3.0,5.0,0
+ORD100961,2025-05-30,CUST1220,53.0,Male,Kaduna,Mobile App,Electronics,Earbuds,1,14500.0,20,USSD,9.0,2.0,0
+ORD101215,2025-11-26,CUST1517,23.0,Female,Enugu,Website,Electronics,Bluetooth Speaker,1,24100.0,5,Pay on Delivery,3.0,4.0,0
+ORD101360,2025-01-31,CUST1433,53.0,Female,FCT,Physical Store,Electronics,Bluetooth Speaker,1,24600.0,0,Pay on Delivery,0.0,4.0,0
+ORD100644,2025-10-09,CUST1059,18.0,Male,Anambra,Mobile App,Electronics,Smartphone,1,116200.0,10,Bank Transfer,5.0,5.0,0
+ORD100359,2025-10-01,CUST1232,32.0,Male,Lagos,Website,Groceries,Rice 50kg,3,81800.0,20,Bank Transfer,2.0,3.0,0
+ORD100986,2025-08-14,CUST1542,24.0,Male,Kaduna,Mobile App,Electronics,Smartphone,1,121800.0,0,Bank Transfer,9.0,4.0,0
+ORD101474,2025-12-23,CUST1219,35.0,Female,Lagos,Mobile App,Fashion,Agbada,1,54500.0,5,Pay on Delivery,4.0,5.0,0
+ORD100016,2025-07-07,CUST1469,37.0,Female,Enugu,Physical Store,Beauty,Perfume,1,26600.0,0,USSD,0.0,3.0,0
+ORD100333,2025-10-30,CUST1110,27.0,Female,Lagos,Website,Electronics,Bluetooth Speaker,1,24500.0,15,Pay on Delivery,9.0,4.0,0
+ORD101225,20/12/2025,CUST1378,18.0,Male,Anambra,Physical Store,Home & Kitchen,Gas Cooker,1,63000.0,15,Bank Transfer,0.0,,0
+ORD100582,2025-02-08,CUST1493,24.0,Female,Abuja,Website,Fashion,Agbada,1,56900.0,10,Card,8.0,3.0,0
+ORD101443,10/12/2025,CUST1207,,Female, Ogun ,Website,Beauty,Hair Extensions,2,33400.0,0,Card,4.0,4.0,0
+ORD101087,2025-12-28,CUST1325,48.0,Female,Kaduna,Mobile App,Groceries,Rice 50kg,2,80600.0,0,USSD,5.0,5.0,0
+ORD100839,2025-11-29,CUST1175,41.0,Male,Kano,Mobile App,Fashion,Sneakers,1,28700.0,10,Card,7.0,4.0,0
+ORD100627,2025-05-15,CUST1029,18.0,Male,Delta,WhatsApp,Groceries,Rice 50kg,1,82300.0,0,Bank Transfer,4.0,,1
+ORD101413,2025-10-17,CUST1092,,Male,Lagos,WhatsApp,Electronics,Bluetooth Speaker,1,26400.0,15,Bank Transfer,5.0,4.0,0
+ORD100323,2025-12-01,CUST1561,49.0,Female,Rivers,Mobile App,Home & Kitchen,Blender,2,27800.0,0,Pay on Delivery,5.0,2.0,0
+ORD100824,2025-12-25,CUST1596,,Female,Lagos,WhatsApp,Home & Kitchen,Pressure Pot,1,36300.0,0,Bank Transfer,1.0,3.0,0
+ORD101245,2025-12-26,CUST1101,30.0,Male,Abuja FCT,Website,Electronics,Power Bank,2,12300.0,10,Bank Transfer,4.0,3.0,0
+ORD100631,2025-11-24,CUST1403,24.0,Female,Abuja FCT,Physical Store,Beauty,Shea Butter Set,1,9500.0,5,USSD,0.0,3.0,0
+ORD101106,2025-03-31,CUST1155,18.0,Male,Lagos,Physical Store,Groceries,Vegetable Oil 5L,5,14000.0,20,Bank Transfer,0.0,5.0,0
+ORD101195,2025-08-20,CUST1177,36.0,Female,lagos,Website,Groceries,Garri 10kg,3,9700.0,5,Bank Transfer,5.0,3.0,0
+ORD100778,2025-04-09,CUST1562,43.0,Female,Abuja FCT,Website,Home & Kitchen,Standing Fan,2,43500.0,0,Card,3.0,4.0,0
+ORD101053,2025-12-16,CUST1456,27.0,Female,Kano,Mobile App,Fashion,Ankara Dress,1,17500.0,0,Bank Transfer,10.0,,0
+ORD100939,2025-07-05,CUST1046,31.0,Female,Abuja,WhatsApp,Electronics,Earbuds,1,14500.0,20,Pay on Delivery,2.0,5.0,0
+ORD100855,2025-11-07,CUST1400,18.0,Male,Delta,WhatsApp,Electronics,Laptop,3,478200.0,20,Bank Transfer,3.0,3.0,0
+ORD100437,2025-12-05,CUST1430,44.0,Female,FCT,Website,Fashion,Ankara Dress,1,17900.0,15,Pay on Delivery,4.0,,0
+ORD100119,2025-02-11,CUST1383,29.0,Male,Rivers,Website,Electronics,Smartphone,3,127600.0,0,USSD,1.0,5.0,0
+ORD101073,2025-07-11,CUST1106,30.0,Male,Lagos,WhatsApp,Electronics,Bluetooth Speaker,1,24000.0,10,USSD,5.0,4.0,0
+ORD101182,2025-09-10,CUST1472,,Female,Lagos,Mobile App,Groceries,Garri 10kg,3,8600.0,0,Bank Transfer,3.0,4.0,0
+ORD100790,2025-02-04,CUST1187,29.0,Male,Ogun,Website,Electronics,Laptop,2,431600.0,0,Pay on Delivery,4.0,4.0,0
+ORD100341,2025-04-17,CUST1360,36.0,Female,Rivers,Website,Home & Kitchen,Blender,1,27300.0,15,Card,5.0,3.0,1
+ORD100815,2025-11-02,CUST1087,25.0,Female,Anambra,Mobile App,Fashion,Ankara Dress,1,19200.0,10,Card,6.0,5.0,0
+ORD100002,2025-08-27,CUST1108,18.0,Male,Kaduna,WhatsApp,Electronics,Earbuds,2,14500.0,0,USSD,5.0,5.0,0
+ORD100229,2025-03-06,CUST1381,30.0,Female,Kaduna,WhatsApp,Fashion,Sneakers,1,30000.0,10,Pay on Delivery,5.0,4.0,0
+ORD101140,2025-11-18,CUST1101,32.0,Male,Rivers,Mobile App,Fashion,Agbada,2,57600.0,0,USSD,4.0,5.0,0
+ORD101464,2025-11-07,CUST1541,32.0,Female,Lagos,Website,Electronics,Earbuds,1,14500.0,10,Pay on Delivery,7.0,4.0,0
+ORD100076,2025-05-01,CUST1363,,Female,Lagos,WhatsApp,Fashion,Handbag,1,21700.0,20,Pay on Delivery,6.0,4.0,0
+ORD101407,2025-11-16,CUST1065,37.0,Male,Lagos,Website,Fashion,Ankara Dress,1,17700.0,20,Pay on Delivery,4.0,3.0,0
+ORD100900,2025-01-02,CUST1532,29.0,Female,Enugu,Website,Electronics,Earbuds,1,15900.0,20,Bank Transfer,5.0,4.0,0
+ORD101227,2025-12-26,CUST1436,45.0,Female,Delta,WhatsApp,Electronics,Earbuds,1,16000.0,15,Bank Transfer,6.0,3.0,0
+ORD100371,2025-12-28,CUST1171,37.0,Female,Lagos,Mobile App,Electronics,Bluetooth Speaker,1,25500.0,5,Card,-1.0,4.0,0
+ORD100180,2025-12-09,CUST1448,53.0,Male,Lagos,Website,Beauty,Shea Butter Set,2,9500.0,5,Pay on Delivery,2.0,3.0,0
+ORD101261,2025-12-04,CUST1068,28.0,Female,Kaduna,Mobile App,Beauty,Shea Butter Set,1,9400.0,10,Bank Transfer,6.0,5.0,1
+ORD101495,2025-06-07,CUST1330,37.0,Female,Lagos,WhatsApp,Fashion,Sneakers,1,28500.0,0,Pay on Delivery,7.0,5.0,0
+ORD100941,2025-05-28,CUST1587,53.0,Female,Kano,Website,Electronics,Laptop,1,458400.0,0,Pay on Delivery,9.0,3.0,0
+ORD100577,2025-07-11,CUST1563,150.0,Female,Kano,Physical Store,Electronics,Laptop,1,452500.0,15,Bank Transfer,0.0,5.0,0
+ORD100978,2025-11-06,CUST1597,39.0,Male,Rivers,WhatsApp,Fashion,Ankara Dress,1,18600.0,0,Card,3.0,4.0,0
+ORD100819,2025-12-31,CUST1527,41.0,Female,Delta,Website,Home & Kitchen,Gas Cooker,3,64300.0,20,Card,5.0,,0
+ORD101132,2025-10-17,CUST1033,,Male,Abuja FCT,Mobile App,Fashion,Handbag,1,23700.0,0,Card,6.0,,0
+ORD101295,13/11/2025,CUST1066,41.0,Female, Lagos ,Website,Fashion,Handbag,1,23200.0,0,Pay on Delivery,2.0,3.0,0
+ORD101308,2025-06-01,CUST1409,22.0,Male,Kaduna,Mobile App,Beauty,Shea Butter Set,3,9400.0,20,Bank Transfer,8.0,3.0,0
+ORD101299,2025-01-11,CUST1036,31.0,Male,Oyo,Website,Groceries,Vegetable Oil 5L,5,14200.0,20,Card,4.0,3.0,0
+ORD100062,2025-05-14,CUST1564,29.0,Male,Abuja FCT,Website,Electronics,Smartphone,3,117300.0,0,Bank Transfer,1.0,3.0,0
+ORD100589,2025-11-04,CUST1372,34.0,Female,Ogun,WhatsApp,Fashion,Handbag,1,21600.0,0,USSD,3.0,,0
+ORD100886,2025-01-20,CUST1375,27.0,Male,Kano,Mobile App,Beauty,Perfume,1,27000.0,10,Bank Transfer,6.0,2.0,1
+ORD100968,2025-12-02,CUST1029,38.0,Male,Kaduna,WhatsApp,Fashion,Agbada,1,52600.0,0,Card,6.0,3.0,0
+ORD101138,2025-09-29,CUST1291,28.0,Male,Kaduna,Website,Groceries,Rice 50kg,1,74400.0,20,USSD,5.0,5.0,0
+ORD100785,2025-08-03,CUST1010,19.0,Male,Delta,Website,Beauty,Shea Butter Set,3,10000.0,0,Card,4.0,4.0,0
+ORD101164,2025-07-08,CUST1410,45.0,Male,Ogun,Physical Store,Groceries,Vegetable Oil 5L,4,14500.0,20,Card,0.0,4.0,0
+ORD100311,2025-09-03,CUST1238,41.0,Male,Lagos,Website,Beauty,Shea Butter Set,1,9400.0,0,Card,6.0,4.0,0
+ORD101483,2025-02-10,CUST1132,45.0,Male,Rivers,Website,Electronics,Smartphone,1,120100.0,0,Pay on Delivery,3.0,5.0,0
+ORD100301,2025-10-29,CUST1420,27.0,Female,Lagos,Mobile App,Fashion,Ankara Dress,2,17700.0,15,Bank Transfer,4.0,,0
+ORD100722,2025-12-26,CUST1573,18.0,Female,Abuja FCT,WhatsApp,Home & Kitchen,Pressure Pot,1,36500.0,0,Card,5.0,5.0,0
+ORD100689,2025-10-13,CUST1216,35.0,Male,Ogun,Physical Store,Fashion,Agbada,1,58300.0,0,USSD,0.0,5.0,1
+ORD100812,2025-09-07,CUST1524,36.0,Female,Lagos,Mobile App,Groceries,Rice 50kg,2,75100.0,20,Bank Transfer,5.0,4.0,0
+ORD100037,2025-10-30,CUST1002,28.0,Female,Kaduna,Physical Store,Electronics,Bluetooth Speaker,1,26300.0,0,Card,0.0,,0
+ORD100353,2025-06-08,CUST1406,23.0,Female,Lagos,Physical Store,Fashion,Agbada,1,52300.0,15,Card,0.0,2.0,0
+ORD101399,2025-12-23,CUST1054,44.0,Male,Lagos,Mobile App,Home & Kitchen,Gas Cooker,1,65100.0,5,Bank Transfer,2.0,3.0,0
+ORD100714,2025-12-02,CUST1276,29.0,Male,Delta,Mobile App,Home & Kitchen,Pressure Pot,1,35500.0,0,Card,2.0,,0
+ORD100980,2025-08-04,CUST1289,38.0,Male,Oyo,Website,Electronics,Bluetooth Speaker,1,23900.0,0,Pay on Delivery,3.0,4.0,0
+ORD100236,2025-08-31,CUST1528,32.0,Female,Rivers,Physical Store,Beauty,Hair Extensions,1,34400.0,5,USSD,0.0,4.0,0
+ORD101028,2025-07-26,CUST1507,30.0,Female,Lagos,Website,Fashion,Handbag,2,23800.0,0,Bank Transfer,4.0,4.0,0
+ORD100499,2025-06-05,CUST1069,36.0,Male,rivers,Mobile App,Home & Kitchen,Blender,1,29600.0,0,Bank Transfer,3.0,5.0,0
+ORD101257,2025-07-22,CUST1559,26.0,Male,Enugu,Website,Fashion,Ankara Dress,1,17700.0,0,USSD,7.0,5.0,0
+ORD100794,2025-06-07,CUST1595,43.0,Male,Rivers,Website,Groceries,Rice 50kg,1,79500.0,0,USSD,1.0,4.0,0
+ORD101158,2025-05-21,CUST1587,27.0,Male,Kano,WhatsApp,Fashion,Handbag,2,23300.0,10,Card,9.0,1.0,0
+ORD100990,06/05/2025,CUST1035,19.0,Male,Kano,Website,Beauty,Hair Extensions,1,30600.0,0,Bank Transfer,5.0,4.0,0
+ORD101252,2025-01-28,CUST1280,30.0,Female,Lagos,Mobile App,Electronics,Bluetooth Speaker,1,25300.0,20,Pay on Delivery,2.0,5.0,0
+ORD100934,2025-12-02,CUST1567,27.0,Female,Lagos,WhatsApp,Fashion,Agbada,1,53200.0,5,Pay on Delivery,5.0,2.0,1
+ORD100387,2025-10-31,CUST1172,30.0,Female,Lagos,Mobile App,Beauty,Hair Extensions,1,32800.0,0,Card,2.0,5.0,0
+ORD100390,2025-09-30,CUST1094,40.0,Male,Kano,Website,Electronics,Smartphone,2,126200.0,5,Card,10.0,3.0,0
+ORD100743,2025-04-09,CUST1024,32.0,Male,Lagos,Mobile App,Groceries,Indomie Carton,2,8300.0,0,USSD,5.0,5.0,0
+ORD100352,2025-04-20,CUST1332,20.0,Female,Rivers,Website,Electronics,Earbuds,1,14300.0,0,Pay on Delivery,1.0,3.0,0
+ORD100235,2025-09-20,CUST1165,28.0,Female,Oyo,WhatsApp,Electronics,Earbuds,2,14500.0,15,Bank Transfer,5.0,3.0,0
+ORD101291,2025-11-10,CUST1195,18.0,Female,Abuja,Physical Store,Electronics,Bluetooth Speaker,2,24800.0,0,Card,0.0,,0
+ORD100480,2025-04-16,CUST1241,37.0,Female,Abuja,Website,Fashion,Sneakers,2,30700.0,20,Pay on Delivery,1.0,3.0,0
+ORD100567,2025-11-01,CUST1131,28.0,Male,Delta,WhatsApp,Fashion,Ankara Dress,1,18900.0,15,,3.0,3.0,0
+ORD101275,2025-09-18,CUST1045,,Female,Kano,Mobile App,Electronics,Earbuds,3,16100.0,0,Card,7.0,5.0,0
+ORD101411,2025-07-24,CUST1304,41.0,Female,Rivers,WhatsApp,Electronics,Smartphone,1,127300.0,10,Pay on Delivery,4.0,,0
+ORD101338,2025-10-10,CUST1208,36.0,Male,Kano,WhatsApp,Groceries,Vegetable Oil 5L,2,13900.0,10,,6.0,,0
+ORD100120,2025-06-10,CUST1467,18.0,Male,Oyo,Mobile App,Electronics,Earbuds,1,14300.0,20,Card,3.0,,0
+ORD101305,2025-09-03,CUST1034,45.0,Female,Rivers,Website,Electronics,Power Bank,1,12200.0,5,Pay on Delivery,4.0,4.0,0
+ORD101024,2025-10-27,CUST1105,41.0,Female,Oyo,Mobile App,Home & Kitchen,Gas Cooker,2,64200.0,5,Card,2.0,4.0,0
+ORD100926,2025-07-17,CUST1000,31.0,Male,Lagos,Mobile App,Groceries,Garri 10kg,1,9700.0,10,Card,3.0,,0
+ORD100515,2025-02-08,CUST1173,32.0,Male,Lagos,Mobile App,Home & Kitchen,Pressure Pot,1,37200.0,0,Bank Transfer,3.0,4.0,0
+ORD100223,2025-03-15,CUST1072,24.0,Male,Delta,Website,Groceries,Indomie Carton,3,9000.0,5,Bank Transfer,8.0,3.0,0
+ORD101118,2025-09-21,CUST1053,30.0,Male,Rivers,WhatsApp,Fashion,Agbada,1,54900.0,15,Bank Transfer,4.0,,0
+ORD100613,2025-11-02,CUST1058,36.0,Male,Enugu,Mobile App,Beauty,Shea Butter Set,1,9500.0,0,Bank Transfer,6.0,5.0,0
+ORD100843,2025-01-14,CUST1492,0.0,Female,Enugu,Website,Groceries,Garri 10kg,2,9000.0,10,Pay on Delivery,8.0,4.0,0
+ORD100052,2025-05-13,CUST1394,40.0,Female,Kano,Website,GROCERIES,Garri 10kg,3,8600.0,15,USSD,8.0,2.0,0
+ORD101395,2025-08-04,CUST1479,50.0,Male,Rivers,Mobile App,Fashion,Agbada,1,58000.0,5,Card,5.0,5.0,0
+ORD100485,2025-11-04,CUST1144,35.0,Male,Enugu,Website,Home & Kitchen,Blender,1,27300.0,0,Card,5.0,4.0,0
+ORD101447,2025-12-17,CUST1038,39.0,Male,Lagos,Mobile App,Fashion,Handbag,1,21800.0,0,Pay on Delivery,3.0,2.0,1
+ORD100818,2025-08-31,CUST1001,33.0,Female,Ogun,WhatsApp,Groceries,Garri 10kg,5,9600.0,0,Pay on Delivery,4.0,5.0,0
+ORD100155,2025-08-30,CUST1198,25.0,Male,Enugu,WhatsApp,Fashion,Handbag,1,21600.0,0,Bank Transfer,8.0,4.0,0
+ORD100600,2025-08-13,CUST1149,38.0,Male,Lagos,Mobile App,Fashion,Agbada,1,53700.0,0,Pay on Delivery,6.0,,1
+ORD101242,2025-12-18,CUST1081,43.0,Female,Lagos,Physical Store,Fashion,Sneakers,1,31900.0,0,USSD,0.0,4.0,0
+ORD100248,2025-10-15,CUST1106,31.0,Female,Anambra,Mobile App,Home & Kitchen,Standing Fan,3,43100.0,15,USSD,5.0,4.0,0
+ORD100761,2025-07-21,CUST1516,36.0,Female,Rivers,WhatsApp,Fashion,Sneakers,1,31600.0,10,USSD,5.0,4.0,0
+ORD101383,2025-11-24,CUST1467,40.0,Male,Enugu,Website,Fashion,Agbada,1,56700.0,5,Pay on Delivery,6.0,5.0,0
+ORD100542,2025-03-13,CUST1418,36.0,Female,Enugu,Website,Beauty,Shea Butter Set,1,9500.0,10,Bank Transfer,6.0,5.0,1
+ORD100793,2025-10-29,CUST1095,32.0,Male,Delta,Mobile App,Electronics,Earbuds,1,15300.0,10,Card,2.0,3.0,0
+ORD101102,2025-12-02,CUST1356,35.0,Female,Rivers,Website,Groceries,Garri 10kg,2,9000.0,20,Card,4.0,5.0,1
+ORD100628,2025-07-04,CUST1388,31.0,Male,Kano,Website,Groceries,Rice 50kg,2,81600.0,0,Pay on Delivery,7.0,,0
+ORD100150,2025-11-09,CUST1568,34.0,Male,Abuja,Mobile App,Electronics,Earbuds,1,15800.0,0,Card,3.0,2.0,0
+ORD100291,2025-04-08,CUST1181,48.0,Female,Lagos,Website,Home & Kitchen,Blender,1,29200.0,10,USSD,4.0,3.0,0
+ORD100381,2025-12-08,CUST1102,30.0,Female,Oyo,Mobile App,Home & Kitchen,Gas Cooker,3,65600.0,0,Card,4.0,,0
+ORD100686,2025-05-29,CUST1296,22.0,Male,Lagos,Website,Fashion,Handbag,2,21900.0,15,Card,4.0,4.0,0
+ORD100897,2025-01-20,CUST1039,42.0,Male,Abuja FCT,Mobile App,Fashion,Sneakers,1,32200.0,15,Bank Transfer,7.0,3.0,0
+ORD100854,2025-04-16,CUST1068,30.0,Female,Anambra,WhatsApp,Groceries,Garri 10kg,3,9100.0,0,Bank Transfer,2.0,4.0,0
+ORD101071,2025-03-18,CUST1021,36.0,Male,Rivers,Website,Groceries,Garri 10kg,1,8700.0,0,Pay on Delivery,3.0,4.0,0
+ORD101220,2025-08-26,CUST1429,34.0,Male,Oyo,WhatsApp,Electronics,Power Bank,1,12900.0,5,Bank Transfer,1.0,2.0,0
+ORD101173,2025-03-06,CUST1433,27.0,Female,Rivers,Website,Fashion,Sneakers,2,32000.0,5,Card,3.0,3.0,0
+ORD101280,2025-11-12,CUST1326,34.0,Male,Rivers,Mobile App,Electronics,Smartphone,2,122200.0,0,USSD,5.0,5.0,0
+ORD100891,2025-11-10,CUST1138,28.0,Female,Ogun,Physical Store,Groceries,Rice 50kg,5,79300.0,15,Pay on Delivery,0.0,5.0,0
+ORD101126,2025-11-08,CUST1291,39.0,Female,Oyo,Physical Store,Groceries,Garri 10kg,3,9500.0,0,Pay on Delivery,0.0,5.0,0
+ORD100615,2025-08-22,CUST1211,33.0,Male,Lagos,Mobile App,GROCERIES,Vegetable Oil 5L,2,12800.0,20,USSD,6.0,5.0,1
+ORD100154,2025-06-08,CUST1507,20.0,Female,Kano,Physical Store,Electronics,Power Bank,1,11900.0,5,Bank Transfer,0.0,5.0,0
+ORD100685,2025-10-20,CUST1454,41.0,Female,Kano,Physical Store,Electronics,Bluetooth Speaker,1,26900.0,20,Card,0.0,3.0,0
+ORD100322,2025-08-13,CUST1002,23.0,Female,Abuja FCT,WhatsApp,Groceries,Garri 10kg,3,8900.0,0,Pay on Delivery,5.0,4.0,0
+ORD101170,18/08/2025,CUST1491,23.0,Female,Oyo,Website,Beauty,Perfume,3,26900.0,10,Pay on Delivery,8.0,3.0,0
+ORD100082,2025-02-28,CUST1284,34.0,Male,Lagos,Website,Groceries,Garri 10kg,5,8700.0,0,,2.0,3.0,0
+ORD100512,2025-11-03,CUST1455,19.0,Male,Rivers,Website,Beauty,Shea Butter Set,1,9600.0,0,USSD,6.0,2.0,0
+ORD101449,2025-02-07,CUST1054,34.0,Male,Lagos,Website,Electronics,Power Bank,1,12500.0,0,Card,4.0,5.0,0
+ORD100929,2025-07-30,CUST1030,29.0,Male,Delta,Website,Beauty,Perfume,1,24800.0,15,USSD,3.0,,0
+ORD101238,2025-04-19,CUST1501,34.0,Female,Oyo,Physical Store,Groceries,Vegetable Oil 5L,1,13700.0,20,Bank Transfer,0.0,,0
+ORD100010,2025-07-12,CUST1366,27.0,Female,Lagos,Mobile App,Fashion,Ankara Dress,1,18100.0,15,Pay on Delivery,7.0,4.0,0
+ORD100831,2025-03-29,CUST1502,19.0,Female,Anambra,Mobile App,Groceries,Rice 50kg,5,83800.0,10,Card,3.0,4.0,0
+ORD100032,2025-02-03,CUST1356,24.0,Female,Rivers,Mobile App,Electronics,Smartphone,2,118400.0,20,USSD,4.0,3.0,1
+ORD100413,2025-02-18,CUST1285,48.0,Female,Enugu,Physical Store,Electronics,Smartphone,3,123700.0,0,Card,0.0,4.0,0
+ORD100580,2025-02-04,CUST1008,32.0,Male,Lagos,Website,Home & Kitchen,Standing Fan,1,45300.0,20,Card,5.0,2.0,0
+ORD101172,2025-05-23,CUST1436,,Female,Enugu,Mobile App,Beauty,Hair Extensions,1,31400.0,20,Card,5.0,,0
+ORD101440,2025-11-16,CUST1519,36.0,Female,Oyo,Mobile App,Electronics,Power Bank,1,12800.0,15,Bank Transfer,6.0,5.0,0
+ORD100614,2025-09-08,CUST1023,24.0,Female,Lagos,Website,Groceries,Garri 10kg,5,9500.0,0,Pay on Delivery,5.0,4.0,0
+ORD101045,2025-02-26,CUST1507,41.0,Female,Kaduna,Mobile App,Electronics,Power Bank,3,11900.0,0,Card,5.0,5.0,0
+ORD101014,2025-07-09,CUST1504,30.0,Female,Oyo,Website,Groceries,Indomie Carton,2,8200.0,0,Card,1.0,4.0,0
+ORD100089,2025-10-31,CUST1100,33.0,Female,Anambra,WhatsApp,Beauty,Shea Butter Set,1,9800.0,5,Pay on Delivery,5.0,5.0,0
+ORD101286,2025-11-28,CUST1194,18.0,Male,Kano,Physical Store,Beauty,Hair Extensions,1,32100.0,5,Pay on Delivery,-1.0,5.0,0
+ORD100601,12/10/2025,CUST1312,24.0,Female,Lagos,Website,Electronics,Earbuds,1,15000.0,0,USSD,3.0,5.0,0
+ORD100133,2025-07-24,CUST1003,30.0,Male,Enugu,Website,Electronics,Power Bank,1,12900.0,0,USSD,4.0,3.0,0
+ORD100555,2025-07-04,CUST1576,43.0,Male,Kano,Mobile App,Home & Kitchen,Standing Fan,1,40800.0,15,Card,4.0,,0
+ORD101031,2025-03-05,CUST1380,25.0,Male,Abuja,Physical Store,Fashion,Sneakers,1,28900.0,0,Pay on Delivery,0.0,5.0,0
+ORD101186,2025-02-21,CUST1493,35.0,Male,Lagos,Website,Electronics,Power Bank,3,12600.0,10,Pay on Delivery,4.0,4.0,0
+ORD100320,2025-04-28,CUST1228,46.0,Female,Oyo,Mobile App,ELECTRONICS,Smartphone,2,117500.0,0,USSD,5.0,,0
+ORD101336,2025-08-21,CUST1053,38.0,Female,Ogun,Website,Electronics,Laptop,1,429900.0,15,Bank Transfer,3.0,4.0,0
+ORD101313,2025-12-29,CUST1478,32.0,Male,Kaduna,Mobile App,Home & Kitchen,Pressure Pot,3,35100.0,10,Bank Transfer,7.0,5.0,0
+ORD100634,2025-03-08,CUST1020,31.0,Female,Lagos,Mobile App,Groceries,Rice 50kg,2,81700.0,10,Bank Transfer,5.0,,0
+ORD100552,2025-10-30,CUST1588,41.0,Female,Anambra,Website,Fashion,Handbag,2,21900.0,15,USSD,7.0,4.0,0
+ORD101055,2025-12-30,CUST1196,42.0,Female,Oyo,Mobile App,Home & Kitchen,Blender,3,26900.0,0,Bank Transfer,3.0,5.0,0
+ORD101179,2025-01-10,CUST1023,38.0,Male,Oyo,WhatsApp,Beauty,Hair Extensions,1,30500.0,0,Card,4.0,3.0,0
+ORD100796,2025-12-20,CUST1406,50.0,Female,Rivers,Website,Groceries,Rice 50kg,3,77100.0,0,Pay on Delivery,6.0,5.0,0
+ORD101262,2025-06-12,CUST1171,37.0,Male,Oyo,Website,Fashion,Ankara Dress,1,18500.0,15,Bank Transfer,3.0,3.0,0
+ORD101293,2025-01-02,CUST1110,47.0,Female,Kano,Mobile App,Groceries,Garri 10kg,1,9100.0,0,Bank Transfer,3.0,3.0,0
+ORD100174,2025-09-12,CUST1117,51.0,Female,Abuja,Website,Groceries,Garri 10kg,3,9600.0,5,Pay on Delivery,6.0,4.0,0
+ORD100766,2025-12-03,CUST1134,30.0,Female,Anambra,WhatsApp,Groceries,Vegetable Oil 5L,4,14400.0,15,Bank Transfer,4.0,3.0,0
+ORD100245,2025-01-31,CUST1541,42.0,Female, Enugu ,Mobile App,Groceries,Vegetable Oil 5L,4,13600.0,0,Card,4.0,4.0,0
+ORD101080,2025-12-02,CUST1527,30.0,Male,Delta,Mobile App,Fashion,Ankara Dress,1,18000.0,5,Pay on Delivery,10.0,3.0,0
+ORD101312,2025-10-12,CUST1459,36.0,Female,Rivers,Website,Electronics,Earbuds,3,15900.0,0,USSD,3.0,5.0,0
+ORD100145,2025-11-08,CUST1038,41.0,Male,Lagos,Mobile App,Groceries,Vegetable Oil 5L,3,13700.0,5,Pay on Delivery,5.0,3.0,0
+ORD100090,2025-12-12,CUST1414,41.0,Female,Kaduna,Website,Home & Kitchen,Pressure Pot,3,34800.0,5,USSD,6.0,5.0,0
+ORD100682,2025-12-09,CUST1264,41.0,Male,Kaduna,Website,Fashion,Sneakers,1,29600.0,0,Bank Transfer,7.0,5.0,0
+ORD100310,2025-09-01,CUST1516,26.0,Male,Lagos,Website,Beauty,Perfume,3,26000.0,20,Card,3.0,3.0,0
+ORD100093,2025-05-22,CUST1352,29.0,Female,FCT,Mobile App,Beauty,Shea Butter Set,1,9300.0,15,Pay on Delivery,5.0,3.0,0
+ORD101188,2025-07-26,CUST1402,32.0,Male,Lagos,Mobile App,Electronics,Earbuds,1,14400.0,0,USSD,5.0,5.0,0
+ORD100924,2025-04-01,CUST1005,46.0,Female,Kano,Physical Store,Electronics,Bluetooth Speaker,3,24300.0,20,Card,0.0,,0
+ORD101279,2025-11-12,CUST1450,33.0,Female,Rivers,Website,Groceries,Rice 50kg,1,81100.0,0,Bank Transfer,4.0,2.0,0
+ORD101035,2025-09-29,CUST1029,29.0,Female,Delta,Website,Fashion,Agbada,1,53900.0,15,Pay on Delivery,2.0,4.0,0
+ORD100243,2025-08-26,CUST1126,27.0,Male,Kano,Physical Store,Fashion,Handbag,1,21200.0,5,,0.0,5.0,0
+ORD101111,2025-03-26,CUST1065,23.0,Female,Lagos,Mobile App,Home & Kitchen,Standing Fan,2,42400.0,10,USSD,1.0,,0
+ORD100214,2025-09-26,CUST1540,43.0,Male,Lagos,WhatsApp,Electronics,Power Bank,3,12400.0,5,Bank Transfer,3.0,5.0,0
+ORD100998,2025-12-18,CUST1244,25.0,Female,Abuja FCT,Mobile App,Fashion,Handbag,1,23400.0,10,USSD,6.0,4.0,0
+ORD100853,2025-03-29,CUST1585,20.0,Female,Rivers,WhatsApp,Fashion,Agbada,1,59400.0,0,Bank Transfer,5.0,,1
+ORD100425,2025-03-14,CUST1317,35.0,Female,Lagos,WhatsApp,Groceries,Rice 50kg,1,76400.0,10,Pay on Delivery,1.0,4.0,0
+ORD101331,2025-09-19,CUST1179,48.0,Male,Rivers,Website,Beauty,Shea Butter Set,1,9600.0,15,Bank Transfer,1.0,4.0,0
+ORD100226,2025-10-23,CUST1331,52.0,Male,Enugu,WhatsApp,Groceries,Garri 10kg,3,9600.0,0,Card,6.0,5.0,0
+ORD101296,2025-04-06,CUST1092,18.0,Female,Kaduna,WhatsApp,Fashion,Handbag,1,21300.0,20,Card,5.0,,0
+ORD100000,2025-02-02,CUST1304,31.0,Male,Lagos,Mobile App,Home & Kitchen,Gas Cooker,1,65600.0,10,,5.0,4.0,0
+ORD100401,2025-10-11,CUST1562,23.0,Male,Kaduna,Physical Store,Home & Kitchen,Standing Fan,2,40000.0,15,USSD,0.0,3.0,0
+ORD101103,2025-02-24,CUST1528,36.0,Female,Kano,WhatsApp,Fashion,Sneakers,1,28900.0,0,Bank Transfer,8.0,4.0,0
+ORD100084,2025-08-18,CUST1594,18.0,Female,FCT,Website,Home & Kitchen,Gas Cooker,3,64500.0,15,Pay on Delivery,3.0,5.0,0
+ORD100162,30/05/2025,CUST1100,20.0,Male,Oyo,Mobile App,Electronics,Bluetooth Speaker,3,24000.0,20,Pay on Delivery,1.0,,0
+ORD100114,2025-12-04,CUST1503,28.0,Female,Rivers,Mobile App,Fashion,Sneakers,1,28600.0,20,Pay on Delivery,4.0,5.0,0
+ORD100670,2025-12-14,CUST1444,,Male,Lagos,Mobile App,Fashion,Agbada,1,53500.0,0,Card,3.0,5.0,0
+ORD101156,2025-02-13,CUST1378,26.0,Female, Rivers ,Mobile App,Beauty,Perfume,1,25000.0,20,Bank Transfer,2.0,5.0,0
+ORD100889,2025-04-09,CUST1592,29.0,Female,Abuja,Website,Electronics,Bluetooth Speaker,3,25500.0,0,Bank Transfer,2.0,4.0,0
+ORD100625,2025-12-15,CUST1202,41.0,Female,Lagos,Website,Groceries,Garri 10kg,5,9700.0,5,Card,1.0,3.0,0
+ORD101482,2025-12-26,CUST1093,43.0,Male,Ogun,Physical Store,Home & Kitchen,Blender,3,28100.0,10,Card,0.0,5.0,0
+ORD100952,2025-08-13,CUST1384,18.0,Male,Rivers,Mobile App,Beauty,Perfume,2,24900.0,10,USSD,9.0,3.0,0
+ORD100807,2025-02-10,CUST1433,44.0,Male,Abuja FCT,Physical Store,Groceries,Indomie Carton,2,8700.0,5,Bank Transfer,0.0,,0
+ORD100258,2025-03-05,CUST1330,32.0,Female,Lagos,Physical Store,Groceries,Rice 50kg,2,78100.0,0,Bank Transfer,0.0,3.0,0
+ORD100624,2025-08-09,CUST1306,29.0,Female,Rivers,Website,Groceries,Indomie Carton,5,8300.0,0,Card,1.0,3.0,0
+ORD100826,2025-09-06,CUST1475,29.0,Male,Ogun,WhatsApp,Electronics,Smartphone,3,125200.0,20,Pay on Delivery,3.0,4.0,0
+ORD100234,29/06/2025,CUST1009,26.0,Male,Abuja FCT,WhatsApp,Electronics,Bluetooth Speaker,1,26400.0,0,Card,4.0,,0
+ORD100135,2025-04-21,CUST1043,50.0,Male,Delta,Mobile App,Home & Kitchen,Gas Cooker,3,64900.0,0,Card,3.0,,0
+ORD100616,2025-04-02,CUST1513,40.0,Male,Lagos,Website,Fashion,Handbag,1,22700.0,0,Pay on Delivery,1.0,,0
+ORD100836,2025-10-23,CUST1566,38.0,Female,Lagos,Website,Groceries,Rice 50kg,5,80300.0,0,Pay on Delivery,6.0,,0
+ORD100842,2025-11-28,CUST1137,18.0,Male,Enugu,Website,Groceries,Vegetable Oil 5L,5,13600.0,0,USSD,8.0,3.0,0
+ORD100959,2025-05-31,CUST1544,40.0,Female,Oyo,WhatsApp,Fashion,Sneakers,1,31800.0,0,Pay on Delivery,2.0,5.0,0
+ORD100592,2025-03-29,CUST1264,35.0,Female,Anambra,Website,Home & Kitchen,Gas Cooker,2,69600.0,15,Bank Transfer,5.0,4.0,0
+ORD100343,2025-07-07,CUST1371,44.0,Female,Kaduna,Mobile App,Electronics,Earbuds,2,14800.0,0,Bank Transfer,8.0,3.0,0
+ORD101251,2025-05-31,CUST1450,34.0,Male,Anambra,Mobile App,Electronics,Bluetooth Speaker,1,26600.0,0,Pay on Delivery,4.0,5.0,0
+ORD100293,2025-05-02,CUST1176,40.0,Female,Lagos,Physical Store,Fashion,Agbada,1,58400.0,15,Bank Transfer,0.0,3.0,0
+ORD100364,2025-02-12,CUST1436,48.0,Female,Enugu,Website,Fashion,Agbada,1,58200.0,5,USSD,3.0,,0
+ORD100178,2025-11-25,CUST1587,38.0,Male,FCT,Physical Store,Electronics,Smartphone,3,117300.0,20,Bank Transfer,0.0,4.0,0
+ORD100659,2025-04-16,CUST1416,50.0,Female,Lagos,Website,Electronics,Smartphone,1,125600.0,5,Bank Transfer,6.0,,0
+ORD100996,2025-07-12,CUST1334,23.0,Male,Rivers,Mobile App,Electronics,Laptop,1,449500.0,10,Card,2.0,4.0,0
+ORD100014,2025-09-19,CUST1122,27.0,Male,Abuja FCT,WhatsApp,Electronics,Power Bank,3,12600.0,20,USSD,4.0,5.0,0
+ORD101110,2025-08-19,CUST1554,30.0,Female,Rivers,Website,Fashion,Handbag,3,22600.0,0,Bank Transfer,5.0,4.0,0
+ORD100165,2025-10-25,CUST1145,26.0,Male,Anambra,WhatsApp,Groceries,Vegetable Oil 5L,4,14300.0,0,,7.0,5.0,0
+ORD101423,2025-09-04,CUST1534,18.0,Male,Rivers,Mobile App,Electronics,Power Bank,2,11800.0,0,Card,5.0,3.0,0
+ORD100059,2025-09-07,CUST1264,22.0,Female,Enugu,Physical Store,Electronics,Laptop,1,479200.0,0,USSD,0.0,5.0,0
+ORD100709,2025-06-20,CUST1262,47.0,Female,Oyo,Mobile App,Home & Kitchen,Blender,3,30000.0,0,USSD,6.0,4.0,0
+ORD100676,2025-11-13,CUST1501,27.0,Male,Delta,WhatsApp,Fashion,Sneakers,3,32300.0,20,Card,2.0,3.0,0
+ORD100780,2025-11-17,CUST1221,25.0,Male,Lagos,Website,Electronics,Laptop,2,478300.0,0,Bank Transfer,4.0,4.0,0
+ORD100424,2025-06-02,CUST1019,40.0,Female,FCT,Website,Electronics,Power Bank,1,11500.0,20,USSD,6.0,4.0,0
+ORD100292,2025-12-15,CUST1257,42.0,Male,Lagos,Website,Groceries,Garri 10kg,3,8800.0,20,Card,5.0,4.0,0
+ORD101065,2025-05-22,CUST1454,30.0,Male,Abuja,Physical Store,Home & Kitchen,Blender,3,28900.0,10,Card,0.0,3.0,0
+ORD101354,2025-03-22,CUST1391,33.0,Female,Oyo,Website,Beauty,Perfume,3,27100.0,5,Pay on Delivery,7.0,3.0,0
+ORD100329,2025-07-22,CUST1108,34.0,Male,Delta,Website,Electronics,Earbuds,1,15400.0,20,USSD,6.0,3.0,0
+ORD100429,2025-09-19,CUST1213,18.0,Male,Abuja,WhatsApp,Home & Kitchen,Gas Cooker,2,64500.0,20,Pay on Delivery,4.0,,0
+ORD101012,2025-03-31,CUST1396,47.0,Female,Lagos,WhatsApp,Beauty,Perfume,1,27900.0,0,,1.0,3.0,0
+ORD100079,2025-09-02,CUST1076,42.0,Male,Kaduna,Mobile App,Electronics,Power Bank,3,12200.0,0,Pay on Delivery,5.0,5.0,0
+ORD101052,2025-07-03,CUST1052,30.0,Female,Abuja,Website,Groceries,Garri 10kg,1,9600.0,20,Card,4.0,4.0,0
+ORD100937,2025-02-24,CUST1212,24.0,Female,Oyo,Mobile App,Groceries,Vegetable Oil 5L,1,13900.0,10,Pay on Delivery,5.0,4.0,0
+ORD100834,2025-11-08,CUST1434,36.0,Female,Rivers,Website,Fashion,Handbag,2,23100.0,10,Pay on Delivery,8.0,3.0,0
+ORD100749,2025-02-27,CUST1249,35.0,Male,Lagos,Mobile App,Electronics,Earbuds,3,14300.0,15,Pay on Delivery,5.0,3.0,0
+ORD100890,2025-02-06,CUST1179,24.0,Female,Lagos,Mobile App,Electronics,Bluetooth Speaker,1,26600.0,5,USSD,4.0,3.0,0
+ORD100254,2025-08-30,CUST1032,27.0,Male,Anambra,WhatsApp,Electronics,Laptop,2,462800.0,0,Pay on Delivery,6.0,4.0,0
+ORD101453,31/03/2025,CUST1582,37.0,Male,Rivers,Website,Groceries,Rice 50kg,3,80800.0,0,Bank Transfer,2.0,3.0,0
+ORD101481,2025-01-01,CUST1076,38.0,Female,Lagos,Mobile App,Groceries,Vegetable Oil 5L,2,13600.0,20,Bank Transfer,1.0,,0
+ORD101108,2025-12-10,CUST1204,48.0,Female,Anambra,Mobile App,Beauty,Hair Extensions,1,32800.0,5,USSD,3.0,3.0,0
+ORD100136,2025-08-09,CUST1371,43.0,Male,Kano,Physical Store,Home & Kitchen,Gas Cooker,3,64300.0,0,USSD,0.0,3.0,1
+ORD101135,2025-01-22,CUST1322,44.0,Female,FCT,Mobile App,Electronics,Power Bank,1,11700.0,0,Pay on Delivery,5.0,3.0,0
+ORD100852,2025-12-18,CUST1333,48.0,Male, kano ,Mobile App,Fashion,Sneakers,1,28800.0,0,Bank Transfer,7.0,,0
+ORD100723,2025-02-13,CUST1400,28.0,Female,Kano,Website,Fashion,Agbada,2,59000.0,5,Pay on Delivery,9.0,2.0,0
+ORD100859,2025-10-20,CUST1493,24.0,Female,Anambra,Mobile App,Electronics,Laptop,1,454600.0,0,Card,5.0,2.0,0
+ORD100969,2025-01-14,CUST1225,36.0,Male,Kano,Website,Electronics,Power Bank,2,12100.0,15,Card,8.0,2.0,0
+ORD100496,2025-02-13,CUST1325,35.0,Male,Anambra,WhatsApp,Groceries,Garri 10kg,1,9300.0,0,USSD,3.0,4.0,0
+ORD100950,2025-02-04,CUST1592,28.0,Male,Lagos,Website,Fashion,Sneakers,1,31700.0,15,Card,4.0,3.0,0
+ORD100805,2025-10-13,CUST1161,19.0,Male,Ogun,Physical Store,Electronics,Laptop,1,430900.0,5,Pay on Delivery,0.0,5.0,0
+ORD100129,2025-08-20,CUST1167,34.0,Female,Lagos,Mobile App,Beauty,Hair Extensions,2,32100.0,0,Card,5.0,3.0,0
+ORD100337,2025-04-26,CUST1142,49.0,Female,Lagos,Mobile App,Beauty,Shea Butter Set,1,10000.0,15,USSD,6.0,4.0,1
+ORD100181,2025-02-25,CUST1481,32.0,Female,Kaduna,Website,Electronics,Earbuds,1,14300.0,10,Bank Transfer,8.0,1.0,0
+ORD100608,2025-12-19,CUST1591,34.0,Male,Lagos,Website,Electronics,Earbuds,1,14600.0,20,Card,8.0,4.0,0
+ORD101148,2025-12-29,CUST1575,38.0,Female,Delta,WhatsApp,Fashion,Sneakers,2,29100.0,0,Bank Transfer,5.0,5.0,0
+ORD100195,2025-02-01,CUST1014,44.0,Male,Kaduna,Website,Fashion,Ankara Dress,1,19300.0,0,Bank Transfer,6.0,,0
+ORD101497,2025-10-12,CUST1275,35.0,Male,Lagos,Physical Store,Fashion,Ankara Dress,1,18500.0,15,Pay on Delivery,0.0,,1
+ORD100909,2025-12-13,CUST1335,31.0,Female,Rivers,Mobile App,Home & Kitchen,Standing Fan,3,43600.0,0,USSD,6.0,,0
+ORD100584,2025-05-28,CUST1291,35.0,Female,Abuja FCT,Mobile App,Beauty,Shea Butter Set,3,9900.0,0,Pay on Delivery,7.0,4.0,0
+ORD100103,2025-01-03,CUST1341,34.0,Female,Abuja FCT,Website,Home & Kitchen,Blender,1,29800.0,20,Pay on Delivery,1.0,,0
+ORD101401,2025-11-10,CUST1134,34.0,Female,Rivers,WhatsApp,Home & Kitchen,Blender,2,27600.0,15,Bank Transfer,5.0,3.0,0
+ORD101469,2025-01-23,CUST1495,33.0,Male,Enugu,Website,Electronics,Laptop,2,454300.0,0,USSD,5.0,5.0,0
+ORD100719,2025-08-07,CUST1321,30.0,Male,Rivers,Mobile App,Fashion,Agbada,1,57600.0,0,Card,3.0,5.0,0
+ORD100884,2025-10-24,CUST1284,27.0,Female,Lagos,Website,Beauty,Perfume,3,25500.0,0,Bank Transfer,6.0,4.0,0
+ORD100776,2025-06-04,CUST1007,25.0,Male,Enugu,WhatsApp,Groceries,Rice 50kg,4,81200.0,0,USSD,6.0,5.0,0
+ORD100849,2025-08-10,CUST1022,25.0,Male,Rivers,Physical Store,Fashion,Ankara Dress,1,17600.0,0,Card,0.0,2.0,0
+ORD100894,2025-10-01,CUST1386,41.0,Female,oyo,Website,Beauty,Hair Extensions,2,31500.0,20,Pay on Delivery,4.0,3.0,0
+ORD100227,2025-07-31,CUST1136,39.0,Male,lagos,Mobile App,Electronics,Smartphone,1,120600.0,0,Card,7.0,4.0,0
+ORD101425,2025-10-25,CUST1147,40.0,Male,Anambra,Website,Fashion,Ankara Dress,1,19000.0,15,Card,2.0,3.0,0
+ORD100126,2025-01-29,CUST1277,28.0,Female,Lagos,WhatsApp,Groceries,Garri 10kg,4,9100.0,5,Bank Transfer,3.0,4.0,0
+ORD100405,2025-12-09,CUST1182,33.0,Male,Kaduna,Website,Home & Kitchen,Blender,1,28500.0,0,Card,5.0,,0
+ORD100775,2025-12-14,CUST1428,49.0,Male, Lagos ,Mobile App,Fashion,Ankara Dress,3,17400.0,10,Card,3.0,4.0,0
+ORD100821,2025-08-31,CUST1061,33.0,Female,Ogun,Website,Groceries,Vegetable Oil 5L,1,14000.0,15,Pay on Delivery,5.0,4.0,0
+ORD100711,10/07/2025,CUST1466,,Male,Rivers,Mobile App,Home & Kitchen,Blender,1,27200.0,0,Bank Transfer,2.0,4.0,0
+ORD101429,2025-10-15,CUST1535,18.0,Male,FCT,Mobile App,Electronics,Bluetooth Speaker,1,25800.0,0,Pay on Delivery,3.0,5.0,0
+ORD101060,2025-10-09,CUST1239,37.0,Female,Lagos,Website,Beauty,Hair Extensions,1,30900.0,15,Pay on Delivery,6.0,3.0,0
+ORD101163,2025-07-13,CUST1015,18.0,Male,Anambra,Physical Store,Fashion,Handbag,2,21200.0,0,Card,0.0,3.0,0
+ORD100303,2025-11-24,CUST1177,41.0,Female,Kano,WhatsApp,Beauty,Hair Extensions,1,31400.0,10,Card,7.0,4.0,0
+ORD100267,2025-05-07,CUST1254,30.0,Female,Lagos,Website,Home & Kitchen,Pressure Pot,2,34600.0,5,Bank Transfer,5.0,3.0,0
+ORD100545,2025-01-20,CUST1125,42.0,Female, Delta ,Mobile App,Fashion,Ankara Dress,1,18100.0,20,Bank Transfer,2.0,5.0,0
+ORD100212,15/10/2025,CUST1471,42.0,Female,Rivers,WhatsApp,Home & Kitchen,Pressure Pot,1,35800.0,15,USSD,3.0,4.0,0
+ORD100896,2025-07-05,CUST1426,19.0,Male,Lagos,Website,Fashion,Ankara Dress,1,19200.0,0,Card,4.0,4.0,0
+ORD101222,2025-12-17,CUST1328,42.0,Male,Rivers,Website,Fashion,Sneakers,2,31400.0,20,Bank Transfer,3.0,5.0,0
+ORD100916,2025-07-18,CUST1477,34.0,Male, Kaduna ,Mobile App,Groceries,Rice 50kg,5,78900.0,0,Card,5.0,4.0,0
+ORD100675,2025-09-22,CUST1413,33.0,Female,Lagos,Mobile App,Home & Kitchen,Standing Fan,2,41700.0,0,USSD,1.0,,0
+ORD100814,2025-10-11,CUST1580,30.0,Female,FCT,Website,Fashion,Sneakers,2,28800.0,5,Bank Transfer,4.0,3.0,0
+ORD100342,2025-08-15,CUST1147,28.0,Female,Enugu,Physical Store,Electronics,Laptop,2,439000.0,20,Card,0.0,,0
+ORD100549,2025-09-06,CUST1594,36.0,Female,Oyo,Mobile App,Home & Kitchen,Pressure Pot,1,33900.0,20,Pay on Delivery,6.0,5.0,0
+ORD101214,2025-01-28,CUST1373,44.0,Male,Lagos,Physical Store,Groceries,Rice 50kg,2,82900.0,0,Bank Transfer,0.0,3.0,0
+ORD100966,2025-08-08,CUST1187,27.0,Female,Rivers,Physical Store,Fashion,Handbag,2,21900.0,5,USSD,0.0,5.0,0
+ORD101230,2025-10-27,CUST1053,34.0,Female,Abuja,Physical Store,Beauty,Hair Extensions,1,34400.0,15,Card,0.0,4.0,0
+ORD100295,2025-07-10,CUST1058,33.0,Female,Delta,Mobile App,Beauty,Shea Butter Set,3,10200.0,15,USSD,2.0,,1
+ORD100695,2025-04-03,CUST1426,37.0,Female,Oyo,WhatsApp,Fashion,Agbada,1,56500.0,5,Bank Transfer,2.0,3.0,0
+ORD100073,2025-02-17,CUST1181,30.0,Male, Lagos ,Physical Store,Home & Kitchen,Blender,2,29700.0,20,Card,0.0,,0
+ORD100605,2025-12-09,CUST1080,31.0,Male,FCT,Website,Electronics,Bluetooth Speaker,1,24500.0,10,Pay on Delivery,5.0,2.0,0
+ORD100104,2025-10-18,CUST1174,31.0,Female,Lagos,Mobile App,Groceries,Vegetable Oil 5L,1,13000.0,5,USSD,7.0,,1
+ORD100645,2025-04-30,CUST1595,46.0,Male,Anambra,Website,Home & Kitchen,Pressure Pot,1,35600.0,0,Pay on Delivery,4.0,4.0,0
+ORD101485,2025-11-11,CUST1275,38.0,Female,Lagos,Mobile App,Fashion,Ankara Dress,1,18900.0,15,Pay on Delivery,4.0,4.0,0
+ORD101040,2025-09-15,CUST1143,,Female,Kaduna,Mobile App,Fashion,Agbada,1,55100.0,15,Bank Transfer,6.0,3.0,1
+ORD100439,2025-05-26,CUST1381,37.0,Female,Oyo,WhatsApp,Groceries,Indomie Carton,3,8400.0,15,Bank Transfer,2.0,4.0,0
+ORD101019,2025-02-12,CUST1162,24.0,Male,Oyo,Physical Store,Home & Kitchen,Blender,3,27200.0,10,Bank Transfer,0.0,4.0,0
+ORD100091,2025-10-21,CUST1367,18.0,Male, Delta ,Mobile App,Beauty,Shea Butter Set,3,9900.0,15,Bank Transfer,9.0,4.0,0
+ORD101112,2025-03-12,CUST1513,35.0,Female,Lagos,Mobile App,Home & Kitchen,Pressure Pot,1,36400.0,10,USSD,5.0,5.0,0
+ORD101327,2025-01-31,CUST1040,43.0,Female,Lagos,WhatsApp,Home & Kitchen,Pressure Pot,3,36300.0,0,Card,7.0,5.0,0
+ORD100908,2025-05-16,CUST1221,48.0,Female,Lagos,Website,Groceries,Vegetable Oil 5L,4,14100.0,0,Bank Transfer,7.0,5.0,0
+ORD100102,2025-10-21,CUST1284,40.0,Female,Kaduna,WhatsApp,Beauty,Hair Extensions,1,32100.0,5,Bank Transfer,6.0,5.0,0
+ORD100238,2025-04-23,CUST1278,35.0,Male,Lagos,WhatsApp,Fashion,Agbada,1,52400.0,5,Bank Transfer,3.0,5.0,0
+ORD101333,2025-10-22,CUST1556,36.0,Male,Rivers,WhatsApp,Fashion,Sneakers,1,32100.0,15,Pay on Delivery,2.0,4.0,0
+ORD100942,2025-11-30,CUST1162,31.0,Female,Abuja FCT,Mobile App,Electronics,Power Bank,1,11800.0,0,Card,4.0,5.0,0
+ORD100938,2025-06-18,CUST1158,34.0,Female,FCT,WhatsApp,Fashion,Ankara Dress,1,17800.0,5,USSD,2.0,4.0,0
+ORD101181,2025-12-05,CUST1464,37.0,Female,Rivers,Website,Electronics,Power Bank,1,12300.0,20,Card,3.0,5.0,0
+ORD100005,2025-11-10,CUST1099,54.0,Male,Lagos,Website,Home & Kitchen,Gas Cooker,1,68100.0,0,USSD,4.0,5.0,0
+ORD101375,2025-12-17,CUST1314,18.0,Female,Abuja,WhatsApp,Electronics,Bluetooth Speaker,1,26800.0,20,USSD,7.0,4.0,0
+ORD100965,2025-08-03,CUST1243,52.0,Female,Lagos,WhatsApp,Electronics,Smartphone,1,119700.0,20,Pay on Delivery,7.0,3.0,0
+ORD100018,2025-12-13,CUST1179,23.0,Female,Enugu,WhatsApp,Fashion,Handbag,1,21600.0,0,Bank Transfer,8.0,1.0,0
+ORD100121,2025-12-30,CUST1557,28.0,Female,Rivers,Mobile App,Fashion,Handbag,1,23100.0,0,Card,4.0,4.0,0
+ORD100661,2025-09-26,CUST1106,46.0,Female,Kaduna,Mobile App,Beauty,Shea Butter Set,2,9300.0,5,USSD,6.0,5.0,0
+ORD101278,2025-01-03,CUST1264,31.0,Female,Delta,WhatsApp,Fashion,Sneakers,1,31900.0,0,Pay on Delivery,4.0,3.0,0
+ORD100274,2025-06-02,CUST1242,22.0,Female,Lagos,Website,Groceries,Rice 50kg,3,78000.0,10,Bank Transfer,3.0,4.0,1
+ORD100433,2025-02-17,CUST1380,28.0,Female,Abuja,Physical Store,Electronics,Laptop,1,466000.0,5,Bank Transfer,0.0,3.0,0
+ORD100811,17/11/2025,CUST1242,31.0,Male,Abuja,Physical Store,Electronics,Smartphone,1,129500.0,10,Bank Transfer,0.0,5.0,0
+ORD101416,2025-08-20,CUST1446,40.0,Female,Oyo,Physical Store,Groceries,Indomie Carton,5,9100.0,0,Pay on Delivery,0.0,4.0,0
+ORD101430,2025-06-21,CUST1477,31.0,Female,Lagos,Mobile App,Fashion,Ankara Dress,3,17300.0,0,Card,7.0,4.0,0
+ORD100181,2025-02-25,CUST1481,32.0,Female,Kaduna,Website,Electronics,Earbuds,1,14300.0,10,Bank Transfer,8.0,1.0,0
+ORD100184,2025-06-30,CUST1294,35.0,Female,Oyo,WhatsApp,Electronics,Power Bank,1,11500.0,0,Card,5.0,4.0,0
+ORD100406,2025-11-18,CUST1268,22.0,Female,Anambra,Website,Groceries,Indomie Carton,5,8300.0,0,Bank Transfer,4.0,4.0,0
+ORD100865,2025-09-12,CUST1012,37.0,Female,Enugu,WhatsApp,Fashion,Agbada,2,57000.0,20,USSD,7.0,4.0,0
+ORD100520,2025-05-11,CUST1374,23.0,Female,Anambra,Website,Groceries,Garri 10kg,3,8900.0,15,,5.0,5.0,0
+ORD101003,2025-11-20,CUST1499,35.0,Male,Anambra,WhatsApp,Electronics,Smartphone,1,121800.0,0,Bank Transfer,7.0,1.0,0
+ORD100380,2025-01-02,CUST1310,30.0,Female,Kano,Mobile App,Fashion,Sneakers,2,29800.0,0,USSD,4.0,5.0,0
+ORD100427,2025-10-21,CUST1573,18.0,Male,Delta,WhatsApp,Home & Kitchen,Pressure Pot,1,35800.0,0,Card,4.0,4.0,0
+ORD100078,2025-07-26,CUST1135,25.0,Male,Rivers,WhatsApp,Groceries,Vegetable Oil 5L,4,13600.0,0,USSD,4.0,2.0,0
+ORD101009,09/07/2025,CUST1134,42.0,Female,Rivers,Mobile App,Groceries,Rice 50kg,4,75300.0,10,Bank Transfer,4.0,5.0,0
+ORD101493,2025-05-02,CUST1468,32.0,Male,Abuja,Mobile App,Electronics,Earbuds,1,15400.0,0,Card,6.0,4.0,0
+ORD100607,2025-07-07,CUST1432,35.0,Male,Lagos,Physical Store,Electronics,Laptop,1,472800.0,0,Bank Transfer,0.0,3.0,0
+ORD101348,2025-09-26,CUST1374,40.0,Female,Kano,WhatsApp,Groceries,Vegetable Oil 5L,5,13200.0,20,Bank Transfer,6.0,5.0,0
+ORD101165,2025-02-08,CUST1550,30.0,Male,Delta,Mobile App,Electronics,Laptop,1,463600.0,10,USSD,5.0,2.0,1
+ORD101381,2025-04-14,CUST1520,34.0,Male,Ogun,Physical Store,Fashion,Agbada,1,56900.0,5,Card,0.0,4.0,0
+ORD101057,2025-10-09,CUST1520,,Female,Abuja,Physical Store,Beauty,Shea Butter Set,1,9600.0,0,Card,0.0,4.0,0
+ORD101091,2025-06-13,CUST1403,25.0,Male,Lagos,Website,Home & Kitchen,Blender,3,27300.0,15,USSD,3.0,4.0,0
+ORD101101,2025-06-21,CUST1449,30.0,Female,Enugu,Mobile App,Groceries,Garri 10kg,2,9000.0,15,Card,3.0,4.0,0
+ORD101129,2025-08-25,CUST1423,45.0,Female,ogun,Website,Beauty,Shea Butter Set,1,9100.0,5,USSD,5.0,5.0,0
+ORD101235,2025-05-07,CUST1037,33.0,Male, Lagos ,Website,Electronics,Laptop,1,452800.0,15,Card,2.0,,0
+ORD101334,2025-07-14,CUST1235,30.0,Female,Lagos,WhatsApp,Home & Kitchen,Blender,1,28700.0,10,Bank Transfer,3.0,4.0,0
+ORD100958,21/12/2025,CUST1530,20.0,Male,Abuja,Website,Electronics,Power Bank,3,12400.0,0,Card,1.0,4.0,0
+ORD100559,2025-11-07,CUST1028,32.0,Male,FCT,Physical Store,GROCERIES,Indomie Carton,4,8400.0,10,Pay on Delivery,0.0,,0
+ORD100846,2025-02-27,CUST1169,38.0,Female,FCT,Mobile App,Home & Kitchen,Pressure Pot,1,36900.0,0,Card,3.0,5.0,0
+ORD100690,2025-12-30,CUST1095,32.0,Female,Anambra,Website,Electronics,Bluetooth Speaker,2,24700.0,20,Card,4.0,4.0,0
+ORD101467,2025-05-21,CUST1170,28.0,Female,Rivers,Website,Groceries,Indomie Carton,4,8800.0,0,Card,4.0,4.0,0
+ORD101414,2025-08-02,CUST1583,34.0,Female,FCT,Website,Electronics,Bluetooth Speaker,3,23800.0,0,Card,4.0,4.0,0
+ORD100436,2025-07-27,CUST1340,30.0,Male,Lagos,WhatsApp,Fashion,Ankara Dress,1,17100.0,0,USSD,7.0,4.0,0
+ORD100490,2025-12-07,CUST1512,29.0,Female,Rivers,Website,Groceries,Indomie Carton,5,8300.0,15,Card,2.0,,0
+ORD100101,2025-03-14,CUST1531,26.0,Female,Abuja,Physical Store,Electronics,Laptop,3,434900.0,5,Card,0.0,4.0,0
+ORD101392,2025-12-26,CUST1318,20.0,Female,Abuja FCT,Physical Store,Groceries,Garri 10kg,4,9200.0,0,Card,0.0,,0
+ORD100069,2025-06-21,CUST1186,34.0,Female,Delta,Mobile App,Fashion,Handbag,1,22900.0,20,Pay on Delivery,5.0,4.0,0
+ORD100808,2025-05-23,CUST1361,41.0,Female,Anambra,Website,Beauty,Shea Butter Set,3,9900.0,15,Pay on Delivery,5.0,5.0,0
+ORD101184,2025-06-03,CUST1102,37.0,Male,oyo,WhatsApp,Beauty,Perfume,3,26900.0,20,Pay on Delivery,1.0,4.0,0
+ORD100011,2025-12-23,CUST1424,,Female,Rivers,Website,Beauty,Shea Butter Set,2,9400.0,0,Card,3.0,4.0,0
+ORD100144,2025-12-29,CUST1329,,Male,Lagos,Website,Home & Kitchen,Pressure Pot,2,35900.0,20,Pay on Delivery,6.0,4.0,0
+ORD100917,2025-10-14,CUST1201,28.0,Male,FCT,Website,Groceries,Rice 50kg,2,80300.0,5,Pay on Delivery,2.0,3.0,0
+ORD100639,2025-12-30,CUST1496,19.0,Female,Lagos,Website,GROCERIES,Indomie Carton,1,8100.0,10,,5.0,,1
+ORD100176,2025-09-19,CUST1193,32.0,Male,Lagos,WhatsApp,Home & Kitchen,Blender,2,27600.0,5,Pay on Delivery,3.0,3.0,0
+ORD100994,2025-07-13,CUST1244,32.0,Female,Enugu,Mobile App,Electronics,Power Bank,1,12900.0,0,Pay on Delivery,11.0,4.0,0
+ORD100440,2025-12-22,CUST1050,25.0,Female,Rivers,Mobile App,Electronics,Laptop,1,482500.0,0,Card,6.0,3.0,0
+ORD100521,2025-02-23,CUST1451,29.0,Female,Ogun,Physical Store,Home & Kitchen,Pressure Pot,1,37700.0,0,Card,0.0,3.0,1
+ORD101499,2025-11-04,CUST1371,24.0,Female,Lagos,Website,Home & Kitchen,Standing Fan,1,43700.0,10,Pay on Delivery,4.0,5.0,0
+ORD101004,2025-02-16,CUST1108,40.0,Female,Kano,WhatsApp,Groceries,Indomie Carton,4,9000.0,15,Card,7.0,5.0,0
+ORD101255,2025-01-31,CUST1119,28.0,Female,Kaduna,Mobile App,Electronics,Laptop,1,471600.0,0,Card,3.0,5.0,0
+ORD101234,2025-08-21,CUST1527,18.0,Female,Kaduna,WhatsApp,Electronics,Earbuds,3,15700.0,15,Card,7.0,3.0,0
+ORD100143,2025-11-05,CUST1382,41.0,Male,Lagos,WhatsApp,Electronics,Laptop,1,438800.0,0,Bank Transfer,4.0,,0
+ORD100753,2025-12-08,CUST1351,46.0,Male,Kano,Website,Home & Kitchen,Blender,1,28100.0,0,Pay on Delivery,6.0,,0
+ORD100519,2025-08-05,CUST1326,42.0,Female,Abuja,Website,Home & Kitchen,Standing Fan,3,43900.0,0,Bank Transfer,4.0,5.0,0
+ORD101322,2025-07-20,CUST1301,27.0,Male,Lagos,Mobile App,Groceries,Garri 10kg,250,9700.0,0,Bank Transfer,7.0,3.0,0
+ORD100822,2025-02-19,CUST1371,35.0,Male,Lagos,WhatsApp,Groceries,Garri 10kg,1,8700.0,0,Bank Transfer,6.0,3.0,0
+ORD100428,2025-01-10,CUST1457,35.0,Female,Ogun,WhatsApp,Beauty,Perfume,1,27800.0,10,Card,1.0,,0
+ORD100612,2025-10-14,CUST1258,38.0,Female,Anambra,Physical Store,Groceries,Vegetable Oil 5L,4,13400.0,10,Pay on Delivery,0.0,4.0,0
+ORD101032,2025-09-24,CUST1471,25.0,Male,Kano,Mobile App,Groceries,Vegetable Oil 5L,1,13700.0,5,Bank Transfer,7.0,5.0,1
+ORD100156,2025-02-16,CUST1313,42.0,Female,Kaduna,Website,Electronics,Laptop,1,471100.0,0,Bank Transfer,9.0,1.0,0
+ORD100539,2025-01-08,CUST1191,29.0,Female,Lagos,WhatsApp,Fashion,Sneakers,2,29600.0,5,Bank Transfer,8.0,3.0,0
+ORD101290,2025-03-27,CUST1120,30.0,Female,Lagos,Physical Store,Electronics,Earbuds,1,15200.0,10,Bank Transfer,0.0,4.0,0
+ORD100461,2025-02-21,CUST1304,26.0,Male,Enugu,Website,Home & Kitchen,Standing Fan,1,40600.0,10,Card,3.0,5.0,0
+ORD100576,2025-12-04,CUST1550,28.0,Male,Delta,WhatsApp,Home & Kitchen,Gas Cooker,1,69800.0,10,Bank Transfer,1.0,5.0,0
+ORD100255,2025-02-22,CUST1420,30.0,Female,Kano,Website,Home & Kitchen,Standing Fan,1,41800.0,0,Card,6.0,5.0,0
+ORD100979,2025-07-26,CUST1513,18.0,Male,lagos,Mobile App,Groceries,Vegetable Oil 5L,3,14200.0,10,Card,1.0,5.0,0
+ORD101185,2025-11-27,CUST1521,21.0,Female,Abuja FCT,Mobile App,Home & Kitchen,Blender,2,29300.0,10,Pay on Delivery,7.0,4.0,0
+ORD101006,2025-11-07,CUST1451,39.0,Female,Lagos,Mobile App,Fashion,Ankara Dress,1,18900.0,20,Pay on Delivery,8.0,5.0,0
+ORD100560,2025-07-15,CUST1590,20.0,Male,Abuja FCT,WhatsApp,Groceries,Garri 10kg,3,8600.0,5,Bank Transfer,8.0,5.0,0
+ORD100208,2025-04-07,CUST1117,39.0,Female,FCT,WhatsApp,Electronics,Laptop,3,482500.0,0,Card,3.0,4.0,0
+ORD100910,2025-10-09,CUST1474,0.0,Male,Kano,Website,Groceries,Indomie Carton,1,9000.0,15,Bank Transfer,5.0,3.0,0
+ORD101311,2025-05-08,CUST1500,30.0,Male,Lagos,Website,Home & Kitchen,Pressure Pot,1,36600.0,15,Pay on Delivery,6.0,,0
+ORD100001,2025-10-10,CUST1586,37.0,Male,Lagos,Website,Groceries,Rice 50kg,5,80400.0,5,Card,2.0,2.0,0
+ORD100269,2025-08-04,CUST1537,30.0,Female,Rivers,Website,Electronics,Smartphone,2,125100.0,0,Card,2.0,4.0,0
+ORD100265,2025-08-01,CUST1514,32.0,Female,Delta,Mobile App,Electronics,Bluetooth Speaker,250,26600.0,5,Pay on Delivery,3.0,5.0,0
+ORD100914,2025-08-05,CUST1236,40.0,Female,Lagos,Mobile App,Fashion,Agbada,2,53100.0,10,Pay on Delivery,8.0,5.0,0
+ORD100230,2025-06-19,CUST1270,32.0,Female,Delta,Website,Fashion,Ankara Dress,1,17400.0,10,USSD,5.0,4.0,0
+ORD101496,2025-07-21,CUST1498,31.0,Female,Lagos,WhatsApp,Fashion,Handbag,1,21200.0,0,Card,6.0,4.0,0
+ORD101119,2025-06-30,CUST1203,26.0,Male,Oyo,WhatsApp,Fashion,Sneakers,1,30200.0,15,Card,3.0,4.0,0
+ORD101491,2025-11-29,CUST1530,33.0,Female,Delta,Mobile App,Home & Kitchen,Pressure Pot,1,36000.0,15,Bank Transfer,5.0,4.0,0
+ORD100864,2025-11-05,CUST1524,34.0,Female,FCT,Mobile App,Beauty,Perfume,2,27800.0,0,Pay on Delivery,7.0,5.0,1
+ORD101066,2025-12-04,CUST1254,29.0,Female,Rivers,Physical Store,Fashion,Sneakers,3,30700.0,0,Pay on Delivery,0.0,4.0,0
+ORD100873,2025-11-15,CUST1406,18.0,Female,Lagos,Website,Electronics,Smartphone,2,122000.0,0,Bank Transfer,7.0,4.0,0
+ORD101358,2025-02-07,CUST1515,36.0,Female,Rivers,Physical Store,Fashion,Handbag,3,22300.0,0,,0.0,3.0,0
+ORD100398,2025-04-13,CUST1441,23.0,Male,Kaduna,Mobile App,Groceries,Garri 10kg,1,9500.0,5,Pay on Delivery,5.0,3.0,0
+ORD101384,2025-05-22,CUST1465,29.0,Male,Lagos,Mobile App,Home & Kitchen,Blender,2,29400.0,0,Bank Transfer,4.0,4.0,0
+ORD100045,2025-12-21,CUST1545,26.0,Male,Rivers,Mobile App,Beauty,Hair Extensions,1,32700.0,20,Pay on Delivery,3.0,4.0,0
+ORD100161,2025-08-31,CUST1004,19.0,Female,Rivers,Mobile App,Beauty,Shea Butter Set,2,10000.0,10,USSD,4.0,4.0,0
+ORD100991,2025-07-20,CUST1143,19.0,Female,Kano,Mobile App,Fashion,Sneakers,3,30000.0,20,Pay on Delivery,3.0,4.0,0
+ORD100727,2025-02-02,CUST1516,40.0,Male,Lagos,Physical Store,Electronics,Earbuds,1,15800.0,15,Bank Transfer,0.0,4.0,0
+ORD100629,2025-05-14,CUST1391,36.0,Female,Abuja FCT,Mobile App,Electronics,Laptop,1,483700.0,0,Bank Transfer,3.0,3.0,0
+ORD100288,2025-07-17,CUST1286,30.0,Male,Anambra,Website,Electronics,Earbuds,1,14700.0,15,Bank Transfer,6.0,4.0,0
+ORD101059,2025-11-09,CUST1222,19.0,Female,Lagos,Mobile App,Home & Kitchen,Blender,3,29300.0,20,Card,5.0,,0
+ORD101479,2025-06-02,CUST1394,46.0,Male,Oyo,Physical Store,Beauty,Hair Extensions,1,32300.0,10,Pay on Delivery,0.0,5.0,0
+ORD100575,2025-05-17,CUST1025,38.0,Female,Abuja FCT,Physical Store,Fashion,Ankara Dress,1,19200.0,0,Card,0.0,5.0,0
+ORD100850,2025-12-24,CUST1362,31.0,Female,Delta,Website,Fashion,Sneakers,2,31300.0,5,Card,3.0,2.0,1
+ORD101339,2025-05-29,CUST1565,37.0,Male,Lagos,Website,Home & Kitchen,Blender,2,28700.0,5,USSD,4.0,,0
+ORD100911,2025-03-08,CUST1581,32.0,Female,Delta,Physical Store,Fashion,Sneakers,3,31300.0,0,Card,0.0,3.0,0
+ORD101254,2025-11-09,CUST1269,52.0,Female,Kaduna,Mobile App,Home & Kitchen,Blender,1,29000.0,0,Card,3.0,4.0,0
+ORD101377,2025-10-02,CUST1096,38.0,Male,Oyo,Mobile App,Electronics,Power Bank,1,12300.0,0,Bank Transfer,3.0,5.0,0
+ORD100932,2025-04-04,CUST1512,35.0,Female, kano ,Mobile App,Groceries,Vegetable Oil 5L,1,12900.0,15,Card,4.0,1.0,0
+ORD101100,2025-06-25,CUST1479,44.0,Female,Rivers,WhatsApp,Fashion,Handbag,2,23000.0,5,Pay on Delivery,2.0,5.0,0
+ORD101207,2025-11-20,CUST1147,20.0,Female,Lagos,Website,Electronics,Earbuds,2,15900.0,20,USSD,1.0,3.0,0
+ORD100247,2025-11-16,CUST1248,52.0,Female,Abuja FCT,Physical Store,Home & Kitchen,Standing Fan,1,41200.0,20,Pay on Delivery,0.0,3.0,0
+ORD100476,2025-11-06,CUST1265,34.0,Female,Lagos,Physical Store,Home & Kitchen,Gas Cooker,1,65500.0,5,Card,0.0,2.0,1
+ORD100085,2025-09-13,CUST1131,28.0,Female,Lagos,WhatsApp,Fashion,Handbag,1,21500.0,0,Pay on Delivery,4.0,,0
+ORD100469,2025-12-19,CUST1293,34.0,Female,Lagos,Website,Beauty,Shea Butter Set,1,9200.0,0,Bank Transfer,5.0,5.0,0
+ORD100225,2025-04-22,CUST1124,26.0,Male,Lagos,Website,Home & Kitchen,Blender,3,27000.0,20,Bank Transfer,4.0,5.0,0
+ORD100774,2025-11-05,CUST1153,38.0,Female,Lagos,WhatsApp,Home & Kitchen,Standing Fan,2,42800.0,0,Card,5.0,3.0,0
+ORD100331,2025-05-16,CUST1420,22.0,Male,Enugu,Mobile App,Electronics,Bluetooth Speaker,2,25300.0,15,Bank Transfer,3.0,4.0,0
+ORD100233,2025-10-04,CUST1223,29.0,Male,Kaduna,Mobile App,Electronics,Smartphone,1,117100.0,0,Bank Transfer,7.0,5.0,0
+ORD100588,2025-11-02,CUST1132,44.0,Male,Lagos,Website,Home & Kitchen,Pressure Pot,1,34100.0,10,Card,4.0,3.0,0
+ORD100475,2025-10-14,CUST1552,47.0,Female,Lagos,Physical Store,Fashion,Ankara Dress,1,19200.0,20,Card,0.0,5.0,0
+ORD101284,2025-12-05,CUST1151,48.0,Female,Lagos,Physical Store,Beauty,Shea Butter Set,1,9500.0,0,Card,0.0,2.0,0
+ORD100599,2025-11-18,CUST1597,27.0,Female,Lagos,Physical Store,Fashion,Sneakers,3,28700.0,10,USSD,0.0,4.0,0
+ORD100421,2025-09-11,CUST1597,30.0,Male,Rivers,Website,Fashion,Sneakers,3,29400.0,5,USSD,5.0,3.0,0
+ORD100182,2025-07-01,CUST1268,34.0,Male,rivers,Physical Store,Fashion,Ankara Dress,1,17100.0,0,USSD,0.0,2.0,0
+ORD100988,2025-03-31,CUST1522,18.0,Male,lagos,WhatsApp,Beauty,Shea Butter Set,1,9400.0,15,USSD,4.0,3.0,0
+ORD101000,2025-10-23,CUST1536,18.0,Female, Anambra ,Website,Groceries,Indomie Carton,1,8200.0,0,Pay on Delivery,3.0,5.0,0
+ORD101356,2025-05-06,CUST1361,27.0,Female,Lagos,Mobile App,Beauty,Perfume,1,25300.0,5,Card,7.0,5.0,0
+ORD100049,2025-10-12,CUST1405,29.0,Male,Lagos,Website,Electronics,Smartphone,3,127200.0,0,Card,2.0,4.0,0
+ORD101421,2025-12-30,CUST1475,18.0,Female,Oyo,Physical Store,Electronics,Earbuds,2,16000.0,5,Pay on Delivery,0.0,5.0,0
+ORD101029,2025-05-02,CUST1441,38.0,Female,Kaduna,Physical Store,Beauty,Hair Extensions,3,32600.0,20,USSD,0.0,4.0,0
+ORD100529,2025-12-03,CUST1499,35.0,Female,Kaduna,Website,Fashion,Handbag,2,23100.0,0,Card,5.0,4.0,0
+ORD101258,2025-07-17,CUST1024,32.0,Male,Anambra,WhatsApp,Beauty,Shea Butter Set,3,10200.0,10,Bank Transfer,3.0,4.0,0
+ORD100486,2025-05-02,CUST1008,21.0,Female,Abuja,Mobile App,Groceries,Rice 50kg,3,82200.0,20,Card,7.0,5.0,0
+ORD101477,2025-11-10,CUST1242,45.0,Male,Lagos,Website,Electronics,Earbuds,2,15700.0,20,Bank Transfer,1.0,,1
+ORD100497,2025-05-17,CUST1386,,Male,Lagos,Physical Store,Home & Kitchen,Gas Cooker,1,66100.0,5,Pay on Delivery,0.0,4.0,0
+ORD100106,2025-10-12,CUST1576,29.0,Female,Lagos,WhatsApp,Fashion,Sneakers,1,31200.0,15,Card,2.0,2.0,0
+ORD100443,2025-06-28,CUST1235,32.0,Female,Kano,Website,Fashion,Sneakers,1,31400.0,0,Bank Transfer,5.0,5.0,0
+ORD100646,2025-06-18,CUST1270,34.0,Male,FCT,Website,Fashion,Agbada,1,56800.0,0,Bank Transfer,5.0,3.0,0
+ORD101036,2025-11-26,CUST1555,22.0,Female,Oyo,Physical Store,Fashion,Sneakers,1,28600.0,10,Pay on Delivery,0.0,3.0,0
+ORD100726,2025-09-21,CUST1342,32.0,Female,Kano,Website,Beauty,Hair Extensions,1,32200.0,15,Bank Transfer,3.0,4.0,0
+ORD100190,2025-09-07,CUST1477,,Female,Kaduna,WhatsApp,Electronics,Laptop,1,446200.0,15,Card,5.0,5.0,0
+ORD100282,2025-09-02,CUST1353,23.0,Male,Lagos,Website,Electronics,Power Bank,1,12100.0,0,Card,4.0,5.0,0
+ORD100029,2025-06-11,CUST1402,27.0,Female,Kaduna,Website,Fashion,Handbag,3,21900.0,0,Card,6.0,4.0,0
+ORD100169,2025-01-09,CUST1155,24.0,Female,rivers,Website,Groceries,Vegetable Oil 5L,5,14400.0,0,Card,-1.0,5.0,0
+ORD101001,2025-09-26,CUST1409,38.0,Female,Lagos,Website,Fashion,Sneakers,3,30700.0,20,Card,1.0,,0
+ORD101204,2025-08-26,CUST1083,23.0,Male,Enugu,Mobile App,Home & Kitchen,Blender,3,29700.0,0,Bank Transfer,8.0,3.0,0
+ORD100100,2025-10-31,CUST1548,19.0,Male,Delta,Physical Store,Beauty,Shea Butter Set,2,10000.0,0,Bank Transfer,0.0,4.0,0
+ORD100197,2025-02-13,CUST1441,31.0,Male,Kaduna,WhatsApp,ELECTRONICS,Bluetooth Speaker,1,24400.0,0,Card,5.0,3.0,0
+ORD100495,2025-05-31,CUST1085,35.0,Male,Delta,Mobile App,Home & Kitchen,Gas Cooker,3,64000.0,20,USSD,2.0,3.0,0
+ORD100647,2025-07-15,CUST1433,43.0,Male,FCT,Website,Fashion,Ankara Dress,1,17200.0,20,Pay on Delivery,1.0,5.0,0
+ORD100987,2025-04-26,CUST1453,28.0,Female,Kano,WhatsApp,Fashion,Agbada,1,56100.0,0,Bank Transfer,10.0,3.0,1
+ORD100044,2025-11-27,CUST1119,29.0,Male,Oyo,WhatsApp,Home & Kitchen,Pressure Pot,1,33400.0,0,Pay on Delivery,2.0,4.0,0
+ORD100710,2025-09-05,CUST1261,38.0,Male,Kano,Website,Home & Kitchen,Pressure Pot,1,36300.0,15,USSD,6.0,3.0,0
+ORD100373,2025-05-17,CUST1227,40.0,Female,Anambra,WhatsApp,Electronics,Earbuds,3,14600.0,0,Pay on Delivery,3.0,3.0,0
+ORD100678,2025-07-10,CUST1063,18.0,Female,Rivers,Mobile App,Electronics,Power Bank,3,11600.0,15,Card,3.0,4.0,0
+ORD100566,2025-03-25,CUST1393,18.0,Female,Anambra,Physical Store,Home & Kitchen,Pressure Pot,3,37400.0,15,Pay on Delivery,0.0,4.0,0
+ORD100847,2025-01-19,CUST1506,31.0,Male,Kaduna,Mobile App,Groceries,Indomie Carton,1,9000.0,15,Card,3.0,4.0,0
+ORD100460,2025-09-22,CUST1160,38.0,Male,Kano,WhatsApp,Fashion,Agbada,1,57100.0,5,Card,8.0,3.0,0
+ORD101155,2025-08-03,CUST1146,37.0,Female,Lagos,Mobile App,Electronics,Power Bank,1,11800.0,0,Bank Transfer,2.0,4.0,0
+ORD100039,2025-08-19,CUST1247,20.0,Female,Anambra,Website,Groceries,Indomie Carton,1,8900.0,0,Pay on Delivery,4.0,5.0,0
+ORD100434,2025-06-08,CUST1179,46.0,Female,Lagos,Website,Electronics,Smartphone,2,121400.0,15,USSD,3.0,5.0,0
+ORD100973,2025-06-23,CUST1038,42.0,Male,FCT,WhatsApp,Electronics,Earbuds,1,14300.0,15,Card,2.0,5.0,0
+ORD101239,2025-01-15,CUST1289,28.0,Female,Anambra,Physical Store,Groceries,Garri 10kg,5,9100.0,0,Pay on Delivery,0.0,3.0,0
+ORD101007,2025-07-03,CUST1449,18.0,Male,Lagos,Physical Store,Electronics,Laptop,3,468600.0,5,Pay on Delivery,0.0,4.0,0
+ORD100456,2025-02-24,CUST1543,30.0,Male,Rivers,Website,Beauty,Perfume,1,27600.0,10,Bank Transfer,5.0,5.0,0
+ORD100260,2025-10-17,CUST1457,25.0,Male,Lagos,Website,Electronics,Bluetooth Speaker,2,24700.0,0,USSD,1.0,3.0,0
+ORD100035,2025-01-24,CUST1257,31.0,Female,Kano,Website,Groceries,Indomie Carton,4,8800.0,10,Pay on Delivery,8.0,,0
+ORD100827,2025-11-24,CUST1217,37.0,Female,Lagos,WhatsApp,Fashion,Sneakers,2,31000.0,0,Pay on Delivery,2.0,4.0,0
+ORD100309,2025-02-09,CUST1209,18.0,Female,Abuja,Physical Store,Electronics,Power Bank,1,11800.0,10,USSD,0.0,5.0,0
+ORD100276,2025-06-20,CUST1133,46.0,Male,Rivers,WhatsApp,Fashion,Handbag,3,23200.0,10,Bank Transfer,5.0,2.0,0
+ORD100636,2025-03-27,CUST1341,43.0,Female, Rivers ,Website,Home & Kitchen,Pressure Pot,1,35700.0,0,USSD,4.0,4.0,0
+ORD100654,2025-07-21,CUST1041,49.0,Male,Rivers,Physical Store,Fashion,Ankara Dress,1,17900.0,20,Card,0.0,5.0,0
+ORD100622,2025-03-02,CUST1588,47.0,Male,Rivers,Website,Fashion,Sneakers,1,31400.0,15,Pay on Delivery,1.0,4.0,0
+ORD100844,2025-01-02,CUST1430,42.0,Male,Rivers,Website,Beauty,Hair Extensions,1,33000.0,0,Card,4.0,3.0,0
+ORD100393,2025-08-07,CUST1111,23.0,Female,Lagos,Website,Electronics,Laptop,1,451600.0,15,Pay on Delivery,5.0,2.0,0
+ORD100107,2025-08-31,CUST1247,39.0,Male,Abuja FCT,Website,Groceries,Rice 50kg,4,83400.0,15,Bank Transfer,7.0,5.0,0
+ORD100349,2025-03-02,CUST1422,37.0,Female,Lagos,Mobile App,Fashion,Handbag,3,22700.0,0,Pay on Delivery,3.0,4.0,0
+ORD100524,2025-04-27,CUST1214,35.0,Female,Kaduna,WhatsApp,Groceries,Rice 50kg,1,79700.0,20,Card,4.0,4.0,0
+ORD100784,2025-12-30,CUST1206,37.0,Male,Abuja FCT,Mobile App,Groceries,Indomie Carton,4,8700.0,0,Bank Transfer,5.0,4.0,0
+ORD100047,2025-11-22,CUST1303,28.0,Female,Lagos,Website,Groceries,Indomie Carton,3,9000.0,0,Pay on Delivery,4.0,3.0,0
+ORD100203,2025-09-13,CUST1188,38.0,Male,oyo,Physical Store,Groceries,Vegetable Oil 5L,4,14100.0,0,Pay on Delivery,0.0,5.0,0
+ORD100021,16/05/2025,CUST1267,46.0,Male,Rivers,Website,Home & Kitchen,Pressure Pot,1,36200.0,5,Card,7.0,4.0,1
+ORD100402,2025-12-08,CUST1599,26.0,Female,Delta,Physical Store,Groceries,Garri 10kg,3,9500.0,10,Bank Transfer,0.0,4.0,0
+ORD101107,2025-11-28,CUST1069,,Male, Lagos ,Mobile App,Home & Kitchen,Pressure Pot,1,35800.0,15,Card,1.0,3.0,0
+ORD101154,2025-04-22,CUST1384,33.0,Female,Delta,WhatsApp,Groceries,Garri 10kg,2,9500.0,10,Bank Transfer,5.0,3.0,0
+ORD101439,2025-12-15,CUST1506,42.0,Female,Enugu,Website,Fashion,Handbag,2,22100.0,0,Card,6.0,2.0,0
+ORD100989,2025-10-15,CUST1568,27.0,Male,Kano,Physical Store,Beauty,Hair Extensions,3,33200.0,0,,0.0,4.0,0
+ORD100741,2025-10-06,CUST1597,50.0,Female,Delta,Website,Electronics,Smartphone,1,118500.0,15,Bank Transfer,3.0,5.0,0
+ORD101310,2025-07-11,CUST1508,35.0,Male, Oyo ,WhatsApp,Groceries,Vegetable Oil 5L,1,13300.0,5,Bank Transfer,1.0,5.0,0
+ORD101147,2025-10-08,CUST1371,29.0,Female,Lagos,Physical Store,Groceries,Vegetable Oil 5L,3,13200.0,10,Pay on Delivery,0.0,4.0,0
+ORD100033,2025-07-22,CUST1188,44.0,Male,Lagos,Mobile App,Electronics,Earbuds,1,14400.0,5,Card,4.0,3.0,0
+ORD100787,08/09/2025,CUST1512,37.0,Male,Enugu,Mobile App,Electronics,Bluetooth Speaker,1,25000.0,10,Pay on Delivery,5.0,3.0,0
+ORD100923,2025-02-22,CUST1291,24.0,Male,Abuja,Website,Beauty,Hair Extensions,1,30600.0,0,Bank Transfer,5.0,1.0,0
+ORD101043,2025-05-16,CUST1516,42.0,Female,Abuja FCT,Website,Beauty,Perfume,3,27600.0,5,Bank Transfer,3.0,4.0,0
+ORD101462,2025-01-18,CUST1334,30.0,Male,Oyo,Physical Store,Fashion,Handbag,1,22200.0,0,Pay on Delivery,0.0,5.0,0
+ORD101243,2025-11-28,CUST1189,40.0,Male,Anambra,Mobile App,Groceries,Rice 50kg,1,77700.0,10,USSD,5.0,2.0,0
+ORD100579,2025-02-07,CUST1044,39.0,Female,Kano,Physical Store,Electronics,Earbuds,1,14900.0,15,Bank Transfer,0.0,5.0,0
+ORD100481,2025-10-30,CUST1348,36.0,Male,Lagos,Mobile App,Groceries,Rice 50kg,2,75100.0,0,Card,4.0,3.0,0
+ORD100931,2025-09-13,CUST1508,20.0,Female,Oyo,Website,Groceries,Garri 10kg,3,9500.0,20,USSD,4.0,4.0,0
+ORD100356,2025-12-21,CUST1024,23.0,Male,Oyo,Website,Groceries,Vegetable Oil 5L,2,13200.0,0,Bank Transfer,9.0,3.0,0
+ORD101248,2025-04-29,CUST1231,26.0,Female,Lagos,Physical Store,Electronics,Bluetooth Speaker,1,26000.0,10,Card,0.0,5.0,0
+ORD100759,2025-09-24,CUST1264,45.0,Male,Rivers,Website,Electronics,Earbuds,2,15300.0,10,Bank Transfer,6.0,4.0,0
+ORD100092,2025-11-04,CUST1267,34.0,Female,Kaduna,WhatsApp,Home & Kitchen,Blender,1,27400.0,20,USSD,5.0,4.0,0
+ORD101175,2025-11-17,CUST1495,25.0,Male,Lagos,WhatsApp,Groceries,Rice 50kg,5,81200.0,20,Card,3.0,5.0,0
+ORD101415,2025-10-14,CUST1351,30.0,Female,Oyo,WhatsApp,Home & Kitchen,Gas Cooker,2,65400.0,0,Pay on Delivery,6.0,5.0,0
+ORD101341,2025-02-19,CUST1423,37.0,Male,Lagos,Website,Electronics,Earbuds,1,14600.0,15,Card,2.0,3.0,0
+ORD100803,2025-12-02,CUST1450,49.0,Female,Lagos,WhatsApp,Electronics,Earbuds,1,15100.0,5,Bank Transfer,2.0,4.0,0
+ORD100745,2025-05-13,CUST1146,37.0,Male,Kaduna,Physical Store,Groceries,Vegetable Oil 5L,1,13900.0,5,Pay on Delivery,0.0,4.0,0
+ORD100279,2025-01-31,CUST1103,,Female,Anambra,Website,Electronics,Earbuds,1,15000.0,0,Bank Transfer,2.0,5.0,0
+ORD100764,2025-05-12,CUST1435,,Male,Kaduna,Physical Store,Electronics,Earbuds,3,14400.0,0,Card,0.0,3.0,0
+ORD100604,2025-10-29,CUST1079,35.0,Male,Kano,Mobile App,Beauty,Perfume,1,25300.0,5,Pay on Delivery,7.0,5.0,0
+ORD100774,2025-11-05,CUST1153,38.0,Female,Lagos,WhatsApp,Home & Kitchen,Standing Fan,2,42800.0,0,Card,5.0,3.0,0
+ORD101373,2025-06-03,CUST1356,50.0,Female,Lagos,WhatsApp,ELECTRONICS,Laptop,3,454000.0,20,Pay on Delivery,6.0,4.0,0
+ORD101398,2025-01-10,CUST1541,38.0,Female,Enugu,Website,Electronics,Laptop,1,433000.0,5,Bank Transfer,3.0,5.0,0
+ORD100400,2025-12-31,CUST1162,26.0,Female,Rivers,Website,Electronics,Bluetooth Speaker,1,24700.0,0,Bank Transfer,5.0,5.0,0
+ORD100257,2025-02-07,CUST1330,34.0,Female,Lagos,Website,Fashion,Handbag,3,21200.0,10,Card,4.0,,0
+ORD100944,17/02/2025,CUST1431,38.0,Male,Lagos,Mobile App,Electronics,Earbuds,2,15800.0,5,Pay on Delivery,7.0,4.0,0
+ORD101096,2025-11-01,CUST1204,53.0,Male,Kano,Mobile App,Groceries,Vegetable Oil 5L,2,14000.0,10,Card,7.0,5.0,0
+ORD101219,2025-06-10,CUST1485,29.0,Male,Lagos,Website,Groceries,Indomie Carton,4,8400.0,5,Bank Transfer,6.0,4.0,0
+ORD101161,2025-07-02,CUST1414,31.0,Female,Lagos,Mobile App,Fashion,Agbada,2,52500.0,0,Card,3.0,4.0,1
+ORD100494,2025-04-16,CUST1160,48.0,Male,Kano,Mobile App,Electronics,Laptop,1,445400.0,5,Bank Transfer,6.0,5.0,0
+ORD100772,2025-01-02,CUST1271,39.0,Female,Kano,Physical Store,Groceries,Rice 50kg,2,81700.0,0,Card,0.0,5.0,0
+ORD100550,2025-10-21,CUST1297,24.0,Female,Kano,Website,Home & Kitchen,Standing Fan,1,43200.0,0,USSD,6.0,4.0,0
+ORD101486,2025-03-01,CUST1387,,Male,Ogun,Website,Home & Kitchen,Blender,1,29500.0,10,Pay on Delivery,6.0,2.0,0
+ORD100201,2025-11-28,CUST1131,,Male,Delta,Website,Beauty,Perfume,2,24900.0,0,Card,4.0,4.0,0
+ORD100312,2025-02-13,CUST1496,,Female,Lagos,Physical Store,Groceries,Indomie Carton,1,8800.0,0,USSD,0.0,,0
+ORD100290,2025-11-12,CUST1513,40.0,Male,Oyo,Website,Fashion,Agbada,1,54900.0,5,Card,6.0,5.0,0
+ORD101213,2025-11-13,CUST1597,29.0,Female,Kaduna,Website,Electronics,Power Bank,2,11800.0,0,Bank Transfer,6.0,5.0,0
+ORD100763,2025-12-08,CUST1217,36.0,Female,Oyo,Website,Electronics,Bluetooth Speaker,3,24500.0,5,Pay on Delivery,6.0,,0
+ORD101136,2025-09-22,CUST1598,31.0,Male,Abuja,Physical Store,Groceries,Vegetable Oil 5L,2,14000.0,20,Pay on Delivery,0.0,5.0,0
+ORD100949,2025-04-12,CUST1339,27.0,Female,Rivers,Mobile App,Fashion,Agbada,2,56300.0,0,Pay on Delivery,4.0,5.0,0
+ORD100183,2025-09-12,CUST1190,37.0,Male,Oyo,Mobile App,Electronics,Power Bank,3,11500.0,0,Pay on Delivery,9.0,3.0,1
+ORD101176,2025-04-26,CUST1395,,Male,Lagos,Website,Groceries,Indomie Carton,1,9000.0,0,Card,4.0,3.0,0
+ORD101349,2025-08-06,CUST1356,43.0,Female,Ogun,Mobile App,Home & Kitchen,Blender,1,27800.0,0,Bank Transfer,2.0,3.0,0
+ORD101068,2025-05-02,CUST1201,22.0,Male,Delta,WhatsApp,Beauty,Perfume,1,27500.0,0,Bank Transfer,4.0,4.0,0
+ORD101468,2025-10-11,CUST1368,34.0,Female,Abuja,WhatsApp,Beauty,Perfume,1,25100.0,5,Card,5.0,4.0,0
+ORD101030,2025-06-27,CUST1212,33.0,Female,Kaduna,Physical Store,Groceries,Vegetable Oil 5L,4,13500.0,5,Pay on Delivery,0.0,2.0,0
+ORD100250,2025-11-03,CUST1163,25.0,Male,Kaduna,Website,Beauty,Shea Butter Set,1,9300.0,15,Bank Transfer,6.0,,1
+ORD100823,2025-08-26,CUST1574,35.0,Female,FCT,WhatsApp,Electronics,Laptop,1,483200.0,0,USSD,4.0,4.0,1
+ORD101099,2025-06-08,CUST1083,47.0,Female,Kaduna,Website,Beauty,Shea Butter Set,1,9900.0,0,Pay on Delivery,5.0,2.0,0
+ORD100940,10/09/2025,CUST1508,32.0,Female,Lagos,Mobile App,Electronics,Earbuds,1,14500.0,0,Bank Transfer,3.0,4.0,0
+ORD100391,2025-03-07,CUST1587,39.0,Female,Kaduna,Physical Store,Groceries,Vegetable Oil 5L,1,13600.0,0,Pay on Delivery,0.0,4.0,0
+ORD101456,2025-12-26,CUST1436,35.0,Male,Abuja,WhatsApp,Electronics,Power Bank,1,12000.0,15,USSD,2.0,2.0,0
+ORD101092,2025-11-04,CUST1404,27.0,Female,Lagos,WhatsApp,Home & Kitchen,Pressure Pot,2,35300.0,0,Card,5.0,,0
+ORD101191,2025-04-12,CUST1467,18.0,Female,Abuja,Physical Store,Home & Kitchen,Standing Fan,3,45200.0,5,Pay on Delivery,0.0,5.0,0
+ORD100904,2025-06-17,CUST1022,26.0,Female,Lagos,Mobile App,Fashion,Handbag,2,22400.0,15,Card,1.0,4.0,0
+ORD100730,2025-09-24,CUST1076,27.0,Male,Kano,Mobile App,Beauty,Shea Butter Set,2,10200.0,5,Bank Transfer,3.0,4.0,0
+ORD100554,2025-12-26,CUST1541,48.0,Male,Rivers,WhatsApp,Fashion,Sneakers,1,29500.0,0,Pay on Delivery,7.0,5.0,0
+ORD100366,2025-06-21,CUST1051,32.0,Female,Abuja FCT,Mobile App,Groceries,Indomie Carton,1,8300.0,0,Card,4.0,,0
+ORD100345,2025-04-04,CUST1409,,Female,Lagos,WhatsApp,Groceries,Indomie Carton,3,8700.0,10,Bank Transfer,2.0,4.0,0
+ORD100535,2025-02-26,CUST1035,39.0,Male,Ogun,Website,Home & Kitchen,Standing Fan,1,41700.0,5,Pay on Delivery,2.0,,0
+ORD101422,2025-08-03,CUST1518,29.0,Male,Rivers,Physical Store,Groceries,Indomie Carton,4,9000.0,0,Card,0.0,4.0,0
+ORD101209,2025-12-18,CUST1369,35.0,Female,Ogun,Physical Store,Electronics,Laptop,3,468000.0,0,Bank Transfer,0.0,3.0,0
+ORD101372,2025-06-14,CUST1376,23.0,Female,Kaduna,Physical Store,Groceries,Indomie Carton,2,8300.0,0,Card,0.0,5.0,0
+ORD100919,2025-08-21,CUST1453,28.0,Male,Kano,Website,Fashion,Ankara Dress,3,17800.0,10,Card,3.0,3.0,0
+ORD100211,2025-09-19,CUST1383,18.0,Male,Lagos,WhatsApp,Groceries,Rice 50kg,1,79200.0,0,Bank Transfer,5.0,,0
+ORD100502,2025-12-08,CUST1167,18.0,Male,Anambra,WhatsApp,Electronics,Smartphone,1,125700.0,10,Card,6.0,4.0,0
+ORD100537,2025-02-12,CUST1174,36.0,Female,Lagos,WhatsApp,Groceries,Rice 50kg,2,84200.0,0,Card,3.0,4.0,0
+ORD101220,2025-08-26,CUST1429,34.0,Male,Oyo,WhatsApp,Electronics,Power Bank,1,12900.0,5,Bank Transfer,1.0,2.0,0
+ORD100175,2025-06-18,CUST1577,34.0,Female,Lagos,Mobile App,Electronics,Power Bank,3,12200.0,5,Card,2.0,,0
